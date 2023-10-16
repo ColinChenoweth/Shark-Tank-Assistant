@@ -1,8 +1,22 @@
 import numpy as np
+import pandas as pd
 
 def get_data():
     #features: industry, pitchers gender, pitchers city, pitchers state, pitchers average age, US Viewwership, Original Ask Amount, Original Offered Equity, Valuation Requested
     #classification: got deal
     #return x_train, y_train, x_test, y_test
     #make sure to set random seed and shuffle (so shuffles the same everytime
-    return
+    df = pd.read_csv("Data/SharkTankUSdataset.csv")
+    print(df)
+    
+    feature_columns = ['industry', 'pitchers gender', 'pitchers city', 'pitchers state',
+                        'pitchers average age', 'US Viewwership', 'Original Ask Amount',
+                        'Original Offered Equity', 'Valuation Requested', 'Got Deal']
+    
+    df_filtered = df[feature_columns]
+    X = df_filtered.drop('Got Deal', axis=1)
+    y = df_filtered['Got Deal']
+    
+    x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, shuffle=True)
+    
+    return x_train, y_train, x_test, y_test
