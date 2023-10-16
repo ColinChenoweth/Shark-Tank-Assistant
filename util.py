@@ -22,3 +22,6 @@ def get_data():
     x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, shuffle=True)
     
     return x_train, y_train, x_test, y_test
+
+def print_metrics(y_pred, y):
+    return
