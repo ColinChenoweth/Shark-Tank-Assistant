@@ -9,8 +9,8 @@ def get_data():
     df = pd.read_csv("Data/SharkTankUSdataset.csv")
     print(df)
     
-    feature_columns = ['industry', 'pitchers gender', 'pitchers city', 'pitchers state',
-                        'pitchers average age', 'US Viewwership', 'Original Ask Amount',
+    feature_columns = ['Industry', 'Pitchers Gender', 'Pitchers City', ' Pitchers State',
+                        ' Pitchers Average Age', ' US Viewership', 'Original Ask Amount',
                         'Original Offered Equity', 'Valuation Requested', 'Got Deal']
     
     df_filtered = df[feature_columns]
