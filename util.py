@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+from sklearn.model_selection import train_test_split
 
 def get_data():
     #features: industry, pitchers gender, pitchers city, pitchers state, pitchers average age, US Viewwership, Original Ask Amount, Original Offered Equity, Valuation Requested
@@ -7,10 +8,9 @@ def get_data():
     #return x_train, y_train, x_test, y_test
     #make sure to set random seed and shuffle (so shuffles the same everytime
     df = pd.read_csv("Data/SharkTankUSdataset.csv")
-    print(df)
     
-    feature_columns = ['Industry', 'Pitchers Gender', 'Pitchers City', ' Pitchers State',
-                        ' Pitchers Average Age', ' US Viewership', 'Original Ask Amount',
+    feature_columns = ['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State',
+                        'Pitchers Average Age', 'US Viewership', 'Original Ask Amount',
                         'Original Offered Equity', 'Valuation Requested', 'Got Deal']
     
     df_filtered = df[feature_columns]
