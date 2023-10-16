@@ -1,0 +1,144 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: rgb(0, 0, 0);
+  font-family: 'Anton';
+  font-size: 18px;
+  line-height: 1.8em;
+}
+
+.scrollButton {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 99; 
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: rgba(17, 17, 17, 0.664);
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+
+  transition-duration: 0.4s;
+
+}
+
+#rain {
+  top: 80px;
+}
+
+
+.scrollButton:hover {
+  opacity: .5;
+}
+
+audio { 
+  display:none;
+}
+
+.simg1,
+.simg2,
+.simg3,
+.simg4,
+.rimg1,
+.rimg2,
+.rimg3,
+.rimg4 {
+  position: relative;
+  opacity: 0.7;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.simg1 {
+  background-image: url('https://images.unsplash.com/photo-1593544737805-4ec50543564b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80');
+  min-height: 100%;
+}
+
+.simg2 {
+  background-image: url('https://images.unsplash.com/photo-1560275619-4662e36fa65c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2hhcmslMjB0YW5rfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60');
+  min-height: 500px;
+}
+
+.simg3 {
+  background-image: url('https://images.unsplash.com/photo-1556327823-18e5ff0bf953?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNoYXJrJTIwdGFua3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60');
+  min-height: 500px;
+}
+
+.simg4 {
+  background-image: url('https://image.cnbcfm.com/api/v1/image/104121665-GettyImages-612459410.jpg?v=1571071004&w=1600&h=900');
+  min-height: 500px;
+}
+
+.rimg1 {
+  background-image: url('https://t4.ftcdn.net/jpg/02/62/17/49/360_F_262174953_wob2JN075TWTPTQbHNFr8AAJNM8K3Zgp.jpg');
+  min-height: 100%;
+}
+
+
+.rimg2 {
+  background-image: url('https://t3.ftcdn.net/jpg/03/54/00/74/360_F_354007466_mm4QilA3n92YWPseqs82gbWxbb06R1i4.jpg');
+  min-height: 500px;
+}
+
+.rimg3 {
+  background-image: url('https://res.cloudinary.com/dg5ir1kvd/image/fetch/f_auto,fl_advanced_resize%2Cc_fill%2Cg_auto%2Cw_2048%2Ch_709/https://www.ccu.edu/_files/images/cags/programs/data-analytics-degree.jpg%3Fv%3D1694466800195');
+  min-height: 500px;
+}
+
+.section {
+  text-align: center;
+  padding: 50px 80px;
+}
+
+.section-shark {
+  background: linear-gradient(to bottom, #ecd4ff 0%, rgb(255, 231, 232) 100%);
+  background-repeat: no-repeat;
+  color: rgb(102, 102, 119);
+}
+
+.section-divider {
+  background: rgb(90, 90, 90);
+}
+
+.section-analytics {
+  background-image: linear-gradient(to top, #ace0f9 0%, #fff1eb 100%);
+  background-repeat: no-repeat;
+  color: rgb(102, 102, 119);
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  font-size: 30px;
+  letter-spacing: 8px;
+  font-family: 'Anton';
+}
+
+.ptext .border {
+  background-color: rgba(17, 17, 17, 0.664);
+  color: #fff;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+@media(max-width:568px) {
+  .pimg1,
+  .pimg2,
+  .pimg3 {
+    background-attachment: scroll;
+  }
+}

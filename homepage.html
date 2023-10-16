@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="Style.css">
+    <title>Shark Tank Assistant</title>
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+</head>
+
+<body>
+    <div>
+        <audio controls autoplay>
+            <source src="SharkTank - Walking.mp3" type="audio/mpeg"> Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <div id="buttons">
+        <button class="scrollButton" onclick="homeFunction()" id="home" title="Go to home section">H</button>
+        <button class="scrollButton" onclick="analyticsFunction()" id="rain" title="Go to analytics section">A</button>
+    </div>
+
+    <script>
+        document.getElementById("shark").style.display = "block";
+
+        // When the user clicks on the button, scroll to the top of the document
+        function homeFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+
+        // When the user clicks on the button, scroll to the rain page of the document
+        function analyticsFunction() {
+            // document.body.scrollTop = 1000;
+            // document.documentElement.scrollTop = 1000;
+            document.getElementById('analyticsSection').scrollIntoView();
+        }
+    </script>
+
+
+
+    <div class="simg1">
+        <div class="ptext">
+            <span class="border">
+                Shark Tank Assistant
+            </span>
+        </div>
+    </div>
+
+    <section class="section section-shark">
+        <h2>
+            <b>Unlock Your Potential</b>
+        </h2>
+        <p>
+            <i>"We're here to help you succeed on Shark Tank and similar shows worldwide. Whether you're a budding entrepreneur or an experienced shark, our application empowers you with valuable insights.
+                "</i>
+        </p>
+    </section>
+
+
+    <div class="simg2">
+    </div>
+
+    <section class="section section-shark">
+        <h2>Tailored Feedback</h2>
+        <p>
+            <i>Get personalized feedback on your Shark Tank proposal. Discover which sharks might accept your offer and assess your product's market potential."</i>
+        </p>
+    </section>
+
+
+    <div class="simg3">
+    </div>
+
+    <section class="section section-divider">
+
+    </section>
+
+    <div id="analyticsSection" class="rimg1">
+        <div class="ptext">
+            <span class="border">
+                Analytics
+            </span>
+        </div>
+    </div>
+
+    
+    <section class="section section-rain">
+        <h2>
+            <b>Data-Driven Insights</b>
+        </h2>
+        <p>
+            <i> "Dive into interactive visualizations. Explore past contestants' success factors, including industry-specific stats and investor preferences."</i>
+        </p>
+    </section>
+
+    <div class="rimg2">
+    </div>
+
+    <section class="section section-rain">
+        <h2>
+            <b>Ready to Dive In?</b>
+        </h2>
+        <p>
+            <i>“Try our application now to enhance your Shark Tank pitch. Uncover the secrets of successful pitches and boost your chances of landing that deal.”</i>
+        </p>
+    </section>
+
+    <div class="rimg3">
+    </div>
+
+
+
+
+</body>
+
+</html>
