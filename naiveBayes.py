@@ -4,11 +4,12 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
 
 def nb(x_train, y_train, x_test, y_test):
-    nb = GaussianNB()
-    nb.fit(x_train, y_train)
-    y_preds = nb.predict(x_test)
+    nbG = GaussianNB()
+    nbG = nbG.fit(x_train, y_train)
+    y_preds = nbG.predict(x_test)
     acc = accuracy_score(y_preds, y_test)
     print(acc)
+
 
 def main():
     x_train, y_train, x_test, y_test = get_data()
