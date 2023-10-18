@@ -1,7 +1,7 @@
 library(shiny)
 library(plotly)
 
-sharktankdata <- read.csv("C:/Users/tenni/Documents/GitHub/Shark-Tank-Assistant/Data/SharkTankUSdataset.csv")
+sharktankdata <- read.csv("Data/SharkTankUSdataset.csv")
 
 
 
