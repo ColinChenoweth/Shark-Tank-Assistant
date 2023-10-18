@@ -1,0 +1,53 @@
+---
+title: "SharkTankAssistant"
+author: "Leann Blanc"
+date: "2023-10-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r data, echo=FALSE, include = FALSE}
+library(dplyr)
+library(plotly)
+library (ggplot2)
+library(htmlwidgets)
+library(shinyWidgets)
+setwd("C:/Users/tenni/Documents/GitHub/Shark-Tank-Assistant")
+sharktankdata <- read.csv("Data/SharkTankUSdataset.csv")
+```
+
+
+```{r piechart, echo=FALSE}
+industrysummary <- sharktankdata %>%
+  group_by(Industry) %>%
+  summarize(Count =n())
+pie_chart <-plot_ly(industrysummary, labels = ~Industry, values = ~Count, type = "pie", textinfo = "label+percent", marker = list(line = list(color = "white", width = 2)))
+pie_chart <- pie_chart %>%
+  layout(title = "Pie Chart of Industries", showlegend = TRUE)
+pie_chart
+```
+
+```{r barcharts, echo = FALSE}
+#Allow the user to choose what industry their product is
+selectizeInput("industry", "Select an Industry:", 
+               choices = unique(sharktankdata$Industry), selected = "Software/Tech")
+
+# Render a dynamic bar chart based on the selected industry
+renderPlotly({
+  selected_data <- sharktankdata[sharktankdata$Industry == input$industry, ]
+  bar_chart <- plot_ly(selected_data, x = ~Industry, y = ~Original.Ask.Amount, type = "bar")
+
+  # Customize the chart (optional)
+  bar_chart <- bar_chart %>%
+    layout(title = paste("Original Ask Amount in", input$industry, "Industry"))
+
+  bar_chart
+})
+```
+
+
+
