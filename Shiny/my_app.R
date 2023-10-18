@@ -2,13 +2,12 @@ library(shiny)
 library(plotly)
 library(ggplot2)
 
-<<<<<<< HEAD
+
 sharktankdata <- read.csv("C:/Users/tenni/Documents/GitHub/Shark-Tank-Assistant/Data/SharkTankUSdataset.csv")
 successfulpitches <- sharktankdata[complete.cases(sharktankdata$Total.Deal.Amount), ]
-=======
 sharktankdata <- read.csv("Data/SharkTankUSdataset.csv")
 
->>>>>>> dc85ed1b4dc6ff464392b1e56063a9a9955bd3b1
+
 
 
 ui <- fluidPage(
