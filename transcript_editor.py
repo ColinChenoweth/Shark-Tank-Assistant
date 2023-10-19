@@ -15,7 +15,7 @@ def transcript_to_pitch():
             except:
                 continue
             ep_data = data[(data['Season Number'] == s) & (data['Episode Number'] == ep)]
-            entr_names = ep_data['Entrepreneur Names'].str.split(', ' or ' and ').tolist()
+            entr_names = ep_data['Entrepreneur Names'].str.split(r'[, ]' or 'and').tolist()
             prev_pitch_num = min(ep_data['Pitch Number'].tolist()) - 1
             segments = [[]]
             seg_abt = [[]]
@@ -27,7 +27,8 @@ def transcript_to_pitch():
                     try:
                         for pitch_num, pitch_names in enumerate(entr_names):
                             for name in pitch_names:
-                                if str.upper(name) in str.upper(subs[i].text) and 'NEXT' not in str.upper(subs[i].text):
+                                if not name == '' and str.upper(name) in str.upper(subs[i].text) and 'NEXT' not in str.upper(subs[i].text):
+                                    seg_abt[-1].append(prev_pitch_num + pitch_num)
                                     seg_abt.append([prev_pitch_num + pitch_num])
                                     segments.append([])
                         segments[-1].append(subs[i].text.split('\n'))
