@@ -18,36 +18,31 @@ library(htmlwidgets)
 library(shinyWidgets)
 setwd("C:/Users/tenni/Documents/GitHub/Shark-Tank-Assistant")
 sharktankdata <- read.csv("Data/SharkTankUSdataset.csv")
+successfulpitches <- sharktankdata[complete.cases(sharktankdata$Total.Deal.Amount), ]
 ```
 
 
-```{r piechart, echo=FALSE}
-industrysummary <- sharktankdata %>%
+```{r piechartall, echo=FALSE}
+industrysummaryall <- sharktankdata %>%
   group_by(Industry) %>%
   summarize(Count =n())
-pie_chart <-plot_ly(industrysummary, labels = ~Industry, values = ~Count, type = "pie", textinfo = "label+percent", marker = list(line = list(color = "white", width = 2)))
-pie_chart <- pie_chart %>%
-  layout(title = "Pie Chart of Industries", showlegend = TRUE)
-pie_chart
+pie_chart_all <-plot_ly(industrysummaryall, labels = ~Industry, values = ~Count, type = "pie", textinfo = "label+percent", marker = list(line = list(color = "white", width = 2)))
+pie_chart_all <- pie_chart_all %>%
+  layout(title = "Pie Chart of Industries for All Proposed Pitches", showlegend = TRUE)
+pie_chart_all
 ```
 
-```{r barcharts, echo = FALSE}
-#Allow the user to choose what industry their product is
-selectizeInput("industry", "Select an Industry:", 
-               choices = unique(sharktankdata$Industry), selected = "Software/Tech")
 
-# Render a dynamic bar chart based on the selected industry
-renderPlotly({
-  selected_data <- sharktankdata[sharktankdata$Industry == input$industry, ]
-  bar_chart <- plot_ly(selected_data, x = ~Industry, y = ~Original.Ask.Amount, type = "bar")
-
-  # Customize the chart (optional)
-  bar_chart <- bar_chart %>%
-    layout(title = paste("Original Ask Amount in", input$industry, "Industry"))
-
-  bar_chart
-})
+```{r piechartsuccess, echo=FALSE}
+industrysummarysuccess <- successfulpitches %>%
+  group_by(Industry) %>%
+  summarize(Count =n())
+pie_chart_success <-plot_ly(industrysummarysuccess, labels = ~Industry, values = ~Count, type = "pie", textinfo = "label+percent", marker = list(line = list(color = "white", width = 2)))
+pie_chart_success <- pie_chart_success %>%
+  layout(title = "Pie Chart of Industries for All Successful Pitches", showlegend = TRUE)
+pie_chart_success
 ```
+
 
 
 
