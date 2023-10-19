@@ -42,6 +42,8 @@ server <- function(input, output) {
       data_to_plot <- filtered_data$Deal.Valuation
       title <- paste("Deal Valuation in", input$industry, "Industry")
     } 
+  
+  
 
     
     if (input$data_type == "Original Ask Amount") {
