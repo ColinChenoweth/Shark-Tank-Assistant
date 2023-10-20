@@ -1,0 +1,41 @@
+---
+title: "SharkTankAssistantEquityBarChart"
+author: "Aditi Mukkara"
+date: "2023-10-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(magrittr)
+library(dplyr)
+library(ggplot2)
+
+EquityGraphData <- SharkTankUSdataset %>%
+  filter(!is.na(`Total Deal Equity`)) %>%
+  group_by(Industry) %>%
+  summarise(
+    avg_original_offered = mean(`Original Offered Equity`, na.rm = TRUE),
+    avg_total_deal = mean(`Total Deal Equity`, na.rm = TRUE)
+  )
+
+library(ggplot2)
+
+
+```
+
+
+```{r cars}
+equitygraph <- ggplot(EquityGraphData, aes(x = Industry)) +
+  geom_bar(aes(y = avg_total_deal, fill = "Total Deal Equity"), stat = "identity", position = position_dodge(width = 0.8)) +
+  geom_bar(aes(y = avg_original_offered, fill = "Original Offered Equity"), stat = "identity", position = position_dodge(width = 0.8)) +
+  labs(title = "Original Offered Equity vs. Total Deal Equity Per Industry On Average",
+       x = "Industry",
+       y = "Value") +
+  scale_fill_manual(values = c("Total Deal Equity" = "blue", "Original Offered Equity" = "red")) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))  # Adjust the size as needed
+
+plot(equitygraph)
+```
