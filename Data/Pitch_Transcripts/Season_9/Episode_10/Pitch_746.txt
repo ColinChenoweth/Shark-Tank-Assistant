@@ -1,5 +1,31 @@
 Hi. My name is
 Sharmi Albrechtsen.
+I'm from Bethesda, Maryland,
+and I'm asking $200,000 for 5%
+of my company, SmartGurlz.
+Sharks, we can all agree
+that the latest robots
+and drones are super cool,
+but let's face it ??
+it's a boys' market,
+and it's not
+of interest to girls.
+In addition, in the U. S.,
+we have a major shortage
+of engineers
+in a male?dominated workforce.
+So how do we encourage
+more girls into science,
+technology, engineering,
+and math?
+We show them
+how fun technology can be
+by integrating it into the toys
+they already play with.
+I would like to introduce you
+to SmartGurlz Siggy,
+the world's first
+coding robot for girls.
 Albrechtsen: That's you,
 and ?? and we put in you
 in a gorgeous velvet suit.
@@ -13,6 +39,126 @@ Segway?like vehicle.
 ?This is cool.
 Okay.
 We're doing puzzle 1,
+and it says to move
+50 centimeters forward
+at 25% speed,
+so you are going to
+change the speed
+by tapping right here to 25.
+Yep.
+And next change the amount of
+centimeters from 25 to 50.
+50.
+And now you are going to
+drag and drop the codes ??
+first, the speed.
+Okay.
+And next we're going to
+"drive on floor"
+to see if we got it right.
+And now you know how to code.
+[ Laughs ]
+?Yay! You did it!
+?Yay!
+You're such a geek, Richard.
+You're ?? You're great teachers.
+Thank you.
+?How old are you?
+?I'm 10.
+?You're 10. And you?
+?I'm 9.
+And do you find it easy
+or hard to do?
+?It's easy.
+?It's easy.
+Sometimes for a beginner,
+you can find it hard,
+but when you get the hang of it,
+it's pretty easy.
+Herjavec:
+To what degree can they ??
+If they get more advanced,
+can they actually
+enter the commands?
+Yeah. We've actually
+allowed for kids to also see
+the code that they've made,
+so you can see
+the JavaScript you created.
+So it's basically
+learning your ABCs
+before you start,
+you know, writing novels.
+How did you
+come up with this idea?
+My daughter was
+struggling in math.
+I was just like,
+"What can I do?"
+And then
+I walked into her room,
+and I ?? I saw this, like,
+line of dolls, and I thought,
+"Can I connect robots
+and dolls together
+and make something
+that's more inspiring for her?"
+And that's how
+SmartGurlz was created.
+?How long ago was that?
+?That was two years ago.
+And what was your
+next step to do that?
+Okay. So, making something
+self?balancing
+is very difficult.
+That's why you had to get it
+moving first, yeah.
+Yeah, exactly.
+And we spent almost a year
+doing the mathematics on this.
+And our very significant
+e?learning platform app,
+SugarCoded,
+is very special in the sense
+that we put girls
+in the center.
+It's very story?based.
+And did you release this onto
+the market yet?
+We've only been on the market
+for less than six months.
+Okay.
+And we've done $250,000
+worth of sales
+in that really short
+period of time.
+?Wow.
+?Nice.
+How did you get your sales?
+So, um, the first thing
+that I did was actually,
+I went to the World's Toy Fair
+with six prototypes.
+I walked away with 300 names
+of different companies
+who were interested
+in the product, and I thought,
+"You know what? This is gonna ??
+This is gonna be big."
+So then I started to
+talk to some of them,
+and I was able to actually get
+some distributor agreements,
+and that helped me
+raise the funds.
+So, the $250,000
+is from one distributor,
+a couple
+of distributors?
+It's for distributors,
+also direct from retail,
+also from Amazon.
 So, where is it now, Sharmi?
 Where can I see the ??
 It's available
@@ -21,6 +167,56 @@ What does it sell for?
 I don't think we ever asked you.
 Yeah, so it sells for
 $79.99.
+And what does it cost you
+to make it?
+?About $18, landed.
+?Okay. Wow. That's great.
+Let us know why you think
+the company's worth
+$4 million at this point.
+One of the things
+is how difficult it is
+to do
+the balancing algorithm.
+And it makes it very special.
+We could actually license or
+sell the balancing algorithm.
+It's very unique.
+I tell you, that self?balancing
+thing is cool.
+Doesn't it look like Richard
+just met Lori, like...
+[ Laughter ]
+"Hey! You want some tea?"
+Is this a patent on this?
+We have a provisional patent
+on our product.
+I think this is valuable,
+because out of the young ladies
+that do go into engineering,
+70% end up dropping out
+of engineering
+because they don't have other
+females that they can relate to.
+Yeah, exactly.
+And I think if you get them
+in early enough,
+they will have
+more females.
+I'm interested
+in licensing this thing out,
+but you're asking a lot.
+I would have to give you
+the $200,000...
+...for 30%.
+Narrator:
+All Sharks are still in.
+Daymond is interested
+in SmartGurlz,
+an engineering toy
+geared towards girls,
+but he wants a much bigger stake
+of the company
 than the 5%
 Sharmi came in offering.
 I would have to give you
@@ -42,6 +238,84 @@ I applaud ?? I applaud
 what you're doing,
 but the incarnation
 of that idea is this doll.
+And I think it's ??
+it's tough.
+It's a tough,
+tough business to be in.
+Um...
+Yeah, I don't want to
+go back into it.
+I'm out.
+Greiner:
+Let me tell you what I think.
+I did a deal with Robert
+that was a doll
+that had imperfections ??
+cellulite and one eye
+that's crooked
+and, you know, all these things,
+like normal people.
+What happened is
+that Barbie came out
+with the exact same thing ??
+kind of crushed us.
+I mean, this is
+a completely different business.
+If you go to the toy store
+today, in the robotics section,
+there is not one toy that's
+specifically aimed at girls.
+Such a smart idea,
+but I really think
+that Daymond's licensing offer
+is the smartest thing,
+'cause he's expert at that.
+I have to be out.
+It's so great
+when you're learning things
+and you don't know
+you're learning things.
+I mean, you're just playing.
+Yeah, exactly.
+Obviously, all of us would love
+our kids to ?? to learn to code,
+and I love
+what you're doing.
+I think it's ??
+it's great.
+But I don't think
+I can add enough value
+to your business to invest.
+So, sadly, I'm out.
+Okay.
+Retail is brutal.
+I like everything
+about your company
+except the fact that you have
+a product that's in retail.
+You're still vulnerable
+to every new product
+that comes in
+trying to teach
+robotics/programming/whatever
+to girls.
+I'm out.
+Herjavec: So, Daymond,
+you're at $200,000 for 30%?
+Yeah.
+Is there any wiggle room
+in the...
+You know,
+the challenge is...
+Let's just talk
+industry standard.
+A normal licensing agent is
+normally around 25% to 35%.
+They don't pay you anything.
+They just get it
+and go represent it.
+I'm paying you $200,000
+to go out and license it.
 Make him a counteroffer, Sharmi.
 What's your downside?
 Would you come back with 20%?
@@ -56,6 +330,14 @@ You know...
 25%?
 We're meeting ??
 For $200,000?
+Yes, yeah. And it's so far ??
+The idea is for us
+to go and license it.
+Yes, it is.
+You got a deal.
+?Yeah!
+?Yay!
+Thank you so much.
 ?Congratulations, Sharmi.
 ?Yay!
 Thank you.
@@ -70,3 +352,10 @@ A deal with Daymond means
 that we've got
 a fantastic
 licensing opportunity,
+and that allows us
+to get all girls coding.
+He knows the toy business, and
+we could do so much together,
+and this is great.
+I mean, I can't believe
+I got a deal. Yay!

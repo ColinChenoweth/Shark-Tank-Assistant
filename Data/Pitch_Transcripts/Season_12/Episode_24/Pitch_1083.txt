@@ -20,11 +20,56 @@ Hang on a sec, Mark.
 Hi, Sharks.
 I'm Susana.
 I'm Kevin.
+And we're seeking
+$400,000
+for a 5% equity stake
+in our company, Pluto Pillow.
+Now, I know what
+you're all thinking ??
+another pillow company?
+Well, yes, but thankfully,
+here at Pluto,
+we do things
+differently.
+See, finding the perfect pillow
+can be so amazing,
+but finding
+the right pillow for you
+can also be super hard.
+Here's how it
+usually goes ??
 while shopping online,
 you're faced with an
 overwhelming number of options
 that can be hard
 to compare with one another,
+and with tens of thousands
+of search results,
+how do you know which
+would work best for you?
+In stores, is it better to
+squeeze pillows with your hands,
+or should you awkwardly
+place your head
+on the dirty
+display pillows?
+The answer is
+both suck.
+Well, with Pluto,
+there's a better way.
+Pluto is a custom
+pillow company
+that custom?builds
+pillows to you
+based on your body stats,
+how you sleep,
+and what you like.
+Here's how it works.
+Simply visit our website,
+fill out
+a quick questionnaire,
+tell us about
+your current pillow,
 what you like,
 what you didn't like about it,
 then answer a few questions
@@ -67,6 +112,11 @@ So, Mark, word around
 the league
 is that you prefer
 fill pillows over foam pillows,
+and you like your pillows
+to be really soft.
+So we made sure
+to craft that for you.
+Squishy, squishy, squishy.
 ?Nice.
 ?I like my pillow squishy.
 Daniel, we heard
@@ -75,6 +125,26 @@ for your sleep products
 to be hypoallergenic.
 The good news is,
 all of our pillows are.
+We crafted a pillow for you
+that's both light and soft.
+Mr. Wonderful,
+we heard that you prefer
+fill pillows
+over foam pillows,
+so we made one for you
+that's just that,
+but one
+that never flattens.
+Lori, you tend to
+heat up at night
+and you like more of
+a medium firmness level.
+And lastly, Robert,
+lucky you,
+you're exactly the same
+as Mr. Wonderful.
+Both of you love thick,
+plushy, fill pillows.
 Yours is a quilted cover
 while Kevin's is a smooth.
 So, Sharks,
@@ -90,6 +160,8 @@ that really, truly, there is no
 scientific best for everybody?
 There isn't.
 So, we take your body stats,
+sleep positions,
+and preferences,
 so we know that,
 like, let's say,
 if you're a side?sleeper,
@@ -116,12 +188,84 @@ that, every time anyone
 goes on our website,
 orders a pillow,
 we store this information,
+and then we look
+at other people
+who answer similarly
+to that person.
+And then we see, like,
+exactly what kind of pillow
+would be best for them
+with this data point.
+And this has actually led to
+a very low return rate
+compared to
+the industry average.
+The industry average
+is 12.95%,
+while ours is sub?8%,
+and we did this in two years.
+Break down the numbers for me.
+2018, 197K
+when we first started.
+2019, 473K.
+And this year so far
+is 490K.
+?There you go!
+?Wow.
+What's the average
+sales price?
+We sell our
+standard sizes for $95.
+How are you manufacturing?
+So, how this works is,
+if you guys open up
+your pillows,
+inside, there's
+actually a foam core,
+and it's surrounded by
+a plush outer cover.
+So there's these
+two main parts,
+and through
+our questionnaire,
+when it goes through
+our algorithm,
 the computer actually
 decides, like,
 "Hey, this person needs this
 foam with that plush cover."
 So someone's
 in the facility picking,
+putting it together,
+and packing.
+Yeah, they just pick it,
+put it together, and box it.
+Just two components
+and variations
+of those two components?
+Yeah, two components make
+over 35 variations
+that feel really different.
+One pillow,
+you sell it at $95.
+Yes.
+And then what does it
+cost you,
+including fulfillment?
+And what is your ??
+what do you have left?
+So, $95 ??
+$18 shipping,
+and it cost us $25 to $30
+to make the pillow.
+So $43.
+So you only have
+about 50% margin.
+Yes, so with that,
+it's $50 to $60,
+just cost of goods sold.
+So that's not a big ratio
+difference. Normally, there is.
 It sounds like your gross margin
 structure is not so good.
 Is there a reason why?
@@ -133,6 +277,7 @@ you're just compounding
 the problems.
 Why are your gross margins
 not healthier?
+Yeah, and that's why ??
 Like, if we could have
 a bigger?size warehouse
 to order more materials,
@@ -157,6 +302,48 @@ in the warehouse?
 Yeah. All of it.
 All the boxing
 in the warehouse.
+And then
+we talked to press.
+Okay. And now?
+And now we hired
+two pillow?builders.
+[ Chuckles ]
+Pillow?builders.
+Yeah.
+And we have someone
+who is full?time
+on customer service.
+I want to share with you
+a few things, my thoughts.
+While you're picking
+something smart,
+because pillows are great
+and everybody needs pillows,
+it's also an extremely
+competitive space,
+and I just think
+the combination of that
+along with your valuation,
+it's just not the right
+investment for me.
+I'm sorry. I'm out.
+Thank you very much,
+Lori. Yes.
+Thank you, Lori.
+Herjavec: Guys, you guys
+are super impressive.
+I think Lori makes
+a really good point
+about how competitive
+that industry is.
+Yes, but nobody does
+what we're doing,
+in terms of taking
+body stats, sleep positions,
+and preferences
+into account.
+And we have
+a utility patent pending.
 We have over
 1.5 million data points.
 You have a utility patent
@@ -165,24 +352,108 @@ Yes.
 On the way we make the pillows
 combined with the algorithm.
 [ Chuckles ] Really?
+And we have over 1.5 million
+data points
+that no other company has,
 in terms of, like, evidence on
 what makes a good pillow.
 We did all the hard work
 already, right?
+We already established
+the brand.
+You actually haven't.
+We already created
+a product.
+Guys, you haven't.
+So, here.
+I'm guessing you're using
+machine learning,
 'cause it's linear, right?
 Yeah.
 1.5 million data points
 is nothing.
 But you actually have
 kind of dropped the ball,
+and I can tell by your answers,
+because the better approach
+is to say,
+"Based off my data points,
+<i>including</i> my orders,
+I can build in anticipation
+of what will be ordered
+and where they'll be
+ordered from,"
+'cause you already know,
+based off your
+machine learning algorithms,
+how many orders
+are going to take place
+from this part of the country,
+that part of the country,
+this part of the country,
+that part of the country,
+right?
+I'm saying all this because
+I don't think
+you've gone through
+that whole process yet, right?
+And I don't think
+you're fully aware
+of all the things you're going
+to have to go through yet
+to get there.
+So for those reasons, I'm out.
+I love pillows.
+I'm obsessive about pillows,
+but, you know,
+this word of "algorithm."
+Everybody talks about
+how they have an algorithm,
+and I'm not 100% sure that
+nobody else can do that.
+I don't think this is
+where I'm gonna sleep
+comfortably, so I'm out.
+Thank you very much,
+Daniel.
+Thank you, Daniel.
+If this had been for a lower
+amount of capital risk,
+I would have probably done it
+just for the talent,
 but you guys are too small
 for 8 million bucks.
 I'm out.
 Thank you, Kevin.
 Herjavec: I have to tell you,
 when you came out here
+and you started talking
+about pillows,
+I was bored out of my mind.
+I couldn't have been
+less interested,
+but you sold me.
+And I think there's
+a couple of big problems.
+To Mark's point, your algorithm,
+it's not predictive.
+You've got to know what the
+potential orders are gonna be
+before you get them,
+and I think
+you'll start getting that
+once you get the volume.
+Yeah.
+But come on!
+Who up here knew everything
+about their business
+and didn't make those mistakes?
+So at the end of the day,
+it's not about
+the mistakes you're making,
 it's about my confidence in
 your ability to overcome them.
+And you've sold me on that.
 So I like it all.
 Hate the valuation.
 Hate the valuation.
@@ -190,6 +461,41 @@ Don't let that
 get in your way, Robert.
 So I was being quiet
 with my own algorithm
+and saying, "What number would
+make me feel comfortable"...
+?Here it comes. [ Laughs ]
+?..."sleeping at night?"
+[ Sighs ]
+but Robert is interested
+in Kevin and Susana's
+custom?built pillow company,
+Pluto.
+"What number would make me
+feel comfortable"...
+?Here it comes. [ Laughs ]
+?..."sleeping at night?"
+So, you're looking for
+$400,000 for 5%.
+I'm thinking $400,000...
+for 20%.
+Eeh, Chihuahua, caramba!
+It's aggressive, but your ask
+was very aggressive.
+It's an amount that I feel
+comfortable with,
+but I think
+it's one of those things.
+You won't need more money.
+You're gonna need
+more expertise
+and more ways
+to get out there faster.
+$400,000 for 20%.
+It's an offer.
+You've got
+a "Shark Tank" offer.
+[ Whispering indistinctly ]
+Go. Just go. 10.
 I think that's just
 a little bit high.
 Would you be able to go down
@@ -204,12 +510,44 @@ if you could convince me.
 But I think it's a lot of money.
 It really is.
 Okay.
+And it's a lot of my time.
+And I do think
+you're one of these investments
+we're gonna look back on
+and say,
+"Wow.
+Pluto went to the moon."
+That's true.
 I think 19 is just
 a little bit too much.
 We've seen
 triple?digit growth
 year over year
 since we started,
+and we feel like
+there's not really much
+in our way to keep growing.
+We do want
+some expertise.
+Cuban:
+Stick to your guns, guys.
+Stick to your guns.
+Yeah.
+There's nothing wrong
+with sticking to your guns.
+I disagree, guys.
+He could help you a lot.
+Cuban:
+Stick to your guns, guys.
+Herjavec: Everything for me
+is a matter
+of investment and risk,
+and I think at 20%,
+I'm deeply invested.
+What do you want to do?
+Let's shoot for the stars!
+Thank you so much
+for the offer, Robert,
 but I think 19%, 20% is just
 a little bit too much.
 I think we can't really
@@ -221,8 +559,36 @@ Thank you, Robert.
 Thank you.
 Lubetzky: Guys, good luck.
 Thank you so much.
+Congrats, guys,
+and good luck.
+Thank you.
+Well done.
+Greiner: Good luck, guys.
+Thank you very much, guys.
+Thank you.
+Thank you.
+While we're so flattered
+by Robert's offer,
+we felt we were worth way
+more than what he was offering,
+and we feel that we could still
+grow this company ourselves.
 so we launched online sales
 of our ice cream
+and shipped directly
+to our customers' doorsteps.
+We pivoted our farm creamery
+to help our community
+and supplied everyday
+essential goods
+out of our drive?thru window,
+and we donated pints
+to local hospital workers,
+police stations,
+and fire departments
+to thank them for their service.
+What happened next
+was incredible.
 A Walmart buyer was
 interested in the product line.
 I was able to close the deal
@@ -233,23 +599,60 @@ I brought with me
 our "nice cream."
 We've since changed
 the name to "Frobert."
+It's a blend of our traditional
+ice cream and sorbet,
+reducing the fat
+and calorie content
+without sacrificing
+flavor or creaminess.
+Frobert is entirely new
+to the category.
 There's nothing on the shelf
 like it.
 Now we're in more than
 8,000 stores,
 including Giant Foods,
 Stop N Shop,
+and every Kroger location
+nationwide.
+The year I pitched
+to the Sharks,
+my business had done
+$310,000 in sales.
+Now, just nine months
+since "Shark Tank,"
 I'm nearing $1 million in sales
 with $15 million
 in committed purchase orders.
 that's delicious,
 just not as pretty,
+and I love that Katey Jo
+is probably
+one of the hardest?working,
+most results?oriented
+entrepreneurs I've ever had.
+I'm super proud of you,
+and I'm just super excited
+for our future.
+Aah! [ Laughs ]
 for 10% of our company,
 Fling Golf.
 Sharks, golf courses
 have a big problem.
 Over 1,800 of them have
 closed in the last decade,
+and the average golfer
+gets older every year.
+You see, young people,
+they just think
+that golf is too expensive,
+it's too hard to learn,
+there's too many clubs,
+takes too long,
+and many
+just find it boring.
+Well, we've developed
+the antidote for boring.
 It's called
 Fling Golf.
 It's the cool, athletic
@@ -257,11 +660,27 @@ alternative to regular golf.
 [ Chuckles ]
 You play Fling Golf with
 a regular golf ball,
+but instead of lugging
+around a set of clubs
+and hitting the ball,
 you're using
 a single fling stick
 to throw
 the golf ball...
 Oh, my God.
+...and shoot every kind of shot
+from tee to hole.
+Yeah, you can take long shots,
+flop shots,
+bump and runs,
+and on the green...
+The color of money.
+...you can even
+use it to putt.
+Most people can learn to play
+within 10 minutes.
+Some are even out there
+bombing it 250 yards.
 So just like snowboarders
 are welcome on ski resorts,
 Fling Golf can be played right
@@ -280,10 +699,64 @@ So, we've developed
 an entirely new product,
 a new sport embraced by
 a younger generation
+and accepted by golf courses
+across the globe.
 Who wants to go on
 the fling of their lifetime
+and help us scale up
+the future of the fairway?
+Alright.
+Who wants to come on up?
+I'll try it out.
+I don't know
+anything about golf.
+It's not golf.
+Cuban:
+Wait, hold on.
+[ Chuckles ]
+Lubetzky: You all should do
+what Mark's doing.
+Aim that way.
+Daniel, you're
+throwing it this way?
+Yeah, you might want to
+really go away.
+Let me show you. What you do is,
+you hold it back here,
+you drop it
+way down your back,
+then put your other hand up,
+and then ??
+There you go! Nice.
+There you go!
+So, guys, you've invented
+lacrosse on the golf course.
+Right. Basically
+lacrosse and golf.
+And that was sort of
+my background.
+Gotcha.
+Alright, so, you drop it
+way down your back...
+?Yeah! You looked nice.
+?It's starting to feel good.
+Nice! Yeah!
+Very cool.
+Just a few shots.
+O'Leary: Alright, guys, look.
+I am a member of the golf club.
+No chance in Hell
+are they gonna let anybody run
+around with a lacrosse racket.
+Zero!
+[ Laughs ]
+No, they do.
 It's been played at
 the country club in Brookline.
+It's like snowboarding
+and skiing.
+We're getting into
+the golf courses.
 But ultimately,
 it's gonna be like
 there's no reason not to.
@@ -294,6 +767,19 @@ Like, that's a good indication.
 About 300.
 So, what's the model?
 How does it work?
+We sell to both golf courses
+and the consumer.
+We focused a lot in the last
+few years on the golf courses.
+We want that acceptance.
+We want people to know
+that if they buy
+one of these things from us,
+they can go out
+on any golf course and play.
+Longer?term,
+the focus is really
+gonna be the consumer.
 How are you gonna get
 the golf course to, like,
 educate anybody playing
@@ -309,6 +795,16 @@ Even if you're a golfer,
 bring your kids.
 We'll give them
 a Fling stick,
+and they can go out with you
+and play golf."
+Herjavec: So, guys,
+I did an investment
+in a company
+called Bad Birdie.
+They're the cool golf shirts.
+COVID hits ??
+I'm thinking their business
+is going to die.
 Like, it's just
 gonna go nowhere.
 Golf is on fire.
@@ -343,6 +839,16 @@ We're $142,000
 through July.
 So what's one club
 cost you to make,
+and what do you
+sell it for?
+They range from $119
+to the one you're
+holding there is $179.
+And for cost to make,
+this one's about $25.
+That one's about $35.
+Your valuation seems
+really out of whack.
 Like, you're asking
 for more than
 10 times revenue valuation.
@@ -355,7 +861,30 @@ Wow, you're really sitting
 next to Kevin a lot, Daniel.
 We were on set for about
 $400,000 this year,
+and then COVID hit,
+that slowed us down.
+But according to Robert, COVID
+should be helping you out.
 It seems like it's not.
+Well, it slowed us down big?time
+for March and April.
+Look, at the end of the day,
+if you're just taking this
+as a commodity product
+and doing a multiple
+off of revenue,
+yeah, you're not gonna
+get there on that.
+But what we've
+built here
+and a lot of what goes
+into that valuation
+is the foundation
+we've built ??
+all the product development,
+the IP, the patents.
+So then how much have you guys
+raised or invested?
 We've raised about ??
 about $2 million.
 There you go. That's why
@@ -364,14 +893,44 @@ Greiner: Wow.
 Herjavec: Where did you
 raise that from?
 You've raised $2 million?
+Did I hear that right?
+One and a half
+is actually from us.
+You put your own money in?
+Damn!
+Wow.
 Look, I like
 the idea, guys,
 but it's very difficult
 to scale a new sport,
 as you know, right?
 Yes.
+And inevitably,
+it takes a purse.
+If your price range is
+from $100 to $179
+and you did $140,000
+last year,
+you're looking at about
+1,400 clubs, right?
+And that's just not enough
+traction for me to get excited.
+So for those reasons,
+I'm out.
+Okay.
+Guys, I love innovation
+and ?? and new ideas,
+but I keep thinking about
+the lack of precision ??
 these balls, like
 [Chuckling] flying all around.
+And your valuation,
+I do have to say,
+I don't think is commensurate
+to where you're at right now.
+I wish you good luck,
+but I'm out.
+Thank you.
 Just 'cause you say
 it's worth $3 million,
 that doesn't mean anything.
@@ -382,8 +941,87 @@ any cash flow
 to sustain that valuation.
 If you look at
 what snowboarding did ??
+and we model
+a lot off of what happened
+in the 1970s, '80s,
+with snowboarding ??
+It took a long time before ??
+and then it went geometric.
+I get it, but I don't think
+you're at that
+trajectory right now.
+And I didn't think it was
+poo?poo on a stick
+until I heard the sales.
+Now I <i>really</i> think
+it's poo?poo on a stick.
+So no, absolutely not.
+I'm out.
 Yeah.
 Just like Bad Birdie.
+It's not like I go there
+and do their books every day,
+but we talk regularly.
+He has a problem, he says,
+"Do I go left? Do I go right?"
+That's what you need.
+What I need to know is,
+are you gonna hustle?
+This is all about hustle,
+and, I mean,
+we're gonna do ??
+I'm confident we're doing,
+with or without you,
+a million dollars
+in sales next year.
+I've drained
+my finances.
+I need this. I absolutely
+need this. I'm in.
+I'll give you the $300,000,
+but I want to be
+a one?third partner.
+I'll take the risk with you.
+I can help you with this thing.
+Same offer as Daniel?
+Same offer
+as Daniel.
+But it only took him
+an hour longer to make it.
+Okay, so, guys ??
+I think you ought to talk to
+them, because you just devalued
+all the money that
+they've invested significantly.
+I did, but again, you know,
+it's either gonna go big
+or it's not.
+You've got to pick your Shark.
+What are you gonna do?
+And you can counter.
+[ Whispering ] Yeah,
+$300,000 for 20?
+[ Both whispering indistinctly ]
+How about $300,000
+for 20%, either of you?
+I'll do $300,000 for 25%,
+and it goes away in 5...
+4...3...2...
+Take it.
+...1.
+?Done.
+?Whoo!
+?Good deal.
+Alright.
+Guys, what Robert said
+is true ??
+you guys need to stay
+in the fight and be hungry,
+because it's gonna take
+a lot longer ??
+You have never met someone
+who's gonna hustle more than us.
+Congratulations, guys.
 Congratulations.
 I can't believe it.
 Greiner: Congrats.
@@ -395,21 +1033,132 @@ is a better way to grill
 in an unlikely place.
 Float'N'Grill is
 lightweight, easy to use,
+and has tons of features
+so you can safely cook
+without ever going back to land.
+And with our patented design
+and unique weight displacement,
 you won't have to worry about it
 flipping over in the water.
+So whether you're
+a sandbar fanatic...
+Or a lazy?river goer...
+Float'N'Grill
+has got you covered.
+Be the envy of your friends
+with this innovative product
+and be the talk
+of the lake.
+So, Sharks, who's ready
+to get in on the action
+while the grill's
+still hot?
 Were you guys on, like,
 Instagram just recently?
 Oh!
 We were on ??
 We had a post back in 2018
 that went viral,
+and it started catching traction
+again just a few weeks ago.
+Yeah, 'cause I saw it again,
+the dude going down the ??
+That's me.
+[ Laughing ] That's you.
+Well, tell us about it.
+What was it?
+We kind of threw it
+out there on a Facebook page.
 In 72 hours,
 we hit 4.7 million people.
 Wow.
+And this thing
+just exploded.
+But what was in the video?
+It was just
+hysterical.
 So you're just, like,
 floating in the water,
 and it's floating
 next to you?
+Yeah, and you're, like,
+flipping a burger or something?
+Yeah.
+How did you
+come up with this?
+I bought a 16?foot
+jet boat,
+started getting acclimated
+with sandbar life.
+and I was like,
+"Okay."
+Love jet boats.
+Great time.
+Sandbar life.
+Well, sandbar life,
+you're there for 6 to 8 hours,
+and who wants to eat
+a cold, soggy sub?
+Then how does that work?
+What is the heat source?
+Yep, so, right here, you use
+a 1?pound propane tank.
+We have
+a remote mounting hose.
+And is the base solid,
+or do I have to blow it up?
+The base is HDPE plastic,
+food?grade.
+The grill actually has a
+1,200 BTU burner, which is huge.
+I can fit eight burgers
+on that grill.
+Cuban: Eight burgers?
+Greiner: Eight burgers.
+So, wait, have we talked about
+what you sell it for
+and what it costs
+and how many you've sold?
+Oh, we can
+get into that, too.
+Yeah.
+Let's go!
+Let's go for it!
+So, right now, right now,
+it retails for $229.
+?Okay.
+?Okay.
+Our cost of goods on this
+is $126.88.
+That's kind of
+expensive.
+But hang on. Hang on.
+That is expensive, but we give
+the customer free shipping,
+so we put that
+into our cost of goods.
+Okay, that's fine.
+It's still cost of good, right?
+Yeah. That's an average number
+that we put in there.
+So now,
+what is your total sales?
+So, our total gross sales
+for this year
+are $19,400.
+What?
+Sharks: Ohh!
+Yeah. Hey, hey.
+? Wah?wah?wah?wah ?
+That is with zero dollars
+on marketing.
+We have not marketed
+this product.
+That is all organic.
+A year and a half ago?
+That's like two years ??
+I don't want to hear it.
+Oh, no, no, no.
 No, no, no.
 That is not ?? Listen.
 Ohh.
@@ -420,6 +1169,25 @@ Listen, listen,
 listen, listen.
 It's $199, which he
 neglected to mention.
+Listen.
+The sandbar community
+has rejected you.
+No!
+Has rejected you.
+Do you go to
+the sandbar?
+Do you spend time at
+the sandbar, Mr. Wonderful?
+All I know is, nobody's
+using this in the sandbar.
+Oh, they are.
+Oh, my God.
+They are.
+They are loving it.
+Hey, it didn't go viral
+for no reason.
+It didn't go viral
+for no reason.
 Yeah, but then out of
 those 4 million views,
 I would have expected
@@ -445,9 +1213,23 @@ one thing for a second,
 because it's important.
 You want 20%.
 [ Chuckling ] That imputes ??
+and I'm trying to be serious ??
+Yep.
 ...a million?dollar valuation.
 Yes.
 Yes.
+With basically no one
+in the sandbar community
+gives a poo?poo
+about this thing.
+No one knows about it, really.
+But that's
+where you're wrong.
+Are you in
+the sandbar community?
+I <i>am</i> the sandbar community.
+You haven't seen him
+in his Speedo on his speedboat?
 Listen. The word out on the
 street within the community is
 nobody gives a poo?poo
@@ -464,6 +1246,22 @@ Well, how come
 there's no sales?
 99% of those reactions on
 that viral post were positive.
+No, and the best part is, is we
+have accessories coming out,
+which we have
+3?D renderings for.
+This isn't even
+in the works right now.
+You have accessories?
+You haven't sold any yet!
+I'm just saying.
+[ Laughter ]
+Lubetzky: I'm friends with
+the guys from Weber Grills.
+?Okay.
+?Okay.
+I'm very close with them.
+Yep.
 Is there something that you
 could either license to them,
 or is there a reason why they
@@ -487,6 +1285,8 @@ grill company in the U. S.
 ?Yes.
 I'll set up
 the meeting for you,
+and we will license this
+to them,
 either sell them the patent
 or license it.
 I'll give you $200,000 for 50%.
@@ -520,9 +1320,40 @@ $100,000 investment
 for 15% to 20%.
 Well, let's say 20%
 to be fair.
+And we'll pay you
+$2 per unit sold
+'til your loan money
+is paid back.
 I'm jumping in because
 I like your patent ??
 it is a strong patent ??
+and because you guys
+are fun.
+So I'm jumping in
+and giving you the $200,000
+for 50%, equal partners,
+because guess what,
+my team is gonna
+work on this full?time
+to make it work.
+We can't do 50%.
+We can't do 50%.
+So, right now...
+We have two
+other investors.
+We do have
+two other investors, okay?
+Yeah.
+?What do they own?
+?What do you guys own?
+They own 30% ??
+10% and 20%.
+And you guys own 70%?
+Yes.
+Company was valued at
+$300,000 at that point.
+Alright.
+What are you gonna do?
 I mean, it sounds like
 we're very far apart.
 I mean, we are.
@@ -546,6 +1377,9 @@ We're gonna remove
 the $2 per unit.
 You don't need to do that.
 Okay.
+And 50% of any licensing
+that I help you get.
+You okay with that?
 A billionaire.
 A billionaire.
 That's ?? That's insane.
@@ -566,11 +1400,41 @@ on your feet.
 So, Sharks, don't shoelace ??
 Stretchlace.
 [ Chuckles ]
+Are you ready to
+<i>expand</i> with us?
+?Ha.
+?Ra?ra?ra?ra.
+Yep, you just lace them
+like standard laces.
 Leave a little bit of room
 at the top,
+tie them, and then
+you just slip your shoes on.
+And you're saying
+because they stretch,
+you can just slide in and out?
+And that's the...
+Exactly.
+Oh, it works!
+It's very easy to do.
+Oh, my gosh.
+It really works.
+[ Chuckles ]
+Yeah. It works.
+How much do you sell them for?
+How much do they cost?
+$9.99 to $13.99,
+and they cost anywhere
+from $1.49 to $2.14.
+Well, a great margin.
+And would I find your product
 on the country's largest
 online retailer?
 You would.
+And would I find it
+on your website, as well?
+Yes.
+Anywhere in retail?
 We are only
 going after online.
 Break down
@@ -582,6 +1446,21 @@ However, there's
 a little story to tell.
 So, I left my job
 in July,
+and we started to see this
+really nice, healthy
+uptick in growth.
+Then coronavirus
+hit the States,
+and we saw
+a slow decrease.
+Then the countries
+that I supply from
+were also hit
+by coronavirus,
+so we didn't have
+any inventory.
+And are you in
+the company, too?
 No, so, I help
 keep the lights on.
 I have a full?time job.
@@ -589,17 +1468,113 @@ I'm in technology.
 I've been 22 years
 in technology.
 You're a couple?
+Yeah, we're
+husband and wife.
+Married.
+You know, providing
+financially for the family.
+I'm working full?time,
+and we have three kids,
+which is a lot.
+So I do everything I can
+when I get home or off work,
+to give her the bandwidth,
+'cause she works tirelessly.
+This woman has put so much sweat
+equity into this business,
+I can't even
+measure it.
+How did you
+come up with this?
+Why I started
+the company?
+I have three boys,
+and getting ready
+in the mornings was crazy.
+I was tying
+three pairs of shoes,
+and I was
+thinking to myself,
+"What are they walking
+through at school
+that I'm touching these
+every morning?"
+And it just kind of
+ruined my day.
+Ew.
+I went to the market
+to see what was available,
+and I have a 20?year
+background in e?commerce.
+I kind of know
+the lay of the land,
+in terms of product.
+And so when I looked
+at the market,
 I found product
 with locks or clips,
+and I have three kids.
+They're gonna be rough
+and they're gonna break them
+and they're gonna
+lose the clips,
+and it's gonna be a mess.
+So there were no
+stretchy laces that tied in...
+No. There weren't.
+Nope.
 That was three years,
 a little over three years ago.
+And just last July,
+I left working for
+another company to pursue this.
+Good for you.
+What was your job
+at the other company?
+I was managing
+an Amazon business
 that was about
 $35 million in revenue
+in the health and beauty
+category for that company.
+You've managed
+a $35 million brand
+and then said, "Hey,
+I can take those skills
+to do it for myself."
 So now what I'd like to see is,
 how have you applied that?
 Because the numbers,
 for a person that has
 20 years of experience
+and that run a $35 million
+business,
+they're not...amazing.
+When we first launched
+the business,
+I was working full?time.
+So I have been doing this
+on nights and weekends,
+and really,
+I really just left my job,
+working full?time, in July.
+I would say something
+that I think I'm super proud of
+is the fact that we got on to
+the largest e?tailer, Amazon,
+and we're able to take
+a significant market share
+from those other brands
+that have been around
+a lot longer than we have.
+I think I did better in terms
+of becoming an expert
+on how to grow this business
+on that platform.
+When I developed
+this product,
+we researched what was
+going on on Amazon
 selling a $13 shoelace.
 Ugh. I'm out.
 Okay, guys, look, no disrespect
@@ -612,8 +1587,63 @@ but do you have that ability
 to be resourceful
 [Sniffs]
 to be a hungry hunter,
+to observe
+and to turn and twist?
+I can give you
+a couple ??
+I don't see that
+entrepreneurial zeal,
+and for that reason,
+I'm out.
+Okay.
+Thank you.
+Greiner: I can tell.
+I mean, you have
+that fire, right?
+You are an inventor,
+entrepreneur.
+There are bumps in the road.
+Right.
+And you're
+doing a great job,
+and so I think
+you're gonna get there.
+I just don't think this is
+the right product for me.
+I'm sorry. I'm out.
+Oh. Sorry to
+hear that, Lori.
+Cuban: You know, guys,
+I think you're better
+without an investor right now.
+If you had an investor,
+you go from just, "What can I do
+on Amazon on my time?"
+Okay, maybe I can
+get this done."
+As a family,
+you can get this done.
+To, "Okay, Mark time, too,"
+and obligations there.
+So for those reasons,
+I'm out.
+Okay.
+?Good luck, guys.
+Congratulations.
+?Good luck.
 I got to believe there's more
 in you than shoelaces,
+and I think you can actually
+help us sell online
+with some of our other
+businesses,
+'cause we can all
+do better with that.
+And I think there's
+unlocked potential within you
+to do different things.
+I'll make you an offer.
+Are you nuts?
 If you believe in
 the vision that I see in you...
 I want to stick to the 33%.
@@ -621,6 +1651,21 @@ I?I just think
 we're gonna do great things.
 I really think you're going to
 help all our entrepreneurs,
+and I think I'm really
+gonna help you guys.
+Guys, you have no reason
+to be desperate.
+Oh, it's ??
+No, no, no, don't ??
+33% is a big chunk.
+No, no, no.
+Hang on a sec, Mark.
+With all due respect,
+I don't think they're desperate
+for a moment.
+And don't imply that my offer
+implied they're desperate.
+I'm just saying, 33%.
 I believe in them.
 $100,000 for 33%.
 No desperation.

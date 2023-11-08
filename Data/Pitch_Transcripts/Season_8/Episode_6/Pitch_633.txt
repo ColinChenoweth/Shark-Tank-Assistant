@@ -2,6 +2,13 @@ Hi, Sharks.
 My name is Dave Cohen.
 I'm from Chapel Hill,
 North Carolina.
+I'm the founder
+and C. E. O. of Sunscreenr.
+I'm seeking an investment
+of $800,000
+in exchange for 10% equity.
+?Oh! Ooh.
+?Wow.
 Cohen:
 Every year in the United States,
 we spend $1.3 billion
@@ -9,6 +16,102 @@ on sunscreen.
 Yet there are
 still over 3 million new cases
 of skin cancer every year.
+And sunscreen,
+it's our best line of defense
+against the dangers
+of U. V. rays.
+However, you can't see if it's
+actually protecting you...
+until now.
+Sunscreenr literally makes
+the invisible visible.
+Sunscreenr is a special viewer
+that uses technology previously
+accessible only to scientists
+to allow you to see the areas
+of your skin that are protected
+and the areas that are not.
+When you look through
+Sunscreenr,
+protected areas appear dark.
+Unprotected areas appear light.
+You can actually see the spots
+where water, sand, or sweat
+have worn away your protection.
+So, whether you just want
+a quick look at your kid's skin,
+or you want to check
+your own protection,
+Sunscreenr has you covered.
+Lori,
+I'd like to invite you up
+to have our Sunscreenr prototype
+in action.
+We have a U. V. lamp here
+which simulates the sun.
+You should probably wear
+some sunglasses.
+Okay.
+This is the prototype.
+And you can see right here.
+There's Lori's hand.
+So, what I'd like you to do
+is just put a streak of
+sunscreen on your hand there...
+... and tilt it
+toward the camera,
+and you can actually see it.
+And that's what it's going
+to look like when you do it?
+?I can see it.
+?You can?
+And you look through.
+I can see it.
+Okay, we good?
+Anybody else want
+to come up for a live demo?
+Yes. Why don't we try it
+on black canvas?
+?Yeah, I want to try it.
+?Sure.
+A black canvas.
+Interesting.
+There you go.
+?Oh, I can.
+?It turns white.
+That's really interesting.
+So, on me, it turns black...
+I'm a white man now!
+[ Laughter ]
+... and on him, it turns white.
+So, what you're seeing is
+the shininess of the sunscreen.
+Sunscreen's job
+is to protect your skin,
+and it does that
+by absorbing the U. V. rays.
+So this is set up
+to detect U. V.
+It throws out all of the
+visible, all of the infrared,
+and only shows you the areas
+where sunscreen absorbs.
+All right, I have a question.
+Sure.
+So, in the video,
+it was very clear to see...
+Right.
+... how it worked.
+When we came up there,
+it was very black and white
+and kind of grainy
+and a little bit harder to see.
+So, for one,
+that was the video
+that goes along
+with our Kickstarter campaign,
+and it was also outside where
+there's a ton more U. V. light.
 Dave, how much was
 your Kickstarter campaign?
 So far, in five weeks,
@@ -31,6 +134,16 @@ or your child's body
 to say, where is sunscreen,
 where isn't it?
 That's exactly right.
+So, I have a PhD in biochemistry
+and biophysics.
+I've spent most of my career
+building medical devices,
+as well as devices
+for the Defense Department
+and for forensic use.
+?Ooh.
+?Now, you're credible.
+I got it.
 Cohen: Today.
 Ooh.
 Five weeks after going public
@@ -93,6 +206,54 @@ until we had this opportunity
 to present it to you guys.
 Cuban: Dave, let's just say
 I'm hanging with my three kids
+and I make
+the perfect application...
+Mm?hmm.
+... of sunscreen.
+Of all the sunscreen
+applications ever,
+this was the best.
+Okay.
+Okay?
+How long does that last?
+30 minutes if they're ??
+if they're in the water,
+jumping in and out of the water
+every 30 minutes?
+If you want
+to protect them properly.
+You're only gonna use this
+if you're diligent, right?
+Right.
+Right, so you have
+to have the discipline
+to do it in the first place.
+Or every time your child
+comes out of the water,
+you bring out Sunscreenr,
+have a quick look.
+That's the problem.
+You can't have a quick look.
+You can, because you hit
+the power button.
+By the time it's up to your eye,
+it's on, and you can see.
+But I've got to check ??
+You've got to turn them around,
+you've got to ??
+No, no, no, no.
+It has a wide field of view
+like your cellphones.
+It's not a microscope.
+It acts like
+a wide?view camera.
+I just think you have sold
+yourself so intently
+on the value of this,
+you've lost
+all self?awareness and context
+about the actual business.
+I'm out.
 Dave, I don't buy the premise
 that people are gonna check
 every 30 minutes,
@@ -113,6 +274,39 @@ in something
 besides your own hype.
 I'm out.
 Thank you.
+I've listened to you, and
+I understand the risks of it.
+But everybody has the same
+problem with the valuation.
+It's not worth
+$8 million today.
+Here's the deal
+I propose to you.
+I'll give you the $800,000
+for 33 1/3%.
+I appreciate that.
+The valuation, of course,
+is way too much.
+I cannot sell a kidney
+to be part of this company.
+[ Laughter ]
+So...
+You wouldn't get $800,000.
+Yes, I would.
+I'm out.
+Thank you, Daymond.
+Your valuation ??
+If you had come in
+with something more reasonable
+to me,
+I would be giving you
+an offer.
+I wouldn't even think twice.
+But I think that your ??
+What's a reasonable valuation?
+What would ??
+What would make sense to you
+given your experience?
 Listen, Dave,
 you're a smart guy.
 Show <i>me.</i>
@@ -129,6 +323,16 @@ for 33 1/3%.
 What are you gonna do?
 Are you gonna counter back,
 Lori?
+There is nothing tangible here
+for me to really understand
+if the consumer
+is going to buy into...
+?Are you in?
+?... using this.
+I'm sorry.
+I'm out.
+?All right. Thank you.
+?Wow.
 Herjavec: Dave,
 you're left with one offer.
 ?I'm left with Kevin.
@@ -149,3 +353,14 @@ You got it.
 Thank you.
 Good luck, Dave.
 Kevin's a good negotiator,
+and ?? and since he was
+the last Shark, you know,
+I didn't want
+to lose the opportunity
+to have a Shark
+as part of our team.
+Narrator: Next into the Tank
+is a business
+that delivers an unusual twist
+to a common product.
+[ Laughs ]

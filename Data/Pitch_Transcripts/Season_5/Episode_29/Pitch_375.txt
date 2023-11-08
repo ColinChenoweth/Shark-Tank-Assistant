@@ -1,8 +1,195 @@
 Hi.
 I'm Dr. Sylvie Shapiro.
+And I'm Nicole Brooks.
+Sharks, we are asking you
+for $75,000
+for a 15% stake
+in Foot Fairy.
+We're both moms,
+and when I have to take my
+four children to the shoe store,
+it looks
+something like this.
+WOMAN:
+No, that is going down!
+HERJAVEC:
+[ chuckles ]
+[ screams ]
+[ laughs ]
+[ crying ]
+[ laughter ]
+[ girl shouts ]
+Running the three bases.
+[ girls screaming ]
+With Foot Fairy,
+you'll never have
+to go through this.
+Foot fairy
+is an iPad app
+that allows you to accurately
+measure your child's foot size
+in the comfort and convenience
+of your own home.
+I'm a podiatrist,
+and parents
+constantly tell me
+they just guess
+their child's shoe size,
+and I see
+so many foot problems
+associated with kids
+wearing the wrong size shoe.
+This is my daughter
+sienna,
+and she'll be demoing
+the app for us today.
+You simply take the iPad,
+place your child's foot
+against it,
+wait for the chime...
+[ chime ]
+and presto!
+Your child's shoe size
+is displayed.
+You then have the option
+of going to get shoes,
+in which you'll be
+linked to zappos
+to a prepopulated page
+of shoes in your child's size.
+So, we at Foot Fairy
+hope that you shark fairies
+will help us
+to make every mom's life
+just a little bit easier.
+And make sure that every child
+is in a proper-fitted shoe.
+Thank you, sienna.
+You can go back to daddy now.
+GREINER:
+Thanks, sienna.
+CORCORAN: Thank you.
+Your app is totally done now,
+but you'd use the money
+to further enhance the app?
+What's missing?
+Oh, well, we want to build out
+the back-end infrastructure,
+so we'd love to be able to
+store our customer e-mails.
+It just really gives us a way
+to encourage people
+to buy shoes,
+to remind them, because --
+But you're not
+selling them shoes, right?
+Why is there an upside
+for that?
+We are.
+Oh, actually,
+that's our sales model.
+Our app is free.
+We have an affiliate sales model
+with zappos
+where we get
+between 8% to 18%.
+How many downloads of the app
+do you have today?
+13,144.
+But we just launched
+three weeks ago officially.
+HERJAVEC: In the three weeks
+you've been doing it,
+have you actually gotten
+a commission check from zappos?
+No.
+We have
+a 98% click-through rate,
+but we cannot
+track our commission
+because
+there was a glitch.
+It was going to the zappos app
+rather than --
+Have you fixed that glitch?
+That's a very important glitch.
+We fixed that
+about three days ago.
+GREINER:
+That's a big click-through rate.
+It was a very big one.
+It's a very big click-through.
+We are very excited.
+GREINER: It's a very big
+click-through rate.
+But where are you
+on the home page?
+Like, I'm curious,
+as you launch --
+We went directly
+from our app to a pre--
+No, no, no.
+But wait, wait, wait.
+I have a question. It's,
+like, getting crazy in here.
+Sorry, sorry. Sorry!
+HERJAVEC: Wow.
+Here's my question.
+Is zappos doing anything
+to advertise you
+so that people
+are going to your app?
+No. We don't need zappos
+to advertise.
+We are confident.
+We spent $2,600
+and got over 13,000 downloads
+in less than 3 weeks.
+Also, I mean,
+another way to make money
+besides
+just the click-through
+is we'd love to have advertising
+and sponsorships.
+But tell me -- Why don't they
+put you on their main site?
+Um...
+We have such a
+targeted market of moms.
+If it -- If it helps --
+GREINER: They should.
+It's an accessory.
+Well, maybe that's something
+you could help us with.
+It's like a help
+to their customers.
+We would love
+to be on zappos' main site.
+We would love to be.
+Yeah.
+Did you suggest it
+in a meeting?
+It's a podiatrist,
+therapist mom.
+[ chuckles ]
+Did you suggest it?
+We're here
+to answer your questions.
 HERJAVEC: Wow, Nicole, you're
 like that dog in that movie.
 When we --
+Like, he's walking along
+doing one thing, and he
+Sees -- "Squirrel!"
+[ laughter ]
+I'm really committed
+to this.
+She is. She's --
+And I'm committed --
+I'm committed to showing you all
+how fabulous this idea is.
+And we know that
+we can make you see --
 CUBAN: But, n-Nicole --
 O'LEARY:
 Why aren't you telling me
@@ -13,10 +200,55 @@ We're the propri--
 We are the -- I'm a podiatrist.
 You're -- You're it?
 L-ladies, if it works --
+If it works
+and you get 10,000 orders...
+We're n-- We're gonna get
+500,000 downloads at least.
+Okay. You're -- You're dead
+before that happens.
+And each --
+You had a great idea.
+There's nothing proprietary
+About it -- Bang! --
+The guys that care
+are gonna emulate this.
+No, actually,
+they can't.
+Because what you have here
+is expertise and passion.
+I'm out.
+GREINER:
+You know what?
+I've never seen somebody
+so exuberant about what
+they're doing as the two of you.
+For me, it's not a business yet.
+You're just at the very start.
+I'm out.
 HERJAVEC:
 Nicole, I love the excitement.
 When you first came out,
 I thought it was a great idea.
+And my first thought was,
+"Wow, I can't believe this isn't
+On the zappos website today."
+So, the question is
+is it such a difficult
+technology to create
+that nobody else could do it?
+CUBAN:
+Who wrote the software?
+We have a tech-- Technology team
+that worked with both of us.
+To create --
+And where'd you get
+your technology team?
+Where did we
+get them from?
+Yeah.
+We researched it,
+and we found them.
+We -- Yeah.
 But, Sylvie, do you realize,
 by virtue of that answer,
 if you were able to, as
@@ -31,9 +263,190 @@ No, Robert.
 Please don't say that.
 [ laughter ]
 I'm out.
+So, that -- That leaves
+Barbara and Mark.
+CORCORAN: I think, uh,
+you're a perfect example
+of, "Enthusiasm is not enough."
+You're wildly enthusiastic,
+but that's where it ends.
+It's a wild card.
+I don't know
+if it's gonna work,
+whether you can
+make money on it.
+Um, so I couldn't
+possibly invest.
+I'm out.
+And now -- Now we've left
+with mister....Mr. Mark.
+Um, if some world-renowned
+podiatrist walked in the door
+and you had
+to defend the product
+and why it's better than
+something this world-renowned
+podiatrist could create,
+what would you say?
+Because this is
+what I'm passionate about.
+CUBAN:
+No, forget passion.
+T-this --
+That's not the right answer.
+I'm trying to figure out
+what differentiates you.
+Okay.
+And if I hear the word
+"passion" again, I'm out.
+'Cause I already know
+you're passionate.
+The longer the backstory,
+the worse the business.
+So, world-famous podiatrist
+walks in the door
+and says,
+"Okay, Dr. Foot Mom,
+why is yours better
+than something I can create?"
+Right.
+So -- bam --
+what's the answer?
+NARRATOR:
+Four sharks are out.
+Sylvie and Nicole
+have one more chance for a deal.
+So, world-famous podiatrist
+walks in the door
+and says,
+"Okay, Dr. Foot Mom,
+"why is yours better
+than something I can create?
+What is it
+that you brought?"
+Right.
+So -- bam --
+what's the answer?
+Accuracy.
+Why is your accuracy going
+to be better than somebody --
+Because we spent
+over a year
+determining
+how to make this
+the most accurate
+shoe-sizing app.
+So,
+if I did a search for
+"app that determines
+child's foot size,"
+trying to get
+a feel for the competition,
+what would I see?
+You would see ours.
+Foot fairy.
+What else?
+You would see
+a couple other apps.
+And what I-- And what about
+theirs is different than yours?
+The mom has
+to put the child's foot
+and then slide their finger
+on it.
 BROOKS: A lot of room
 for parental error.
 It's not as accurate.
+We really wanted ours
+to be convenient and accurate.
+That's why we
+went to shopping malls
+and had kids test it.
+Got it. Got it.
+Here --
+Here's why I'm interested.
+I have a company called
+fashion metric,
+and they did a whole exhaustive
+analysis just on men's shirts.
+So,
+if you're this body type,
+this is the shirt
+that fits you in this manner
+versus that manner.
+Sensors and metrics, I think,
+are gonna be huge in the future.
+So I like this.
+Mm-hmm.
+My fear?
+You guys
+will drive me batty.
+They'll put me
+in the loony bin, right?
+We would love to work with you.
+I mean, we really would.
+And we -- We won't
+drive you batty.
+We -- We'll work together,
+we will, you know -- we'll
+seek any of your advice
+that you have.
+I mean, I really, really
+want to get this to parents.
+We really believe, as you said,
+that is the future,
+that we want to be a --
+People to sit in the comfort
+of their own home
+and be able to have --
+Purchase things
+that fit them properly
+that are for their health
+and for their aesthetic.
+I'll offer you $100,000...
+...For 40%,
+but I'm gonna put
+contingencies on it, okay?
+One -- I get to go through
+and test to make sure it works.
+Absolutely.
+Two--
+I get to go through and check
+to make sure that
+there's nothing comparable.
+Three -- I'm gonna
+check all the contracts
+to make sure that we truly
+do own the software,
+and that it's well-written.
+So, it's 100k, 40%.
+Yes or no?
+Yes.
+Yes.
+Done.
+Thank you.
+And if I need therapy,
+I get to call it off.
+[ laughs ]
+Yeah.
+That would be
+a door relationship...
+Thanks, guys.
+Thank you.
+Thank you so much.
+...So I couldn't --
+I couldn't engage in that.
+Thanks, guys.
+Thank you.
+GREINER: Congratulations.
+Good luck.
+Thank you.
+Thank you so much.
+High five?
+[ both squeals ]
+We're so excited that we're
+gonna be working with Mark.
+[ cheering ]
 SHAPIRO: I mean, this is,
 like, really a dream come true.
 Mr. Cuban,
@@ -47,3 +460,94 @@ entrepreneurs.
 Whoa! Wow!
 DYER:
 Business has really taken off
+since making a deal
+with Kevin and Robert.
+We're coming up on half
+a million dollars in revenue.
+YOUNG: Since partnering with
+Lori, in less than eight months,
+we've done over $3 million
+in sales.
+Those aren't projections.
+Those are real numbers.
+TSELIKIS: We're so lucky to have
+made a deal with Barbara.
+Just a year later,
+we're approaching
+$3.5 million in sales.
+CUBAN:
+What's up, Doug?
+MARSHALL:
+Making a deal with Mark and Lori
+changed our life
+beyond our wildest dreams.
+MAN: Going on "Shark Tank" has
+taken a small, little product
+that was run out of my apartment
+and made it into
+a multimillion-dollar company.
+This is a great start,
+but this is just the beginning.
+I am so proud of you.
+Thank you so much, Mom.
+One day, I hope to be
+the best company in America
+for women to work for.
+As far as women have come
+in the corporate world,
+I think there's still
+a long ways to go,
+and I want to be the one
+to make that change happen.
+CHILD:
+Since "Shark Tank,"
+we've done almost $6 million
+in sales nationwide.
+We like to think
+that we're continuing
+the tradition
+of American innovation.
+It's awesome to be able
+to create jobs
+and provide a living wage
+for lots of employees.
+CAMERON:
+Manufacturing has been gone
+for a long time in this state.
+But we're bringing it back.
+O'LEARY: There's never been
+anything like "Shark Tank."
+It's the most powerful
+venture-capital firm on Earth.
+It has sharks, it has money,
+and it has millions of people
+watching.
+When you put all of
+those together, magic happens.
+QUACKENBUSH:
+Our "Shark Tank" experience
+has been a roller coaster
+of emotion.
+To think that
+we started in a street tent --
+And now what the future
+holds for us just blows us away.
+WHITEMAN: Each morning, I've
+woken up, I've pinched myself.
+I just can't believe
+this is really happening,
+and I just can't wait to see
+what happens in the future.
+KRUMINS: It brings me to tears
+thinking about how proud I am
+to show my daughter
+that you can do this,
+that you can follow your dreams.
+I'm truly touched.
+Thank you.
+NARRATOR:
+Next into the tank
+are entrepreneurs
+with a simple solution
+to a tedious
+and time-consuming problem.

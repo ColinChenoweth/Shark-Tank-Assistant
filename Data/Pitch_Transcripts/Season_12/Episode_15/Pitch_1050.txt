@@ -7,9 +7,166 @@ in my company, Hopscotch.
 Wow.
 Back in the day
 when you were little Sharks,
+did you ever run
+a lemonade stand
+or mow your
+neighbor's lawn?
+Kids love
+running businesses
+because it's a way
+to make their own money
+and participate
+in the real world.
+But in today's
+digital economy,
+lemonade stands
+are a thing of the past.
+That's why
+I created Hopscotch.
+It's the best way
+for young entrepreneurs
+to build and run
+their first business
+on the Internet,
+all from their mobile device.
+They use the kid?friendly
+programing language I invented
+to make incredible games
+that rival anything
+you see in the store.
+And that's not all, Sharks.
+By selling those games
+to the hundreds of thousands
+of children in our community,
+they can turn their creations
+into real currency.
+And the best part ??
+they're learning
+real coding skills
+that will be valuable tools
+in their future college classes
+and even careers.
+Through our fun educational app,
+parents will be blown away
+with what their kids can make.
+They'll learn concepts
+from game design
+to graphics, animation,
+and so much more.
+So, Sharks,
+you've all talked to kids
+about how they are the
+entrepreneurs of the future.
+Here's your chance to put
+your money where your mouth is.
+Which one of you
+wants to hopscotch with me
+into the digital age?
 Your last name
 is John?
 My last name <i>is</i> John.
+I feel such
+an affinity to you.
+And you are from Brooklyn?
+Yeah.
+We ?? We might be family.
+I might have to
+call my mommy.
+[ Laughter ]
+So, in front of you,
+you have an iPad,
+and I've chosen two of my
+favorite Hopscotch games
+in a demo version
+of Hopscotch
+for you to try.
+You didn't pick
+the ones I did?
+That I posted to Hopscotch
+with my daughters?
+Oh.
+So, the first game
+I want you to try
+is called
+Kaleidocosmos,
+and it's a drawing game
+where everything you draw
+will be repeated eight times.
+So you make this really cool
+kaleidoscope drawing.
+And this game was made
+five years ago in Hopscotch.
+It's since received
+over 2.2 million plays.
+Heck, it's a lot of fun
+to do, isn't it?
+Yeah.
+Can I see your drawing?
+Well, I'm not sure
+I'm so proud of it,
+but there it is.
+Oh, I love it!
+Oh, I like that!
+It's like a logo.
+Ooh, Kevin,
+I like that!
+Lori, that is
+really pretty!
+I call it
+"Man's Inhumanity Against Man."
+[ Laughter ]
+Daymond, what you got?
+That is really cool.
+It kind of looks 3D.
+Oh, Daymond.
+Yeah.
+The second game
+is a platformer game,
+and that was created
+more recently in Hopscotch.
+This game
+was made by a kid
+who has been on Hopscotch
+for over four years.
+I got up
+to the first level.
+Greiner:
+Oh, I gotcha.
+?Um...
+?Oh, my God.
+Well, I'm not
+winning this game.
+This is child's play ??
+literally.
+Ohh, just missed it.
+I'm so ill with mine.
+I actually want to
+show you guys a demo
+of how the coding
+in Hopscotch works
+so you can just
+get a sense of it.
+So, this is
+the coding editor,
+and you're coding
+with these cool characters.
+I'm just gonna walk you
+through making this game
+where the crocodile is
+gonna go after the octopus,
+and then
+it's gonna eat it.
+And then, you can do ??
+With just a little bit
+more code,
+you can start to see
+how this turns into a game.
+So, now, the crocodile
+has all these other people,
+and it's getting bigger
+as it eats more.
+That's pretty cute.
+Thank you.
 That's awesome, yeah.
 Greiner: Samantha,
 tell us about you.
@@ -21,11 +178,222 @@ I never thought
 that coding was for me.
 I was like, "Computers?
 Those are for boys."
+And it wasn't until
+my senior year of college
+that I took my first
+computer science class,
+and it was so empowering,
+and it was so creative.
+And I was like,
+"Why didn't I know
+that programing was so fun
+and creative and interesting
+and I could make things that
+people actually care about?"
+So, Hopscotch actually
+launched in 2012,
+and at that time,
+it was all free.
+And our first week,
+we got 20,000 downloads.
+So we got a lot of press.
+You guys were
+on top of the world.
+You were dominating
+for kids' programing
+languages at the time.
+Totally.
+O'Leary: And there was
+no revenue at that time?
+No revenue,
+no revenue model.
+Continued to build.
+We were first?time
+entrepreneurs.
+We were like,
+"Grow, grow, grow!"
+Honestly, guys, like, when it
+comes to kids and school,
+there's some other
+alternatives...
+Yeah.
+...but Hopscotch is
+the go?to name.
+They crush it, right?
+And by the way,
+when I said I used it
+and posted an app,
+I meant it, right?
+Yeah.
+I use Scratch.
+And then, when my kids first
+got into it at school,
+we used Hopscotch
+and developed games.
+That's awesome.
+It's intriguing.
+How do I make money?
+So, we have a currency
+that you can buy
+in Hopscotch
+from the App Store.
+And then, you'll be able to
+use that currency
+inside another kid's game.
+So, that'll be
+the revenue?
+You'll keep the 2/3
+of the revenue
+from the app
+you'll sell?
+Yes.
+And then, eventually,
+we want to
+let kids share
+in the revenue, as well.
+So we would eventually
+let kids cash out
+that they earn
+in their game.
+What the active
+user base?
+Our active
+user base now
+is about 200,000
+active users a month.
+What was your peak?
+Our peak was in 2015,
+I believe,
+and we were at about
+400,000.
 Um, Samantha, I'm not gonna
 take a journey with you.
 I've been in your sector
+and spent many, many years
+of my career in it,
+and I swore that when I left
+and I exited
+that that was it for me ??
+that I would try
+other things.
+I'm out.
 Mark is Samantha's
 last chance for a deal
+for her kids' coding app
+and marketplace, Hopscotch.
+So my foundation ??
+the Mark Cuban Foundation ??
+we do something called
+the AI Boot Camp,
+and we want to
+introduce kids ??
+to high school kids,
+primarily,
+in minority communities,
+'cause they don't
+get the chance, right?
+I could work with you to do
+a coding camp for kids ??
+how to make money
+with your phone.
+Yeah.
+Right?
+How to create games
+to make money.
+Yes.
+And go in even if
+we have to provide them.
+I'd love that.
+So I'll give you
+the $400,000,
+but I want 16%.
+16%.
+Yeah, and I'll
+tell you why ??
+because this is
+a lot of work
+and I'm gonna be that person
+you call or email.
+Mark...
+I would love to have you
+be one of our investors.
+Can I negotiate with you
+on the price?
+No.
+Mark, you know, if you're
+valuing this as a startup,
+it's like a startup with
+an experienced entrepreneur
+with eight years
+of experience
+building programing
+languages for kids,
+who's proven that
+she can get earned media,
+who's proven that
+she knows how to run
+a profitable business,
+has proven she knows ??
+It's doing $35,000
+in revenue per month
+after eight years.
+And I'm not trying to
+take anything away
+from you at all.
+Obviously,
+I'm incredibly impressed,
+but the future
+of your company
+is truly in the balance
+right now.
+You know,
+Hopscotch is my baby.
+I need to value my company
+for all the amazing assets
+that it has.
+So, fair enough.
+So ?? Okay.
+So, only because
+I'm a softie...
+Corcoran: [ Laughs ]
+Okay, what would you do
+knowing that I don't
+want to come off the 16%?
+What would you do?
+So, how about, uh...
+$600,000 for 5%?
+I'm out.
+O'Leary: Ooh.
+Ouch.
+I'll give you
+one more chance.
+Um...
+We're not close.
+You've got to
+at least be close.
+Yeah, we're not close.
+I think that maybe
+it might just be
+that the way
+I value Hopscotch
+just isn't quite ??
+There's no way
+in the world
+you thought you were coming
+in here and getting 4%.
+And if 5% is your end,
+then you really
+did not want to do it.
+Uh, yeah.
+Okay, wait ??
+You don't need to
+talk to me about it,
+but, come on,
+let's be realistic.
+Actually, I think
+I did the math wrong.
+I'm sorry, I was gonna say
+$600,000 for 10%.
 ...do Johns always
 figure it out?
 ?Good for you, Samantha.
@@ -44,3 +412,7 @@ I ?? It ?? I felt like
 I wasn't even myself.
 It was such
 an incredible moment.
+And then, the fact that
+we got a deal with him,
+I just ?? I ??
+I've lost all my words.

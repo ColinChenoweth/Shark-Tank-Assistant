@@ -2,6 +2,75 @@ Hello, Sharks.
 My name is Yannis Moati.
 I'm the CEO
 of Hotels by Day.
+And I'm Brian Dass,
+CTO of Hotels by Day.
+We're here today
+seeking $750,000
+in exchange for 10%
+of our company.
+Sharks, our company is
+reinventing the hotel stay.
+How many times have you
+or someone you know
+traveled to a city
+just for the day?
+You get into the city
+at 8:00 A. M.,
+and you have a meeting
+at 1:00 P. M.
+What do you do
+with those hours in between?
+There is a massive gap
+in the market,
+and that is why we've created
+Hotels by Day.
+Jimmy...
+Together: Roll the tape!
+Hotels by Day,
+through our app and our website,
+allows customers
+to book a day room.
+You arrive early at your hotel,
+you check in early,
+you relax in your room,
+you order some room service,
+refresh, own your meeting,
+and close the sale.
+Our model is a paradigm shift
+in the hospitality industry.
+It generates revenue
+for hotels.
+It gives guests
+flexibility.
+And it closes the loop
+on the customer journey.
+So, Sharks, who's ready to check
+in early with Hotels by Day?
+Why does it feel like
+a "Saturday Night Live" skit?
+[ Laughter ]
+How does it work?
+Tell me the pricing.
+So, on average,
+it's six hours
+that are being provided
+by the hotel at $90.
+O'Leary: I have one question
+that could settle this
+in either a great way
+or it could end badly
+right here.
+Please, go ahead.
+Why in the world
+wouldn't all the other sites
+that already exist in a really
+cluttered, competitive space
+simply add this feature?
+Sure.
+Well,
+technology right now
+doesn't allow any of the majors
+to go into the space.
 Herjavec:
 Yannis, hang on a sec.
 There's
@@ -14,11 +83,80 @@ I'm dying to hear this.
 Why?
 Most hotel?property?management
 systems
+cannot handle
+a day?room booking.
+?It does not work like that.
+?Let me ask you a question.
+But they charge late?check?in
+rates all the time,
+unless you're able
+to negotiate out of it.
+Let's use a chain name ??
+a Marriott ??
+I say, "Look, I'm not
+checking in until 4:00."
+"I'm sorry, there's
+an extra $80 charge there."
+You just mentioned that
+there's an analogue process ??
+you calling the hotel,
+you e?mailing the hotel.
+Sacca: Before we
+move on, just ??
+So how have you solved
+that technology problem
+with your own
+outside technology?
 Dass:
 We're actually connecting
 to what is called
 a channel?management system
 that actually connects
+to the availability, rates,
+and inventory.
+So there is a way that we're
+connecting to get the rates
+to be able to set the rates up
+to the half?a?day room.
+Cuban: So how are
+you blocking out ??
+Wait, how ??
+Can I step back?
+It doesn't ?? wait.
+Can I step back?
+The central reservation system
+does not take in day bookings.
+It's 30?year?old
+technology.
+Any booking that goes
+into the CRS,
+the central
+reservation system,
+is factored in
+as a night stay.
+?No, I accept that.
+?So wait.
+You're not doing a ??
+so, look,
+you're not doing a great job
+of explaining it.
+If their internal technology
+can't do it,
+how does your
+external technology...
+All right.
+...fix or supplant
+or override or bypass
+their internal
+technology?
+Chris.
+Let me tell you.
+We are taking a fraction
+of their inventory
+that is sitting empty
+between 9:00 and 6:00,
+and we are selling it
+to the customers.
 With the workaround technology
 that Brian has created ??
 Well, what <i>is</i>
@@ -35,6 +173,242 @@ we're connecting
 to a channel manager,
 going straight
 into the hotel.
+And that is something that
+we are provisionally patented.
+Herjavec: How can that
+be proprietary?
+Let's say Kevin's
+one of the other travel sites.
+He hires a CTO
+that can develop any ??
+He didn't write
+the software.
+Anyone can duplicate
+technology.
+It's not a barrier drain.
+It's a hack.
+It's just
+the first?to?market advantage.
+Right.
+How many hours
+have you rented?
+What's your margin?
+How many customers do you have?
+Et cetera, et cetera?
+We are at 6,500 bookings.
+All of the year of 2015,
+we generated about $127,000
+in gross booking revenue,
+of which we're taking 14%,
+all right?
+That's all?
+That's our cut, yes.
+It's low.
+Wow.
+But it's ??
+But it's reasonable.
+It's a starting point.
+Do you have a deal
+with big hotel chains?
+Yes.
+We have signed every single
+brand out there individually ??
+300 properties.
+But get back to ?? why don't
+the big guys crush you
+like the cockroaches
+you are?
+As I said before,
+they cannot connect right now.
+They will not
+waste their time.
+Kevin,
+they'll be wasting more time
+to try to connect
+to a CRS that does not work.
+What you're doing is
+you're selling
+somebody else's product,
+and you're telling us
+they're incapable of selling it
+and that you have
+some hack to get to it.
+But you've done a really
+poor job of explaining
+why that hack is so hard to make
+or why it's defensible
+or why it's proprietary
+to you at all.
+Well ??
+And so don't be shocked
+that there's a lot of doubt
+on this side of the room.
+First of all, the hotel
+can't sell day rooms.
+They have not created
+a system behind it.
+And two, the technology
+and the protocol,
+they are missing.
+It takes time,
+it takes investment.
+Guys, I do think it's a problem
+you're trying to solve.
+That said, every time
+I tried to ask you
+what technological, defensible,
+proprietary approach
+do you have here,
+I couldn't get a straight answer
+back from you guys.
+I don't actually think
+there is something there.
+But we've also filed
+several patents.
+It feels like
+a cobbled?together hack, like ??
+No,
+but before you go on ??
+But, sure, go ahead.
+We've had conversations
+at the majors.
+They think it's really
+interesting what ??
+They think it's
+really interesting,
+but those conversations
+haven't ended up in a sale
+'cause you don't have
+anything to buy.
+Your competition isn't
+the big hotel chains.
+It's the software layer that
+already rides on top of that.
+If you came in here
+and told me
+you were reinventing
+the entire management system
+the way OpenTable reinvented
+the booking platform
+for a restaurant,
+I'd be interested,
+but you're not.
+The quickest way to double
+your money in this deal
+is to fold it over,
+put it in your back pocket.
+I'm out.
+Ouch.
+Herjavec: Wow.
+Just so you know,
+up to last May,
+we've generated $300,000,
+so the model is accelerating
+20% month?to?month growth.
+Yeah, because you're working
+with tiny numbers, though ??
+that's why.
+The challenge is
+how big can it be.
+Just to give you
+an idea,
+we've seen how many people
+log into our site from New York
+that converts into a day stay
+in New York ?? it's 8%.
+If we were to run 8%
+throughout the top cities
+of visitors
+into our website,
+we'll be already
+at 12,000 bookings.
+Let's say you do that,
+right?
+You get
+the 12,000 bookings.
+Yeah, easy.
+Easy.
+That's $200,000
+gross revenue.
+That's $28,000 a month.
+That's not enough.
+I'm out.
+Well, all right.
+Thank you.
+Guys, it's a great idea.
+Mm?hmm, thank you.
+I do this all the time
+when I travel.
+I show up
+at 8:00 in the morning.
+We always have to book
+two nights of hotel rooms.
+There's no question
+that there is a market there.
+But I just think that
+you're a proof of concept
+for one
+of the bigger players.
+If you prove the market,
+they'll do it.
+There's nothing proprietary
+that you have.
+I'm out.
+Uh, thank you,
+Robert.
+Thank you.
+I?I'd like
+to reassure you
+that the majors
+won't play this game.
+They cannot
+get into it.
+Never build the strategy
+on the stupidity
+of your competitors.
+If there's a market there,
+and you prove the market...
+No, that is not
+the strategy.
+...they're gonna do it.
+The strategy
+is for us to grow it.
+Either way, I'm out.
+Mark's out.
+Chris is out.
+Kevin and Lori are still in.
+Well, let me tell you
+what I think.
+I see your product
+as like a big puzzle.
+And there's so many missing
+pieces for me that I'm out.
+If I thought that there was
+a cockroach strategy ??
+and there's nothing wrong
+with being a roach,
+be the best roach
+you can be ??
+at the end of the day,
+if you can survive
+because nobody else wants
+your tiny market, that's great.
+It's true.
+But that's not
+what you said.
+$750,000 ??
+if you had made this
+maybe $150,000, $250,000,
+I'd ride with the roaches
+for a while, figure it out.
+I like the space actually,
+but I can't do that.
+You've made it impossible
+to invest.
+I'm out.
+Thank you, Kevin.
+Thank you so much
+for your time.
 Dass: Thank you.
 Thank you.
 ?Good luck.
@@ -44,9 +418,28 @@ Sacca: There's nothing
 more frustrating
 than asking questions
 about somebody's tech stack
+and not getting
+any answers back.
 Moati: The Sharks did not see
 the opportunity today.
 They gave us
 absolutely no time
 nor a chance to explain
 how we do business,
+and that was a shame.
+Shame on them.
+Their whole point is
+they simplify that process.
+But they automate that.
+Yeah.
+Look ?? it's a problem
+that needs to be solved,
+the hotels would like
+to make the extra money.
+They didn't do anything
+to convince us
+that they're
+the guys to do it.
+And they're
+cockroaches.
+[ Laughs ]

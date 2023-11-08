@@ -1,5 +1,33 @@
 Hey, sharks,
 I'm Daniel Wood...
+and I'm David Martschinske,
+and our product
+is the first and only
+electric
+self-balancing unicycle,
+or sbu for short.
+We are asking for $300,000
+in exchange for 10% equity
+in our company.
+So how does it work?
+Basically, there are
+three rate gyros,
+three accelerometers,
+a powerful 32-Bit processor
+running p.I.D. Loops,
+fuzzy logic, and kalman filters,
+calculating the exact angle
+of the sbu.
+The motor is then
+driven forward and backward
+in a locked, anti-phase
+P.W.M. Configuration.
+Keep going.
+Keep going.
+Don't worry, sharks.
+I speak nerd,
+and I can provide
+the translation.
 What Daniel's trying to say here
 is that the sbu has some really
 smart sensors inside of it
@@ -19,6 +47,65 @@ It does all that for you
 with no pedaling.
 The sbu's motion is
 intuitive to your movements,
+making riding feel easy
+and second-nature.
+And it's so portable,
+you can put it
+underneath your desk at work.
+And because it's hands-Free,
+if you're like Daniel,
+you can program
+a t.I.-85 graphing calculator.
+What a nerd.
+(laughs)
+(laughter)
+Even a nerdy laugh.
+The sbu is capable of speeds
+of 15 miles per hour,
+and going ten miles
+on a single charge.
+What sharks are ready to
+ride nerdy with these two guys?
+Nerdy. (laughs)
+(Robert) can I try it?
+You want to come
+see how it feels? Yeah.
+We got a helmet for you.
+Okay.
+Here's how it works.
+You turn the power on...
+okay.
+You see it--It's balancing
+forward and back,
+so you put your hand here,
+you can feel it.
+So you just
+lean it forward...
+Lean forward.
+To get more speed,
+and you lean it back
+to slow down.
+Whoa! You can
+feel it moving.
+Whoa--Whoa.
+All right, hang on.
+I gotta get this.
+It takes about 20 minutes
+to learn, usually,
+in a large parking lot.
+I gotta try it.
+(Robert) All right.
+Come on up here.
+It's a lot harder than
+I thought it would be.
+In my early years
+in the circus...
+(laughter)
+Just lean it forward
+to go.
+That is very cool.
+Lean it back
+to slow down.
 (Robert) Let him go!
 (Daniel laughs)
 I can turn. Very cool.
@@ -31,12 +118,152 @@ Make a deal,
 we'll give you one for free.
 I think I could get it.
 I think I could get it.
+And you've been selling them
+for how long?
+We just finished tooling up
+our factory overseas.
+First 100 units
+are finishing up this week,
+and we've already sold
+all of them.
+What was your cost?
+$350,000 for this first run.
+And you sold the first 100
+at $1,800?
+Yeah, just off of our web site.
 Daniel, do you know
 what happened
 to, uh, one of the founders
 of the segway?
 He had an accident.
 Yeah. He hopped on the segway,
+and it fell into the river,
+and he drowned.
+Oh, my God.
+Why didn't the segway work?
+Why didn't people buy it?
+The segway was hyped
+like no other product.
+I'm not gonna talk bad
+about the segway,
+but you can't do this
+with the segway.
+The nail in
+the segway coffin
+was banning it
+from the sidewalk.
+Have you gone
+into that issue
+and asked anybody
+at the city level,
+would you ban this device
+from my city?
+They're not nearly as big.
+I don't think they're
+gonna have a problem.
+'cause it's single-Wheel.
+It's not wide.
+We've been stopped
+by many officers,
+only because
+they love the product.
+They ask the same questions
+you guys do.
+"When--Where can I get one?
+They're cool."
+I need to feel passionately
+about whatever I invest in.
+I love the two of you,
+but I don't feel passionate
+about this product.
+For that reason,
+I'm out.
+You know, I was interested
+for a second.
+I was unaware that the segway
+business model doesn't work.
+Is that--that true, Robert?
+Horrible.
+Horrible. One of
+the biggest losses
+in terms of investment.
+I am not willing
+to take this risk.
+I'm out.
+A difficult decision.
+I hate those,
+because I'm very interested.
+I see a lot of the merits.
+But I don't know
+if it's worth $3 million.
+Well, let us tell you about
+our--Our future sales.
+A very conservative Number
+is selling 1,000 of these
+in 12 months,
+which puts us
+at $1 million profit.
+You could do a million in profit
+in the next 12 months?
+Yeah. Oh, yeah.
+How are you guys gonna do
+quality assurance
+when it's produced overseas?
+'Cause if--If you run into
+any manufacturing issues at all,
+you're toast.
+We visited the factory.
+We've already worked with them.
+But having them tell you,
+"Oh, we're good"
+is a whole lot different
+than them actually delivering
+the quality that you expect.
+I mean, look at apple.
+They went through
+the same thing, right?
+Brilliant design.
+But I hate trust--Trusting
+overseas manufacturing.
+And so for that reason,
+I'm out.
+Okay.
+For me to give you
+a $3 million valuation today,
+I have to believe
+in the mass transport market.
+And I've seen other people
+fail in that.
+I know you're different.
+Well, before
+you say you're out,
+we do have the most advanced
+ebyte controller
+on the market in here.
+I designed
+the circuit board.
+I embedded a lot of technology
+that's very proprietary to us.
+Oh, I didn't realize that.
+But do you have patents?
+We have patents
+filed, yes.
+Filed.
+We're already talking
+with e-bike manufacturers
+who want to license
+this technology from us.
+In fact, we've already licensed
+it to one other company,
+and we're receiving royalties
+on that right now.
+Wait a minute. You said--
+You didn't say that before.
+How much royalties
+are you receiving?
+$25,000 in royalties.
+In how long?
+About three months.
 Daniel, incredibly impressive.
 You've definitely
 got something there.
@@ -51,3 +278,40 @@ I just spent $5,000
 ordering an electric bike.
 I think that market's gonna
 be absolutely huge,
+and it doesn't have
+this technology in it.
+Are there any other offers?
+Anyone else wanna...
+you're playing a very dangerous
+balancing act right now.
+You have two sharks interested
+when honestly, I think
+we were all gonna be out.
+I don't think you should waste
+much more time.
+(Chin straps click)
+Let's do it.
+Yeah, let's do it, sharks.
+All right.
+Congratulations, guys.
+Congratulations.
+Come on, guys,
+get excited about this.
+Whoo!
+There you go.
+The technology's
+gonna make money.
+We're gonna make
+a lot of money.
+Congratulations, guys.
+Man, that was awesome.
+We just made a deal
+with two of the biggest nerds
+on "Shark Tank."
+We're gonna make
+a lot of money,
+and we're gonna put
+an sbu
+in every cubicle
+around America.
+Nerds rule!

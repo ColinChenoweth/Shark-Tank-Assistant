@@ -29,7 +29,7 @@ def transcript_to_pitch():
                             for name in pitch_names:
                                 if "<i>" == subs[i].text[0:3] and "</i>" == subs[i].text[-4:]:
                                     break
-                                if not name == '' and str.upper(name) in str.upper(subs[i].text) and 'NEXT' not in str.upper(subs[i].text):
+                                if name != ''  and name != 'and' and str.upper(name) in str.upper(subs[i].text) and 'NEXT' not in str.upper(subs[i].text):
                                     # seg_abt[-1].append(prev_pitch_num + pitch_num)
                                     seg_abt.append([prev_pitch_num + pitch_num])
                                     segments.append([])
