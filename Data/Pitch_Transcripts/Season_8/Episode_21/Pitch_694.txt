@@ -1,18 +1,877 @@
-I'm Brian.
-And I'm Kyle.
 Hi, Sharks.
-I'm Brian Riley.
-And I'm Kyle Jansen.
-We're from
-Irvine, California,
-Kyle can go
-into the sales with those.
-So far,
-we've done $95,000 in sales.
-We project that we'll
-get to about $350,000
-in our first year.
-Brian and Kyle have an offer
-on the table from Kevin
-for their safer?brake
-technology company,
+I'm Ian.
+I'm Alex.
+And I'm Tov.
+We are the founders of Validated
+from Portland, Oregon.
+We are here today seeking
+a $250,000 investment
+in exchange for 8%
+in our company.
+Whether it's $16 parking or a
+sudden surge in your ride share,
+getting around is expensive, and
+these costs can keep you away
+from the shops and restaurants
+that you love.
+What if I told you your favorite
+shops, bars, and restaurants
+would cover your ride?
+Introducing Validated, the app
+that lets you earn free parking
+and free rides
+when you shop and dine.
+Think of it like free shipping
+for yourself.
+We'll discover the businesses
+around you
+that will help cover
+your transportation costs
+in exchange for being
+their customer.
+Just tap a business to see
+what's required to qualify
+and how much
+they'll validate.
+Once you've spent
+the required amount,
+simply slide and scan
+to unlock validation credits.
+Stack credits from multiple
+shops and restaurants,
+and then redeem them
+to your preferred mode
+of transportation.
+It's a win?win proposition that
+makes getting around less a drag
+and boosts businesses'
+bottom line.
+So, Sharks, which of you
+is ready to get Validated?
+It's interesting
+because it gets people
+back into
+brick?and?mortar easier.
+Yeah, and th?? and
+that's exactly what we're ??
+what we're seeing, Lori,
+is that businesses
+are doing anything
+that they can
+to get foot traffic
+back in the stores per customer.
+W?W?Wait. Bar??
+Let me ask you
+a simple question,
+because I ??
+I really don't get it.
+Arnerson: Yeah?
+When I shop and I get
+a dress for $200,
+they will give me,
+basically, free parking?
+They will give you
+credits based on that spend.
+But would it be enough
+for me to park my car
+and shop for three hours?
+Totally depends
+on the merchant.
+So, we let the merchants
+set their own offers
+and their own spending
+thresholds.
+But even that vagueness, I would
+think, from the consumer view,
+uh, would be confusing
+and not that motivational.
+The exciting thing about it is
+that you can stack up as you go.
+So, let's say you're gonna go
+out on ?? on the town,
+you're gonna buy
+a pair of shoes,
+you're gonna go have lunch,
+you're gonna hit a movie.
+You can validate as you go, and
+as you stack those credits up
+you can easily pay
+for your whole trip.
+Sacca:
+Give us some numbers.
+Give us some sense of success
+or failure so far.
+So, right now we have
+50 merchants
+in our launch cities
+of Seattle and Portland.
+Right now, we're averaging
+about 25 validations
+per merchant
+across those 50.
+And so, the numbers are low.
+We're early.
+How early? How long has
+this been in business?
+So, we started
+this last July.
+We kind of pivoted
+from something else
+into this business.
+Uh, by last fall, we had
+a minimum viable product,
+and we've been rolling
+this thing out.
+Tech question for you guys ??
+what were you scanning?
+We were scanning a QR code
+that's essentially
+a benign token
+that is currently ??
+Right, but where is that?
+What ?? It looked somebody
+was holding something?
+Yeah, exactly.
+So, essentially
+you would walk up to the
+merchant at the cash out
+and would ask,
+"Can I get validated?"
+The merchant has it behind
+the counter and shows it.
+Okay, so the merchant
+has their code...
+Yeah, exactly. Yeah.
+... and you just scan it.
+So, what would you estimate
+the value of a point to be?
+So, what we ??
+Sacca: No, to be clear ??
+So it's one?to?one
+per dollars.
+Wait. Wait.
+Okay, can we just get rid of ??
+You're not parking your car.
+It's equal to a dollar?
+This is ?? This is to get you
+a ride to and from, right?
+So it's really like one credit
+is one dollar.
+One credit, one dollar?
+Uh, you can ?? you can push
+validation credits for parking.
+So, we're gonna be partnering
+with PayByPhone,
+which has 12 million users.
+They're a parking?payment
+processing app.
+It doesn't need
+to be that complicated.
+Look, Uber works 'cause
+it's push a button, get a ride.
+Your whole model should be "Buy
+some stuff, get a ride," period.
+Like, not "Park your car,"
+and not, like,
+"Hey, you can buy
+some of the stuff here,
+and some of the stuff there,
+and split your car
+parked on this level and
+that level and buy more time."
+The minute you say, "Use your
+transportation mode of choice,"
+and I start seeing you integrate
+public?transportation systems
+and all that stuff,
+you've just made your comp??
+your product
+so unnecessarily complex.
+Yeah, but they've got
+bigger problems, right,
+because you have to be the bank
+for the points.
+We are the bank, yes.
+And you have to convince people
+that the currency is valuable,
+so you're also
+the Federal Reserve.
+That's a nightmare.
+Right?
+Chris suggests Uber,
+but that's a limited option.
+[ Laughs ] Yeah.
+Not everybody uses Uber.
+No one's ever called 85%
+of the market
+a "limited option."
+Well, no, no, but it's still
+not ?? not everybody's
+gonna use it.
+You just drove to the mall.
+Chances are you didn't drive
+to the mall in an Uber.
+Well, the chances
+are extremely high
+you just went to the mall
+in an Uber, actually.
+Right, that's why parking lots
+are empty.
+Yes, Uber, Lyft ?? they are kind
+of the zeitgeist right now.
+Everybody wants to use it.
+But in
+the transportation pie,
+if you look at it,
+it's actually below 5%.
+Be honest ?? when you start
+slicing it to the people
+who have an iPhone,
+who download apps,
+who are in the target market
+for your advertisers,
+it's a huge, huge piece
+of the pie.
+Definitely, definitely.
+No doubt. Yes.
+So we're not including,
+you know, Florida retirees
+who go to the 4:00...
+That's not the issue.
+It doesn't even matter, right?
+It doesn't matter.
+... early?bird dinner.
+The point is
+you're the bank.
+Let's be honest here.
+You're a consumer bank
+and you're the Federal Reserve,
+which complicates things
+to an extreme.
+You have so many
+integration points
+with all the different
+participants.
+It's burdensome, and there's
+gonna be ongoing bugs forever.
+That makes it more expensive.
+The ?? The ??
+So, for those reasons,
+I'm out.
+Okay.
+You know, this sounds
+so complicated.
+Maybe I'm missing
+the point here.
+It's ?? It's n??
+I'm not even sure
+there's a need for it.
+I'm definitely out.
+Okay. So, let me just address
+Barbara's point.
+So, the reason that
+there's a need for it
+is because retailers are seeing
+everyone move to online, right?
+And so when you buy a product
+in e?commerce,
+what happens is 33%
+of the time that product
+is shipped back, and there's
+this endless volley, right?
+And so, what the
+brick?and?mortar retailer
+want to do is they want
+to get people in the store.
+I hate this.
+This is going
+to zero for sure.
+You said you pivoted
+into <i>this</i> nightmare.
+Pivot the...
+the beep out of it.
+This is a dog.
+I'm out.
+Thank you.
+You know,
+I see some merit.
+I could see restaurants
+really loving it.
+I'm not sure, though,
+how many people
+are gonna be using the app,
+and for that reason,
+I'm out.
+Thank you, Lori.
+Thank you.
+I initially saw the tag line
+in the first couple of screens,
+and I'm like,
+"That is smart".
+Mm?hmm.
+"These guys are
+driving traffic
+on a deal?discovery basis."
+And then with each additional
+slide, you lost me.
+It's complicated.
+There's choices.
+The user experience sucks.
+"We're gonna try and accommodate
+your car and your parking
+in this level
+and that level,"
+and then you show me
+the QR code.
+QR codes are the herpes
+of mobile technology.
+It should be as simple as
+"Buy some stuff, get a ride,"
+period.
+Look, I don't believe
+you're gonna make it.
+I'm out.
+Thank you.
+Good luck, guys.
+Please,
+light the QR codes on fire.
+Yeah, you don't want
+to be a bank.
+You want to be
+a connection.
+Thank you.
+Thank you.
+Tov: The way that we understand
+our business,
+the way that we understand
+our customers
+is far beyond, uh,
+what they understand...
+Mm?hmm.
+...and I think it's been so long
+that they worried
+about paying
+for transportation,
+they don't understand,
+like, what a pain point it is
+for the rest of us.
+And our business is
+Guardian Bikes.
+I first came up
+with the idea
+seven years ago
+when I was in college.
+My grandfather got in a really
+serious bike accident
+and broke several vertebrae
+in his neck.
+He fully recovered
+after a couple years,
+but it was a traumatic
+experience for me and my family.
+That work?
+Nice.
+There's a lot of
+other technologies out there
+where when you get
+in an accident,
+it helps to not make them
+so severe,
+but what's great
+about our technology is
+it prevents accidents from ever
+happening in the first place.
+Just like seat belts
+and windshield wipers
+become safety standards
+in the car industry,
+we want to make our technology
+the safety standard in bikes.
+Not bad.
+Here we go.
+Our families have invested
+over $100,000 in our business.
+Even my grandpa invested
+in our business,
+so there's a lot of pressure
+to succeed.
+What happened
+to my grandfather,
+I don't want to see happen
+to anybody else,
+and that's why we're trying
+to bring this technology
+to as many people
+as we can.
+We know we can make
+millions of dollars
+and also prevent
+hundreds of thousands of people
+from going to the emergency room
+each year.
+[ Tires scraping ]
+and our company is
+Guardian Bikes.
+We're seeking
+a $500,000 investment
+in exchange for 10% equity
+in our company.
+Sharks, riding a bike is
+an essential joy of childhood.
+It's almost
+a rite of passage
+when you can finally take off
+on your own.
+However, those
+early experiences don't come
+without the risks
+of an occasional spill.
+Parents are always
+looking for ways
+to keep their kids safer.
+We're here to help.
+Guardian has created the world's
+safest children's bikes.
+The secret sauce
+to Guardian Bikes
+is our patented
+SureStop technology.
+Similar to antilock brakes
+in cars,
+SureStop solves the problem
+of incorrect braking.
+On a traditional bike,
+if a child brakes too hard
+or pulls the wrong brake lever
+at the wrong time,
+the front wheel can
+stop too soon,
+causing the bike
+to flip over.
+Mm?hmm.
+Not with Guardian Bikes.
+SureStop uses just
+one lever
+and always actives
+the rear brake first,
+and then intelligently
+adds in the front brake,
+eliminating the chance of ever
+going over the handlebars.
+With both front and rear brakes
+always engaging,
+kids can stop faster
+and with more control.
+But we didn't want
+to stop at just safety.
+None of this matters
+unless kids love their bike.
+So we designed our bikes
+to appeal to kids
+with striking designs that
+make them not only the safest,
+but the coolest kids bikes
+on the block.
+So, Sharks,
+are you ready
+to help us bring Guardian Bikes
+to every family in America?
+Sacca:
+So, let me ask you guys,
+which one of you guys
+has scars to prove
+that you had wipeouts like that
+as a kid, 'cause I g??
+[ Laughs ]
+Literally, I have
+this huge gash in my chin
+from that exact wipeout.
+We both have the scars,
+and the whole inspiration for ??
+for the company is
+my grandfather
+had that exact accident,
+and he was really unfortunate
+and landed on his head and broke
+several vertebrae in his neck.
+Oh, wow.
+And it was a ??
+It was a terrifying thing for ??
+for me and my whole family
+to have a family member
+go through that.
+My question right
+out of the gate for you guys
+is why in the world
+would you go forward
+and build a bike company
+when you've got a technology
+that every bike company
+would want?
+So we're launching
+the Guardian Bikes.
+We've launched those
+about seven months ago.
+We look at Guardian
+as giving us revenue.
+It's scaling revenue
+a lot faster
+than the licensing model
+was,
+but it's a Trojan horse, because
+we're educating the market
+on why this is safer
+with our own bikes.
+We're the only ones ??
+But that's expensive, expensive,
+expensive, expensive,
+both from a marketing
+and a capital investment
+for your inventory.
+Well, actually, it's returning
+us a lot of revenue,
+and that way,
+we can make a lot more money,
+you know, per sale
+than the licensing side,
+which is oftentimes
+waiting like
+a year?and?a?half
+sales cycles.
+We need to get to the point
+where we're doing, you know,
+millions of bikes,
+and we can get there.
+We've got, uh, Pacific Cycle,
+which is, you know,
+the single biggest manufacturer
+of bikes by volume
+in the United States.
+They have finally gone forward,
+and they're pitching
+a SureStop?equipped model
+into Walmart.
+Yeah, that doesn't make sense,
+like, to me.
+Yeah.
+If it's $4 to put this
+on your bike,
+and you keep your kids safer,
+why would you not take this
+and put it
+on every single bike you have?
+They've tried.
+You know what?
+It ?? It just ??
+It does not make sense to me.
+And you have a patent.
+Yes, and, Lori, the reason ??
+And you could go
+to one of the majors, and ??
+The reason why we got
+into making our own bikes
+was one of them told me,
+he said,
+"Well, if I put this on
+some bikes and I don't
+put them on others,
+I might get sued that I didn't
+have it on another bike."
+Getting the distribution
+into the major points of sale
+is extremely challenging.
+It requires a tremendous amount
+of capital.
+We've gone from zero
+to selling in 65 bike shops
+in about 7 months.
+We're adding ??
+It's nothing.
+I?I know,
+but we're adding ??
+It's nothing.
+But it's getting the company
+to a point
+where we're making money.
+Corcoran: You want to know
+what you're missing?
+You're missing a salesman.
+Well...
+If a great salesman
+had had that opportunity
+to FaceTime
+with the bike manufacturers,
+I got to believe you'd be
+in a different position.
+I'm sorry, but I'm out.
+All right,
+thanks, Barbara.
+Thanks.
+Tell us what
+a Guardian Bike costs
+versus any other bike.
+The 24?inch bike get
+its landed cost of $146,
+and we sell it wholesale
+for $240.
+The smaller size here ??
+we landed for $132,
+and we sell it for $228.
+That's a more expensive bike
+than I could buy
+for a kid at Walmart.
+Yeah.
+But we've started with
+the most premium bike first,
+and that's
+what these ones are.
+We can introduce bikes
+at different price points
+whenever we want.
+We want to be known
+as making
+the safest children's bike,
+the best children's bike ??
+What's been the biggest outlet
+you've received PR in so far?
+Well, the way that we've gotten
+most of our sales
+online, for example, is,
+there's a review site
+called Two Wheeling Tots,
+and they said
+these bikes are truly safer
+than what's out there,
+and that's lead to, really,
+100% of our online sales.
+But you're doing it
+as a Trojan horse
+to get the big guys to play
+with you anyways.
+L?Let me be very clear
+on your mistake ??
+Your marketing sucks.
+Your PR strategy sucks.
+You didn't come in here
+telling us
+how you were gonna
+make parents aware
+that they need to be
+buying these bikes
+for safety reasons, right?
+You haven't told us how
+you're gonna get there at all.
+You haven't told us
+about a social?media strategy.
+You haven't told us
+about giving it to influencers.
+This is really what your deal
+boils down to ??
+Could I forbid you
+from making Guardian Bikes?
+I could keep you focused
+on what has to get done.
+In the meantime, you're wasting
+your time listening
+to Cuban's crap
+about building bikes
+when he knows there's not
+a chance in hell
+you'll make money
+doing that long term.
+They already are.
+They're making nothing!
+2,000 bikes is nothing.
+Let's say if I gave you
+500K for 20%,
+but you're forbidden
+from building bikes.
+Yes or no?
+Guardian Bikes.
+But it comes
+with a big contingency.
+Let's say if I gave you
+500K for 20%,
+but you're forbidden
+from building bikes.
+Yes or no?
+Corcoran:
+Gosh. [ Laughs ]
+You could tell him
+to take a walk.
+I don't want you spending
+any of your time
+competing in the
+bicycle manufacturing business.
+All of your time
+should be spent
+focusing on getting
+the OEM license.
+You need adult supervision.
+You can't keep doing this.
+You can't spend your time
+building bikes
+and selling them
+one at a time.
+Imagine the power of an adult
+making you focus
+on what it's gonna take
+to make you rich.
+[ Laughs ]
+Why don't you take ??
+I just want to focus these guys
+on concrete answers.
+Yeah.
+So what I can't get a straight
+answer from you guys on is,
+is this really
+the smartest decision?
+You're gonna go through
+all the headache
+of being in a bike?manufacturing
+company
+and everything you're gonna need
+to do in terms of design
+and promotion and marketing
+and all that stuff.
+Is it because you're able
+to capture more share
+than the $4 you're gonna make
+in a royalty per unit?
+That's what
+I'm struggling with.
+To give you an example,
+REI sells SureStop?equipped
+bikes already
+in every one of their REI stores
+on their house brand.
+But that's only
+about 4,000 bikes a year,
+so you make four bucks off
+4,000 bikes a year.
+It doesn't create
+enough revenue.
+So we needed
+a Trojan horse,
+we needed our own bike brand,
+and this is what we're doing.
+Proof of concept business.
+Exactly, exactly.
+Yep.
+You're at a fork in a road.
+One road,
+you can see down the road.
+The sun is shining, butterflies
+are flying in the breeze,
+beautiful flowers
+are blooming.
+The other road,
+straight into hell
+in perpetuity.
+Guardian is
+the road to hell.
+The other one is you simply wait
+out the manufacturers,
+get as much PR around ??
+Yeah, it's ??
+Exactly.
+Elon Musk will tell you
+he's building the car
+for his battery business,
+right,
+and proof of concept
+to demonstrate the technology.
+I made an offer.
+It's 500K for 20%,
+but I personally take Guardian
+behind the barn and shoot it.
+You don't spend
+any time on that.
+I've identified
+the path to success.
+You should listen to me.
+I'm absolutely right.
+Cuban's 100% wrong.
+I'm never wrong.
+And so,
+at the end of the day,
+I'm the only offer
+you've got.
+It's time
+to make a decision.
+Riley: Is there another offer
+on the table from ??
+from either
+Lori or Chris?
+I was thinking, the only way
+this is appealing to me
+is if we buy the patent.
+I do a lot of manufacturing.
+Okay, that's it, guys.
+I'm out.
+The size of your product alone
+makes it difficult.
+My offer's pulled back.
+Good luck with the other Sharks.
+Ohh.
+I don't like the disrespect
+you've given me.
+Kevin, we're ??
+we're open to your offer.
+We're just trying
+to listen ??
+We're trying to be respectful
+to the other Sharks.
+Good luck with you.
+Sacca: Look, growing up,
+I know there are
+three rules to life ??
+never go to bed
+without flossing,
+never text while driving,
+and never, ever get involved
+in something
+this capital intensive,
+right?
+My great granny told me
+those three rules.
+Chris, I?I hear ya.
+So, I haven't seen
+a clear path to that yet.
+I'm tapping the brake.
+I'm out.
+What I'm feeling here is,
+is that there is
+some problem with getting <i>them</i>
+to put this on every bike.
+And so, unfortunately,
+because that didn't happen,
+I'm gonna go with my gut,
+and I'm out.
+Okay, I'm gonna make you
+an offer, guys,
+but there's
+a lot of contingencies.
+Well...
+Okay.
+Cuban:
+The contingencies are,
+between Guardian Bikes
+and SureStop Technology.
+We think we can make
+the whole thing successful,
+and he's gonna be a
+great partner to help
+us reach our goals.
+I'm actually sad
+for you,
+because I just saw you turn down
+the wrong road into hell.
+Bye, Mark. Bye.
+Never gonna see him again.
+When I talk to my grandkids ??
+"I knew Mark Cuban."
+"Where's he now, Daddy?"
+[ Laughs ]
+"He's in hell."
+[ Laughter ]

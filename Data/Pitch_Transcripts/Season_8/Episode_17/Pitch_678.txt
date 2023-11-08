@@ -1,588 +1,445 @@
-Hi, Sharks.
-My name is Scott Lininger.
-And I'm Aidan Chopra,
-and we are from
-beautiful Boulder, Colorado.
-Our company is Bitsbox,
-and we are here today
-seeking $250,000
-for 3% of our company.
-Herjavec: Whew.
-Bitsbox is the world's
-most creative way
-to teach kids a skill that will
-change their lives forever ??
-computer coding.
-These days,
-it's not enough
-for kids to just know
-how to use computers.
-They need to know
-the language of computers,
-and that language
-is called "coding."
-Coding is a golden ticket to
-a great job and a great future.
-And the best thing
-is that anybody can learn.
-The hard part
-about teaching kids to code
-isn't getting them interested,
-it's <i>keeping</i> them interested.
-That's why
-Bitsbox is a present
-that comes in the mail
-every month.
-It's a subscription box
-that teaches
-real computer programming.
-So, we wanted to show you
-how it works.
-So, what we did is invite one of
-our very favorite Bitsbox?ers ??
-Grace, over there ??
-to help us.
-Now, Grace's box
-just came in the mail,
-and she's super excited.
-It just so happens
-that this month,
-there is a "Shark Tank" app
-in the box.
-She goes to the Bitsbox website
-she goes into her account,
-she starts
-a brand?new app,
-and she starts
-to type in the code
-exactly as it appears
-on the card.
-Now, here's the thing ??
-code is just
-a set of instructions
-that tells a computer
-what to do.
-So, if we actually look
-at the code that she's typed,
-you can see line one
-tells the computer
-to fill the screen
-with an image of a shark tank.
-Line two tells it to stamp an
-image of a shark on the screen,
-and line three says, "Hey,
-when somebody taps that shark,
-I want you
-to make the shark pop."
-The Bitsbox approach
-is to give the kids
-lots of example projects,
-just like this one,
-that they can build upon.
-And eventually, you start making
-your own stuff from scratch.
-Now, Grace is pretty advanced,
-so she's already gone
-and created the rest
-of the challenges in this app.
-Herjavec: Whoa.
-And you can see,
-she's made a full video game
-with animations
-and sound effects.
-?Oh.
-?Oh.
-"Mark wins?"
-I'm out.
-Cuban: Good, Grace.
-[ Laughs ]
-So, Sharks, who wants
-to help us change the world?
-Grace, how old are you?
-10.
-Were you coding
-before you did this?
-Yes. I was coding Python
-and some C++ before this.
-[ Chuckles ]
-I mean, that's awesome.
-What do you want to be
-when you grow up?
-I want to be
-a bionic?limb programmer.
-A bionic?limb programmer,
-huh?
-What?!
-?Good for you, Grace.
-?That's amazing.
-Well, what makes you
-want to do that?
-Yeah.
-Well, 'cause I really loved
-anatomy when I was little,
-and I actually told
-my neighbor one time ??
-I brought out
-my book of diseases to him
-and I said, "What's your
-favorite disease?"
+Hello, Sharks.
+My name is Yannis Moati.
+I'm the CEO
+of Hotels by Day.
+And I'm Brian Dass,
+CTO of Hotels by Day.
+We're here today
+seeking $750,000
+in exchange for 10%
+of our company.
+Sharks, our company is
+reinventing the hotel stay.
+How many times have you
+or someone you know
+traveled to a city
+just for the day?
+You get into the city
+at 8:00 A. M.,
+and you have a meeting
+at 1:00 P. M.
+What do you do
+with those hours in between?
+There is a massive gap
+in the market,
+and that is why we've created
+Hotels by Day.
+Jimmy...
+Together: Roll the tape!
+Hotels by Day,
+through our app and our website,
+allows customers
+to book a day room.
+You arrive early at your hotel,
+you check in early,
+you relax in your room,
+you order some room service,
+refresh, own your meeting,
+and close the sale.
+Our model is a paradigm shift
+in the hospitality industry.
+It generates revenue
+for hotels.
+It gives guests
+flexibility.
+And it closes the loop
+on the customer journey.
+So, Sharks, who's ready to check
+in early with Hotels by Day?
+Why does it feel like
+a "Saturday Night Live" skit?
 [ Laughter ]
-And I said,
-"Mine's tapeworm."
-[ Laughter ]
-We had that same conversation
-at lunch with Kevin.
-Yeah.
-All right,
-tell us about the business.
-You bet. So, Bitsbox ranges
-in monthly subscriptions
-from $20 to $40 a month,
-depending on the options
-that you choose.
-How long do I have
-to sign up for?
-It's up to you.
-You can start up
-month?to?month
-and cancel at any time,
-or you can sign up
-for a full year in advance.
-What do I get
-for that price difference?
-The $40 level
-is the full box.
-It has a set of app cards
-every month.
-You get a toy
-that matches the theme,
-such as a whoopee cushion
-with code on it.
-Anything else we can think of
-to keep the kids excited.
-What is the ages for this?
-Somewhere between
-6 and 14.
-Cuban: What does a box
-cost you to make?
-About $10.
-But that's at printing very,
-very small quantities of paper.
-It gets much cheaper
-at scale.
-How long
-have you been doing this,
-and what
-have your sales been?
-We launched the product
-less than two years ago.
-Wow.
-Since then, we've done
-$1.3 million in revenue.
-Are you making
-any money yet?
-We're not
-cash?flow positive yet
-because we have a team
-of five full?time people.
-But we are on the road
-to be cash?flow positive
-this upcoming quarter.
-What's your background?
-Aidan and I met ??
-we worked at the world's largest
-Internet company, Google.
-Scott built this as a prototype
-for his daughter when she was 7.
-She loved it, and a few other
-kids loved it, as well.
-He decided
-he was gonna quit, and ??
-you want
-to re?create it?
-Yeah.
-[ Inspiring music plays ]
-Aidan, let's quit.
-Let's go teach
-the world's children to code.
-You had me
-at "Let's quit."
-We actually did that.
-[ Laughter ]
-We did that because,
-at the time, you know ??
-it was pretty good.
+How does it work?
+Tell me the pricing.
+So, on average,
+it's six hours
+that are being provided
+by the hotel at $90.
+O'Leary: I have one question
+that could settle this
+in either a great way
+or it could end badly
+right here.
+Please, go ahead.
+Why in the world
+wouldn't all the other sites
+that already exist in a really
+cluttered, competitive space
+simply add this feature?
+Sure.
+Well,
+technology right now
+doesn't allow any of the majors
+to go into the space.
 Herjavec:
-That was really good!
-And did you go out
-and raise money
-after that romantic...?
-Yeah. So, we did a seed round
-last summer for $500,000
-on a $4 million
-pre?money valuation.
-$250,000 at 3% imputes
-an $8 million value.
-Mm?hmm.
-Why would you
-raise the price
-by a factor of seven
-for a Shark?
-Is that
-a sign of disrespect?
-No, no, not at all.
-We looked at
-all of our revenue to date,
-and we took
-a 10?x multiple on that.
-We'd done about $400,000
-in revenue.
-How much of that
-is left in the bank right now?
-We raised a bridge note
-last spring...
-?How much?
-?Oh, oh.
-...for $600,000.
-?Oh.
-?Oh.
-Chopra:
-It's a convertible note
-at a $6 million cap.
-You did a great job
-of selling yourselves.
-This is a great
-and very valuable product.
-I'm gonna clear the field
-to my fellow Sharks,
-who have more experience in the
-subscription business than I do.
-So, I'm out.
-?Thank you.
-?Thank you, Lori.
-O'Leary: What you're doing
-is important because
-we're only graduating 50,000
-engineers a year in America,
-and the Chinese are
-graduating 260,000.
-Wow.
-We're losing the race.
-So, this is very useful.
-I'm glad you get it.
-So, I'm going to applaud
-watching Cuban and Sacca
-beat the living you?know?what
-out of each other
-to get a piece
-of this deal.
-I'm out.
-I don't know.
-I didn't hear anything
-from Robert.
-You've done an amazing job.
-I know this space.
-Make an offer.
-I'm not gonna
-make an offer,
-'cause I think
-there's a lot of competition,
-and I don't want
-to be in this space.
-I'm out.
-?Okay. Thanks.
-?Thank you.
-Well, then, Mark Cuban,
-Chris Sacca.
-Guys, I'm gonna make it
-easier on Chris.
-I love what
-you're doing, right?
-I think the goal is phenomenal,
-all right?
-I think you've made
-great progress.
-But I think, to get it to scale
-to any meaningful level,
-I think it's gonna
-be very difficult
-and become
-more expensive,
-and you're gonna have
-to raise much more money.
-I'm out.
-Okay.
-Thanks.
-Greiner:
-And then there was one.
-Hey, guys.
-?Chris.
-?Hey.
-I love
-being in this position.
-We're Googlers,
-you're a Googler.
-[ Laughs ]
-Feel free to be a savage
-on equity, Sacca.
-Look, I'm intrigued.
-It's a company I can believe in.
-Such an important
-subject matter
-to the kids of America
-and beyond.
-Yes.
-And so,
-I'm gonna make you an offer.
-Sure.
-I'm gonna give you
-your 250K
-at a $5 million valuation.
-We do have many,
-many other investors,
-and I think
-we want to do right by them
-by making
-the right decision.
-But none of them
-are Sharks.
-No, we completely
-understand that.
-But I think what we want
-to understand is,
-dilution is a real thing,
-and I think we're trying
-to do the right thing by them,
-as well.
-I need to own
-enough of your company
-for me to get
-really thrilled about it,
-to throw everything I have
-into it, and to go for it.
-So, you asked
-for an $8 million valuation.
-Mr. Sacca's brought it way down
-to $5 million.
-?He sure has.
-?What are you gonna do?
-Are you gonna hit
-Enter or Delete?
-Chris has made an offer
-for Scott and Aidan's
-children's?coding
-education company, Bitsbox.
-But it is well below
-their initial valuation.
-So, you asked
-for an $8 million valuation.
-Mr. Sacca's brought it way down
-to $5 million.
-?He sure has.
-?What are you gonna do?
-Are you gonna hit
-Enter or Delete?
-So, Chris,
-we think you're amazing.
-No offense to any
-of the other Sharks,
-but you were the guy that
-we would absolutely love
-to have in the deal.
-Good sucking up.
-What about a valuation
-of $7 million?
-Ooh, all that niceness,
-and then ?? boom.
-Look, I'm very confident about
-the value I bring to your deal.
-I mean,
-you guys moved 0.57% off
-where you were
-when you came in here.
-Sure.
-I see an inconsistency
-in your statements ??
-between all this love
-you're showing me
-and then the numbers
-you came back with.
-Ugh.
-I don't even want
-to come back.
-Let me see
-that piece of paper.
-Sure.
+Yannis, hang on a sec.
+There's
+a technical reason
+why the other people
+can't offer this
+on a block?hour rate?
 Yeah.
-Would you do 4%?
-That's the valuation,
-is 6 1/4 ??
-$6.25 million.
-$6.25 million.
-Your last investors came in
-at a $6 million cap.
-Are we seriously
-nickle?and?diming over $250,000?
-I mean ??
-?Wow.
-You're that close, and you're
-gonna show me the disrespect?
-O'Leary:
-Give him the $6 million.
-Give him the $6 million.
-[ Sighs ]
-I'll tell you what ??
-I'll tell you what,
-I'm gonna make it
-easy on you.
-I know what I bring
-to the table.
-And this is a long,
-long road ahead,
-and you've got the ruler out
-and you're measuring
-in quarters of inches right now.
-You're not looking
-at the magnitude of value
-I can bring down the road.
-And so, I'm gonna make it
-easy on you ?? I'm out.
-?Oh, oh.
-?Ouch.
-?Ooh.
-?Whoa.
-The better way
-to understand it is,
-he wanted $5 million,
-you wanted $8 million.
-It seemed that you could've
-agreed at $6 million,
-you nickle?and?dimed him
-for $6.25 million,
-which, obviously,
-he's not happy with.
-Right.
-If you did the deal
-at $6 million,
-I don't know.
-Chris, what if
-we did $6 million?
-I know that you feel offended,
-but you have to understand ??
-this isn't malevolence,
-it's ineptitude.
-[ Laughter ]
-We would love
-to work with you.
-It sends a message to me, you're
-not focused on the bigger prize.
-You're thinking about
-some of the tiny, little
-nit?picks along the way.
-You're losing him!
-You're losing him!
-You know what,
-I'm gonna jump in here
-and say that
-we would love to do...
-What are we doing?
-Can we do 4.75%?
-Oh, my gosh,
-why not just do the 5%?!
-I'm sorry.
-Let's sort of reset this.
-And we completely agree that
-having you on the Bitsbox team
-would be worth
-5% of equity to us.
-So, with the benefit
-of time and humility
-and a certain amount
-of humiliation,
-uh, what do you think,
-Scott?
-[ Sighs ]
-I mean, look, guys,
-here's the thing...
-W?Wow.
-...three, four decimal places
-matter a lot
-when you're trying to put
-a rocket on the moon.
-Mm?hmm.
-But in the early days
-of your business,
-when you're putting together
-your founding teams,
-your investors and users...
-Yeah.
-...it just shows me
-your priorities and your focus
-might be
-in the wrong place,
-that you're nitpicking
-over that stuff
-that really doesn't matter
-a hill of beans in the end.
-What do you think,
-Scott?
-[ Exhales sharply ]
-Good luck to you guys.
-I'm out.
-Should we do it?
-Should we do $5 million?
-He's out!
-Greiner: No, you guys.
-He's out.
-It's over.
-Yeah. Y?You've hesitated
-so many times.
-And by the way,
-I'm hiring Grace.
-Oh, it's over?
-We're done?
-?Yeah.
-?It's over.
-There's no more to go?
-It's over
-for the third time.
-Lininger: Okay, yeah.
-Well, thank you very much,
+I'm dying to hear this.
+Why?
+Most hotel?property?management
+systems
+cannot handle
+a day?room booking.
+?It does not work like that.
+?Let me ask you a question.
+But they charge late?check?in
+rates all the time,
+unless you're able
+to negotiate out of it.
+Let's use a chain name ??
+a Marriott ??
+I say, "Look, I'm not
+checking in until 4:00."
+"I'm sorry, there's
+an extra $80 charge there."
+You just mentioned that
+there's an analogue process ??
+you calling the hotel,
+you e?mailing the hotel.
+Sacca: Before we
+move on, just ??
+So how have you solved
+that technology problem
+with your own
+outside technology?
+Dass:
+We're actually connecting
+to what is called
+a channel?management system
+that actually connects
+to the availability, rates,
+and inventory.
+So there is a way that we're
+connecting to get the rates
+to be able to set the rates up
+to the half?a?day room.
+Cuban: So how are
+you blocking out ??
+Wait, how ??
+Can I step back?
+It doesn't ?? wait.
+Can I step back?
+The central reservation system
+does not take in day bookings.
+It's 30?year?old
+technology.
+Any booking that goes
+into the CRS,
+the central
+reservation system,
+is factored in
+as a night stay.
+?No, I accept that.
+?So wait.
+You're not doing a ??
+so, look,
+you're not doing a great job
+of explaining it.
+If their internal technology
+can't do it,
+how does your
+external technology...
+All right.
+...fix or supplant
+or override or bypass
+their internal
+technology?
 Chris.
-[ Scattered groans ]
-I don't think we've ever lost
-a deal on "Shark Tank" for .25%.
-Thank you, everybody.
-Okay.
-?Thanks, guys.
-?Thanks very much.
-?Good luck, guys.
-?Thank you, Grace.
-Thank you for your time.
-She's so polite.
-Cuban:
-She's so polite.
-For .25%, they let it
-slip between their fingers.
-Bozos.
-I think
-you're pretty good.
+Let me tell you.
+We are taking a fraction
+of their inventory
+that is sitting empty
+between 9:00 and 6:00,
+and we are selling it
+to the customers.
+With the workaround technology
+that Brian has created ??
+Well, what <i>is</i>
+that techno??
+Like, is it actual technology
+or is just a hack?
+Yes, it's technology ??
+I'll tell you why ??
+because we're connecting
+to a channel manager.
+So instead of going
+through the CRS,
+we're connecting
+to a channel manager,
+going straight
+into the hotel.
+And that is something that
+we are provisionally patented.
+Herjavec: How can that
+be proprietary?
+Let's say Kevin's
+one of the other travel sites.
+He hires a CTO
+that can develop any ??
+He didn't write
+the software.
+Anyone can duplicate
+technology.
+It's not a barrier drain.
+It's a hack.
+It's just
+the first?to?market advantage.
+Right.
+How many hours
+have you rented?
+What's your margin?
+How many customers do you have?
+Et cetera, et cetera?
+We are at 6,500 bookings.
+All of the year of 2015,
+we generated about $127,000
+in gross booking revenue,
+of which we're taking 14%,
+all right?
+That's all?
+That's our cut, yes.
+It's low.
+Wow.
+But it's ??
+But it's reasonable.
+It's a starting point.
+Do you have a deal
+with big hotel chains?
+Yes.
+We have signed every single
+brand out there individually ??
+300 properties.
+But get back to ?? why don't
+the big guys crush you
+like the cockroaches
+you are?
+As I said before,
+they cannot connect right now.
+They will not
+waste their time.
+Kevin,
+they'll be wasting more time
+to try to connect
+to a CRS that does not work.
+What you're doing is
+you're selling
+somebody else's product,
+and you're telling us
+they're incapable of selling it
+and that you have
+some hack to get to it.
+But you've done a really
+poor job of explaining
+why that hack is so hard to make
+or why it's defensible
+or why it's proprietary
+to you at all.
+Well ??
+And so don't be shocked
+that there's a lot of doubt
+on this side of the room.
+First of all, the hotel
+can't sell day rooms.
+They have not created
+a system behind it.
+And two, the technology
+and the protocol,
+they are missing.
+It takes time,
+it takes investment.
+Guys, I do think it's a problem
+you're trying to solve.
+That said, every time
+I tried to ask you
+what technological, defensible,
+proprietary approach
+do you have here,
+I couldn't get a straight answer
+back from you guys.
+I don't actually think
+there is something there.
+But we've also filed
+several patents.
+It feels like
+a cobbled?together hack, like ??
+No,
+but before you go on ??
+But, sure, go ahead.
+We've had conversations
+at the majors.
+They think it's really
+interesting what ??
+They think it's
+really interesting,
+but those conversations
+haven't ended up in a sale
+'cause you don't have
+anything to buy.
+Your competition isn't
+the big hotel chains.
+It's the software layer that
+already rides on top of that.
+If you came in here
+and told me
+you were reinventing
+the entire management system
+the way OpenTable reinvented
+the booking platform
+for a restaurant,
+I'd be interested,
+but you're not.
+The quickest way to double
+your money in this deal
+is to fold it over,
+put it in your back pocket.
+I'm out.
+Ouch.
+Herjavec: Wow.
+Just so you know,
+up to last May,
+we've generated $300,000,
+so the model is accelerating
+20% month?to?month growth.
+Yeah, because you're working
+with tiny numbers, though ??
+that's why.
+The challenge is
+how big can it be.
+Just to give you
+an idea,
+we've seen how many people
+log into our site from New York
+that converts into a day stay
+in New York ?? it's 8%.
+If we were to run 8%
+throughout the top cities
+of visitors
+into our website,
+we'll be already
+at 12,000 bookings.
+Let's say you do that,
+right?
+You get
+the 12,000 bookings.
+Yeah, easy.
+Easy.
+That's $200,000
+gross revenue.
+That's $28,000 a month.
+That's not enough.
+I'm out.
+Well, all right.
+Thank you.
+Guys, it's a great idea.
+Mm?hmm, thank you.
+I do this all the time
+when I travel.
+I show up
+at 8:00 in the morning.
+We always have to book
+two nights of hotel rooms.
+There's no question
+that there is a market there.
+But I just think that
+you're a proof of concept
+for one
+of the bigger players.
+If you prove the market,
+they'll do it.
+There's nothing proprietary
+that you have.
+I'm out.
+Uh, thank you,
+Robert.
+Thank you.
+I?I'd like
+to reassure you
+that the majors
+won't play this game.
+They cannot
+get into it.
+Never build the strategy
+on the stupidity
+of your competitors.
+If there's a market there,
+and you prove the market...
+No, that is not
+the strategy.
+...they're gonna do it.
+The strategy
+is for us to grow it.
+Either way, I'm out.
+Mark's out.
+Chris is out.
+Kevin and Lori are still in.
+Well, let me tell you
+what I think.
+I see your product
+as like a big puzzle.
+And there's so many missing
+pieces for me that I'm out.
+If I thought that there was
+a cockroach strategy ??
+and there's nothing wrong
+with being a roach,
+be the best roach
+you can be ??
+at the end of the day,
+if you can survive
+because nobody else wants
+your tiny market, that's great.
+It's true.
+But that's not
+what you said.
+$750,000 ??
+if you had made this
+maybe $150,000, $250,000,
+I'd ride with the roaches
+for a while, figure it out.
+I like the space actually,
+but I can't do that.
+You've made it impossible
+to invest.
+I'm out.
+Thank you, Kevin.
+Thank you so much
+for your time.
+Dass: Thank you.
+Thank you.
+?Good luck.
+?Thanks, bye.
+Thanks.
+Sacca: There's nothing
+more frustrating
+than asking questions
+about somebody's tech stack
+and not getting
+any answers back.
+Moati: The Sharks did not see
+the opportunity today.
+They gave us
+absolutely no time
+nor a chance to explain
+how we do business,
+and that was a shame.
+Shame on them.
+Their whole point is
+they simplify that process.
+But they automate that.
 Yeah.
-You're doing pretty good
-on your own.
-I think we did okay.
-You don't need
-some famous person
-with a lot of money
-just to...
+Look ?? it's a problem
+that needs to be solved,
+the hotels would like
+to make the extra money.
+They didn't do anything
+to convince us
+that they're
+the guys to do it.
+And they're
+cockroaches.
 [ Laughs ]
-...to keep going
-with the business, you know?
-That's right.
-I like your attitude.
-?Yeah.
-?Thank you.
-Thanks, Grace.
-You made me feel better.
-?Yeah.
-?Cool.

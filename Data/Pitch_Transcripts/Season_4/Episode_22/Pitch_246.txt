@@ -1,336 +1,601 @@
-Hello.
-My name is Aaron Lemieux.
-My company is tremont electric,
-and I'm seeking
-a $2 million investment
-for a 22% equity stake
-in my company.
-Whoa.
-Mm-hmm.
-Mobile electronic devices,
-smartphones --
-It seems like our entire lives
-are revolving around these days.
-But they have one fatal flaw --
-The batteries always run out
-whenever we need them the most.
-But you don't need to worry
-about that anymore.
-We have a technology
-that allows us
-to harvest an energy
-that's all around us.
-Introducing our first product --
-The award-Winning npower Peg,
-the world's first
-human-Powered charger
-for mobile electronic devices.
-This takes
-your human walking Motion
-and turns it into the power
-that you need.
-Simply place it inside of a bag
-and go about
-your daily activities.
-The Peg stores your power
-for when you need it the most --
-when you're out of power and
-you're away from a wall outlet.
-With this investment
-and the right partners,
-we'll be able to change
-the way the WORLD makes energy.
-Can I see it, Aaron?
-Yes, sir.
-And all you have to do --
-It's by motion. It has to move.
-You can't have it
-sitting somewhere still.
-That is correct.
-How long does it hold
-its power or energy?
-Hold its charge?
-Yeah.
-That's actually
-one of the interesting features
-of this product.
-Because it has a kinetic-Energy
-generator built into it,
-it's continuously recharging
-the battery that's inside of it.
-I see you have
-a lot of patents up there.
-Yes, ma'am.
-Can you tell us
-What those cover?
-They cover the BASIC
-operating principles of this.
-So no one else can do it?
-That is correct.
-Aaron, I keep it
-in my backpack or briefcase --
-Mm-hmm.
-How much power do I have there
-after eight hours?
-Depending on how rapidly
-you walk,
-you could have
-up to a 20% recharge
-in your cellphone.
-So, who is this for?
-Is this for
-the everyday person,
-or do you want this for hikers,
-people in the wilderness,
-boaters, people
-who are in positions
-where they really
-may need energy?
-That is our initial
-target market --
-people that have
-a very compelling need
-to be able to have mobile power
-When they need it,
-where they need it.
-What's the science
-behind it?
-The science
-is kinetic-Energy harvesting.
-The generator component --
-We use the faraday effect,
-which is a magnet passing
-through an induction Coil.
-How much do you sell them for,
-and how many have you sold?
-We sell them for $199.
-We've been selling them
-through our web store,
-and we've sold 1,300 of them
-up until this point.
-What does it cost you
-to make them?
-It costs us
-about $110 to make them.
-It's expensive.
-It is.
-It was very much
-a proof of concept,
-and it went out into the market.
-We needed to prove
-that there is a market.
-For $2 million,
-you better be selling me
-on where this is
-in 10 or 15 years
-that's gonna revolutionize
-the world
-instead of a backup battery
-that goes on your phone.
-All right.
-What I plan on doing
-to be able to change the world
-is this image right here.
-The reason why we have
-the extensive patent portfolio,
-why we have a device and We've
-commercialized something
-as a proof of concept
-was because this technology
-applies to mass-Wave-Energy
-power generation.
-So what you're saying --
-You're gonna put them
-in the ocean,
-and you're gonna Harness
-the power of waves.
-That is affirmative.
-From walking to wave --
-Capturing energy from waves.
-Well, we've been able
-to demonstrate
-that we can take
-normal human walking
-and make usable power off of it.
-The exact same technology
-is able to do the same thing
-in waves.
-Is it comparable to wind?
-Is it better than solar?
-It's comparable to wind,
-and the studies that we've done
-show that the power we could
-produce from a wave farm
-would be price-comparable
-to coal-Fired power.
-It seems to me that there are
-at least three companies
-that are
-in the turbine business
-that might be interested
-in this technology.
-Why isn't all the energy
-of this company
-to simply take these patents
-and go and license it
-and prove this concept,
-which is ultimately
-the best use of this technology?
-This is crap
-compared to that.
-Why are wasting
-with a little shake weight
-when you can go
-and start in the water
-and start working
-on smaller concepts there?
-It's a company.
-We've got a product.
-So that's what it's about
-right now --
-You're trying to create revenue
-because you need the Revenue.
+are Jeff Stafford
+and Dusty Holloway
+with a product they believe
+is going to explode
+in the fishing market.
+Hello, sharks.
+My name is Jeff Stafford,
+and this my longtime
+hunting and fishing buddy
+Dusty Holloway.
+Our product
+is the shell bobber.
+We are seeking $80,000
+in exchange for 20% equity --
+That's 20% of the coolest
+fishing accessory
+to ever hit the market.
+Now, earlier this year,
+Dusty and I went hunting,
+and after firing
+a shotgun,
+the empty shell fell into the
+water and floated perfectly.
+I immediately thought,
+"That'd be a really cool
+fishing bobber."
+The market would be huge,
+as we'd be combining
+two complementary
+multibillion-dollar industries,
+hunting and fishing.
+So we took the bobber
+and we went to work.
+The first thing we did
+was deprime it.
+And after depriming it,
+we stuffed it
+with a floatable material.
+And after that,
+we inserted a cap
+to make it look
+real pretty-Like.
+And then, once you do that,
+you insert a wooden dowel
+with slot in it
+for the fishing line
+and then a spring on top of that
+to make it stay on the line.
+Bobber up.
+And bam.
+We had our very first
+shell bobber.
+We were in love.
+In order to find out
+if others would be as excited
+about the product as we were,
+we had to test the market.
+I took the prototype
+and I called on local
+bait-And-Tackle shops.
+People loved it so much,
+they were actually stealing it
+off the shelves.
+We tested the market,
+we proved the concept,
+and now we're here
+looking for help,
+because we know every store
+that sells fishing accessories
+is going to want to sell
+the shell bobber.
+With a product this hot,
+our passion, and your expertise,
+I know we can get it
+in every one of those stores.
+So, sharks, which one of you
+can I get on my hook,
+and which one needs
+a three-Second head start?
+[ gun cocks ]
+[ laughter ]
+Jeff, I wonder if we have to use
+all dead shells.
+Why not keep them alive
+so when the fish pulls on it,
+it blows it
+right out of the water?
+Cuban: That's what I thought
+you were doing anyway.
+Yeah, but that wouldn't
+have been a fair fight.
+Harrington:
+So, Jeff, they're real shells?
+Stafford: They are real
+shotgun shells -- 100%.
+And what's your cost?
+Our cost for the three-Pack
+like that
+is actually under $1.
+Under $1.
+And what are you selling it for?
+We retail that for $8.99.
+Wow.
+So, Jeff, this is
+an important question,
+because I love fishing.
+I love the whole thing,
+but $80,000 for 20% --
+Please don't
+mess this pitch up --
+What are the sales?
+So in our market test,
+we sold 440 units.
+It was a little
+under $1,000.
+[ laughter ]
+Jeff, now I understand
+why you brought the shotgun.
+[ laughter ]
+'cause that's the only way
+you're getting money today.
+So I want to just make sure I'm
+getting everything straight.
+You've sold less than
+$1,000 worth of product?
 Correct.
-Okay. That's fair.
-The reality is you said you've
-sold 1,300 of these at $199,
-so you've made $130,000
-off of these things.
-You know, that's very,
-very commendable.
-If you would have
-walked in here
-and said, "Look at
-this operating business.
-"I just made $130,000
-in a few years.
-"This product's selling.
-"Help me get started,
-and with your connections,
-let me tease you with this,"
-I might have bitten.
-Okay.
-But when you try to sell us
-on your plan
-and ask for $2 million,
-that's a different beast
-altogether,
-so I have to
-tell you I'm out.
-I think
-you're brilliant.
-I hope that
-you find a way
-in which to make
-this dream come True.
-But I don't know
-that I'm the right person
-to help you get to such a big,
-global level.
-So for that reason,
-I'm out,
-but I wish you
-good luck.
-Thank you very much.
-Aaron, you know,
-the only thing
-that I worry more about
-than the debt in America
-is our consumption
-of energy.
-Something's got to change.
-There's got to be
-new technologies.
-There's got to be new ways
-to create it.
-This could be part
-of the answer --
-I don't really know --
-but I'm not making
-the connection
-between this and that.
-I'm just not seeing it.
-I'm out.
-Okay.
-Keep in mind, the strategy here
-is crawl, walk, run.
-This is crawling.
-We have other business
-development opportunities
-that are in our pipeline
-that are actually starting
-to create revenue
-at this point, too,
-like the military application --
-Being able to reduce
-the battery weight
-of soldiers in combat by 25%
-by harvesting the power
-that already exists
-on the battlefield.
-John: You're a smart guy.
-I can't add value.
-I'm just not excited
-about it.
-I'm out.
-Thank you.
-Well, I think at this point,
-four sharks are out
-and only Kevin is left.
-Okay, Aaron, you know,
-as far as I'm concerned,
-you've proven
-the concept.
-Whether or not this is
-a successful retail product
-is irrelevant
-when that's the prize.
-And I think it's
-very interesting technology.
-If it's true,
-if you have some proof
-that this is equivalent to
-the efficiency of burning coal,
-this is obviously
-a better solution.
-So what I would have
-liked to have done
-is said,
-"I'll get on board.
-I'll buy a piece
-of this company,
-and I'll take it to g.E."
-But I can't play,
-'cause it costs me $2 million
-so that I can work for you.
-How twisted is that?
-Sounds like America
-to me.
+Daymond, he said they were
+flying off the shelves,
+what do you mean they were
+flying off the shelves?
+You know, honestly,
+this is brand new to us,
+but to give you
+an example --
+Ace hardware put us
+in a pilot location,
+and they were selling
+about a bobber a day.
+For us, it doesn't sound like
+flying off the shelves,
+but for them in the
+fishing-Accessory world --
+they're a hardware store.
+They had people coming in
+buying a screwdriver.
+They ended up
+buying a bobber.
+They're not
+looking for this.
+Right.
+They put us in another location
+for about the same success.
+Well, there's 4,400
+ace hardwares.
+If we can get in that, that's
+1.6 million bobbers a year.
+Are you selling these online?
+Do you have a patent, trademark?
+Is everything locked up
+with all this?
+We've got a provisional patent
+on the shell itself.
+We've trademarked
+"Shell bobbers"
+and We've trademarked
+the name "Fishing ammo."
+do you see anything wrong
+with the valuation
+that you've put on the company?
+Honestly,
+for a start-up company
+that hasn't really
+officially launched a product,
+it's very tough
+to come up with any valuation.
+Yes. I agree.
+What we did was we decided
+how much money we needed
+to get this going
+the proper way,
+with the machines,
+the inventory, legal fees,
+turning that
+into a real patent,
+and then
+some operational expenses.
+I think it's gonna sell.
+I really do.
+I think people
+are gonna buy this thing
+if you get distribution,
+which could be challenging.
+There's probably a distributor
+in your sector
+that supplies 80%
+of the fishing-tackle stores.
+You don't know
+who that is yet, right?
+Yes, I do.
+Okay. Have you
+shown it to them?
 No.
-It sounds like
-you made a mistake to me.
-I'm not gonna pay you $2 million
-and then do the heavy lifting.
-That's insane.
-That's un-American.
-I'm out.
-Okay.
-All the best.
-Thank you all very much
-for your time.
-I really do appreciate it.
+Why not?
+I'm kind of a perfectionist
+in that I didn't really want to
+take it to a lot of places
+until I was confident
+we had a product and packaging
+that would be impressive.
 I think
-he's got something.
-I hope he makes it.
-Yeah, I do too.
-I feel strongly
-that we're on the right path,
-we're doing the right stuff
-and we're gonna be growing
-our clean technology
-into a multibillion-dollar
-company.
-Narrator: Next into the tank
-is Nathan Holdsaffle,
-with a new twist
-to a common men's accessory.
+there's something here.
+I'm willing to make you
+an offer.
+I haven't finished.
+I'll make the first offer.
+No, I want to make
+the first offer.
+Excuse me.
+No, I want to make
+the first offer.
+I want to make
+the first offer.
+Whoa!
+I'm getting
+the shotgun.
+People normally
+would give you three --
+I think there's
+market confusion.
+Well, people would normally
+give you three times,
+five times sales
+if you're lucky.
+I'm willing to offer you
+eight times sales for 20%,
+and you raise
+the other the $72,000...
+Cuban:
+That's not an offer!
+...from one of the other sharks.
+That's like picking up
+a Crumb and saying,
+"I just handed you
+a cake."
+I gave them
+eight times sales!
+[ Laughter ]
+O'Leary:
+He's just messing around.
+He's not being a shark.
+He's being a minnow.
+Exactly.
+I'll make you a real offer.
+You ready?
+Please. Please.
+Here's how
+it's gonna work.
+I'll give you $80,000
+for 50%, all right?
+But how do I get
+my money back?
+So here's
+what we're gonna do.
+Every time you sell one,
+I get 50 cents, all right?
+And after I get my money back,
+that drops down to 10 cents.
+That simple.
+You know what? That's not
+a bite. That's a throw-back.
+Greiner:
+Wait, Jeff, Dusty --
+It was better than Daymond's,
+I have to say.
+[ laughter ]
+That's True.
+John: Whoa.
+What am I here?
+At least we're improving.
+You got two non-offers.
+Put aside the nonsense.
+How are you gonna scale?
+'cause the challenge --
+It's not a lot of money.
+You know, you guys
+don't need a lot of cash
+'cause your margins
+are huge, right?
+So that's not the issue.
+I'm guessing you were afraid
+to go to the distributors
+because if they gave you
+a big order,
+there's nothing
+you can do.
+If we sold 10 million of these
+a year, what are you gonna do?
+I could make 10 million
+in a year.
+You're gonna do them?
+You're gonna
+make 10 million a year?
+Myself? No.
+Just simple question --
+just how?
+There's reloading machines,
+crimps them,
+and then the last thing
+we have to do
+is put the dowel
+on them.
+So it's still
+a manual process
+where you've got to
+have someone
+physically doing
+the Insertion?
+Yeah.
+A part of the money
+that we're looking for
+is to get out of his garage
+and into a place
+where we can
+keep the inventory,
+a few new machines
+that we need to purchase,
+and then a few people
+making an hourly wage
+that we can just have
+stuffing the bobbers.
+Now, listen.
+We're talking, we're squawking.
+But nobody's making any offers.
+I'm the only one.
+Before you consider
+Kevin's offer, let me...
+you gonna
+throw something at them?
+Well, let me throw something
+at you.
+I don't think you really have
+a company yet.
+I think you have
+a cool product.
+Will it sell
+in the millions
+that you can build
+an entire company around?
+I don't know.
+I'm out.
+I love fishing.
+I'm not being funny.
+I probably fish about five
+or six times a month.
+It's a great idea.
+I think it's too soon for me
+because it's such a small,
+you know, proof of concept,
+so I'm out.
+Okay.
+Greiner:
+I have a question.
+Yes.
+The provisional patent,
+obviously a utility patent,
+what did your attorneys
+tell you?
+What were their thoughts
+as to whether or not
+they think you'll get a patent
+on this?
+Well, we actually did
+the provisional ourselves.
+So you did not do
+an extensive search.
+No, I have not
+done an extensive search.
+But, you know, I would be
+willing to do a deal
+contingent upon
+a search being done
+and having you feel
+more comfortable about it.
+Wow.
+He's got confidence.
+Were you thinking
+of doing --
+Like, you started to talk
+about other extensions.
+We've had a couple people
+ask us for --
+there's glow-in-the-dark
+for nighttime fishing
+where We actually can get clear
+shells and do glow-in-the-dark.
+You can do glow-in-the-dark
+plastic, yeah.
+And we're going to do
+a saltwater shell, as well,
+that rattles
+to attract the fish.
+So yeah, we can do
+different variations.
+O'Leary: The question is --
+You have no offers.
+Lori's squawking,
+not doing anything.
+I'm not squawking.
+I'm the only offer you have.
+What are we doing here?
+Well, any other offers?
+Lori? Mark?
+Doesn't look good.
+Narrator:
+Two sharks are out.
+Jeff and Dusty have an offer
+from Kevin O'Leary,
+but they're hoping to get a
+better offer from Lori or mark.
+Question is --
+You have no offers.
+Lori's squawking,
+not doing anything.
+I'm not squawking.
+I'm the only offer you have.
+What are we doing here?
+Well, any other offers?
+Lori? Mark?
+Doesn't look good.
+What was your offer
+again?
+It was so horrible
+I don't remember it.
+I will have to have him
+recap that, actually.
+You ready?
+It's very simple.
+You know, I never forget
+a good offer,
+so I'm able to tell it to you
+again with ease.
+I give you the $80,000
+for 50%.
+Every time you sell one,
+I get 50 cents
+until I get my $80,000 back,
+and then it drops to a dime.
+It's that simple.
+Yeah, you know, honestly,
+I don't think we're comfortable
+giving away 50% just yet.
+You know what, guys?
+You just gave the right answer.
+You're getting out there
+and hustling
+and doing it
+the exact right way.
+So for that reason,
+I'll make you an offer.
+I'll offer you the $80,000,
+and I want 33%.
+Not 33 1/3%
+so we're all the same,
+but 33%, so this way, you both
+own more stock than I do, right?
+So it's still
+your baby,
+and you guys have
+all the incentive --
+but $80,000 for 33%.
+What's wrong with you?
+Greiner: [ laughs ]
+I see nothing wrong
+with you.
+Deal?
+He must be scared
+of that shotgun.
+What are you
+talking about?!
+yes or no, guys. You got to be
+able to say yes or No.
+These guys put a shell
+on a --
+You got to be able
+to say yes or no.
+Yes, we will accept
+your offer, Mark.
+Done.
+Greiner: Oh, my God.
+I wasn't even out yet.
+John: Shocking.
+Mark, you're the one.
+[ laughs ]
+of course.
+Congratulations, guys.
+Good job.
+What is going on
+with Cuban this season?
+What do you mean?
+I take great deals
+And make them better.
+You guys just have no vision --
+None whatsoever.
+Oh, my god.
+They put a shotgun shell
+on a string.
+Are you kidding me?
+You guys have no vision
+whatsoever.
+That's a horrible,
+horrible deal.
+You guys just don't know
+how to invest in people, then.
+You really don't.
+These guys are doing
+everything exactly right.
+Why did you put
+such a high valuation on it?
+You spent more than that
+last night on cocktails.
+So?
+Thanks to mark Cuban
+and his investment
+and belief
+in our product,
+shell bobbers
+are gonna be a reality
+in every fishing store.
+We are gonna be living
+the American dream.
+Narrator: In season 3,
+Billy Blanks jr. Made a deal
+with Mark Cuban and Daymond John
+for his workout system,
+dance with me.
+I would definitely take
+that deal.
+John:
+Don't make me cry.
+Let's see what he's up to now.
+John: I brought Billy Blanks jr.
+To boise, idaho, today
+for a special meeting
+I've arranged
+with the largest online
+fitness company in the world.
+What's up?
+Hey. Daymond John.
+Bodybuilding.Com is huge.
+They have 20 million viewers
+a month.
+This is perfect
+for Billy Blanks jr.,
+and it's a huge deal.
+Billy is about
+changing lives,
+and I knew that
+bodybuilding.Com
+is about changing lives
+as well.
+We heard your story.
+I was talking with Dean.
+I was like, "We have to
+do content with this guy."
+We want to put you in front
+of our 20 million users
+and get your content
+on our website.
+We want to get started
+on this deal today.
+We've got a contract
+ready to go.
+We have the gym
+and our video team on standby,
+and we're shooting content
+this afternoon.
+Wow.
+This is awesome.
+Blanks: I knew Daymond
+and mark would deliver.
+I had no idea that
+I was gonna be filming today.
+[ chuckles ]
+but I'm excited about that.
+One, two, three.
+We are truly excited
+about this deal
+with bodybuilding.Com.
+This is our first big deal.
+It's gonna help us reach
+a whole new Audience
+and help us bridge that gap
+between Dance and fitness.
+Oh, yeah!
+Come on. One.
+And we're really excited
+because over the next 12 months,
+we're projecting to hit
+our first million dollars.
+"Shark Tank"
+has truly changed our lives.

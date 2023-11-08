@@ -1,416 +1,551 @@
-Honig: What are you gonna do
-with your hands
-when you're
-standing there?
-Deutsch: You're going
-like this?
-I'll probably put them
-in my pockets.
-You can't do
-in your pockets.
-?Yeah, you can.
-?Don't do pockets.
-?Like this.
-?No, no.
-Whatever you do.
-Side ?? Do side.
+My name is Jeff McNeil,
+and I'm from
+Newton, Massachusetts.
+I live here with my wife,
+Stephanie, and my five kids.
+My background is in design.
+I spent nine years
+running my own
+custom software design company.
+I eventually
+lost my passion for it,
+and I wanted to get back
+to my roots.
+?All right, school's open.
+?You guys have a great day.
+?Love you, guys.
+?Bye!
+Love you. Bye, babes.
+Hey, I don't get
+a hug anymore?
+With this many kids,
+there's lots of big moments
+and lots
+of little moments, too,
+but never enough time
+to keep track of it all.
+I decided to use my background
+in technology
+to solve this problem
+for ourselves
+and introduce it
+to parents everywhere.
+Within two days
+of having the idea,
+I had written up a spec,
+I had two developers
+working on it,
+and we knew that
+we had a million?dollar idea.
+Okay, line up,
+find your letter.
+I'm nervous that I've put it all
+on the line for this business.
+I've got five mouths to feed,
+five kids to clothe,
+five kids
+to put through college.
+This is real.
+With the Sharks' help,
+I know that I can get my product
+out to parents everywhere
+so that they can treasure
+their kids' special memories
+forever.
 Hi, Sharks.
-My name is Isaac Deutsch.
-And I'm Zoli Honig.
-And we're the founders
-of WaiveCar.
-We're here today asking
-for $500,000
-in exchange for 2%
-of our company.
-WaiveCar's the world's
-first all?electric
-and free
-car?sharing service.
-WaiveCar allows its users
-to use our 100% electric cars
-completely for free
-for two hours at a time.
-Now, before we get too far,
-I know you're thinking it ??
-"How the heck are these guys
-making money?"
-Well,
-the answer is advertising.
-To put it simply,
-companies pay us to display ads,
-and our customers contribute
-by driving those ads around.
-Each of our cars is equipped
-with a vinyl advertising wrap,
-as well as a military?grade,
-dual?sided LCD display
-that can display
-dynamic ad content.
-This means we can show ads
-based on time, GPS location,
-or really any other factors
-that we choose.
-Signing up to drive
-with WaiveCar is really easy.
-Just download our app,
-sign in,
-and you'll see all
-of the available WaiveCars
-on the map.
-Just choose the one
-that's closest to you,
-and hit "reserve."
-You know have an electric car
-for free.
-We launched in Los Angeles
-five months ago
-and have seen
-tremendous growth.
-Our problem now is,
-we need more cars.
-We would love to have
-one of you Sharks join us
-to rapidly expand our company
-across the world.
-This is WaiveCar,
-the wave of the future.
-Both: We waive the fee,
-you drive for free.
-You know, I'm amazed you said
-"five months ago,"
-because I have actually seen
-WaiveCars in Santa Monica.
-Yeah, our home base
-is in Santa Monica.
-We have 20 vehicles
-driving around.
-?So that's pretty fast.
-?What happens after two hours?
-Does it eject me
-out of the driver's seat?
-$5.99 an hour
-after that.
-Corcoran: Do you return it
-to the same place
-you picked it up?
-No, so, right now,
-you have to return it
-in the city of Santa Monica.
-Anywhere?
-Any public meter.
-Electric cars, you're
-allowed to park
-at any public meter
-for free.
-Yeah.
-So, every time
-you start a booking,
-we require the users to do
-a quick check
-that the car's clean,
-that there's no body damage...
-What's your break?even
-per car?
-Well, so,
-the cost of the car itself
-is about $1,000 a month
-with insurance and everything.
-Our break?even will be
-about $1,500.
-Over that is profit.
-We actually have done
-zero dollars in marketing,
-and we have 4,300 users
-just in our
-first five months.
-Wow!
-Look, it's got to be
-capitally intensive, right?
-So,
-how much have you raised?
-We raised $1.3 million.
-When would you expect
-to make a profit?
-So, it really depends on the
-amount of cars we have, right?
-If we're selling out
-our 20 cars right now
-at $5,000 per car,
-we'd be making about
-$1.2 million in revenue.
-We'd be walking away
-with about $300,000 in profit.
-Now,
-those aren't great margins.
-Once we move to 200 cars,
-we'd be doing
-$12 million in revenue,
-so we'd be walking away
-with $800,000?and?change profit.
-Do you have guys have
-some unfair advantage?
-Are you better at something
-than everybody else?
-So, the screen
-that we have on our cars,
-a lot of people
-kind of overlook.
-"Oh, it's a screen.
-Whatever."
-This is actually
-crazy custom?engineered
-for this vehicle.
-You can't slap this
-on any other vehicle.
-It has to be
-safety? and crash?tested,
-and the manufacturer
-that has this
-has over 200 patents
-on the display.
-And we have an
-exclusive agreement with them.
-Guys, look,
-I like the idea.
-I think you guys have
-a chance at success.
-But the challenge
-for me is,
-the variability of advertising
-is crazy.
-You know, it's hard for
-traditional media companies
-to sell advertising.
-There's video boards
-that are popping up
-on top of hot?dog stands
-in New York, right?
-Yeah.
-They're everywhere.
-The inventory
-is being saturated,
-which hurts your rate.
-The more you spend,
-the more you need.
-And, you know, that's gotten
-a lot of industries in trouble.
-And so for those reason,
-I'm out.
-Thank you.
-Thank you, Mark.
-You're welcome.
-My concern is,
-how do you stop Uber
-or anybody else
-from putting signage ??
-wrapping their cars?
-You talked about that
-that's a proprietary sign,
-but I'm sure that somebody
-can figure out
-another kind of sign
-to put on top of a car.
-I'm concerned that other people
-can take your model,
-and for that reason,
-I'm out.
-Thank you very much.
-Thank you.
-How many advertisers
-do you have?
-So, we're only
-five months old,
-so we really haven't
-even started
-the sales process
-of building...
-Do you have
-any advertisers?
-So, we have
-Oscar Health Insurance.
-Are they the only guys
-you've got so far?
-No, we have
-another advertiser ?? uh, XYZ.
-You guys are
-really embryonic.
-I like the idea, but, boy,
-there's just no track record.
-Sacca: Guys, you're
-in the advertising business,
-but so far,
-you have two advertisers.
-You don't really
-have any proprietary tech.
-You're an integrator
-that doesn't really control
-any leg of the stool here.
-More companies have raised
-more billions of dollars
-in this space
-than ever before ??
-Uber and Lyft in terms
-of ride sharing.
-But the
-number?one challenge
-those services are encountering
-right now
-is finding more drivers
-and more cars.
-And that's exactly
-the problem.
-That's exactly the problem.
-That's why we're doing this.
-Right now ??
-So, for Uber ??
-What's Uber's biggest ??
-What you're doing is,
-you're doing their R&amp;D for them.
-But what's
-Uber's biggest problem?
-You're figuring it out.
-You right now are running
-this incredible experiment.
-And Uber's watching you,
-and they're saying,
-"Hey, is this thing
-gonna work?"
-But let me ask you
-a question.
-Why doesn't Uber advertise
-right now?
-Because they're gonna let you
-blow all the money
-and figure out
-if it works or not.
+My name is Jeff McNeil.
+And I'm here today
+from Newton, Massachusetts,
+seeking $350,000
+in exchange for 10% equity.
+With my company, Qeepsake,
+you'll never miss a memory.
+Every parent
+has one of these, right?
+A baby book.
+It's supposed to house
+all your child's important
+milestones, firsts,
+and memorable moments.
+But most of these books,
+they look just like this ??
+empty.
+You started filling it out,
+but you got busy.
+So before you know it,
+you can't go back
+and recall the details
+of when your son or daughter
+learned to take
+their first steps
+or to ride a two?wheeler.
+As parents,
+we're busier than ever,
+and this thing ?? it doesn't fit
+into our lifestyle.
+What if saving memories
+and milestones
+were as easy
+as sending a text message?
+Meet Qeepsake.
+I'm a father
+of five myself,
+so I have tons of memories.
+Five!
+Let me save one about
+my daughter Annabel right now.
+I'll show you how easy this is,
+Sharks.
+So, Qeepsake has just texted me
+an insightful question
+about Annabel,
+and all I have to do
+is text back, and that's it.
+I have a new memory stored
+in the Qeepsake journal
+for Annabel.
+Oh, earlier today,
+my son Owen ??
+he lost
+his second front tooth,
+and I want to save that
+to Qeepsake.
+So I write a text...
+and I attach a photo,
+and I'm done.
+On the website,
+I can see all my entries ??
+I can fix
+the inevitable typos.
+When you're ready,
+you can order
+the gorgeous Qeepsake book.
+By investing in Qeepsake,
+you're backing the best team
+to become the leader
+in this huge, untapped market.
+Jeff, do you have
+an example of the book?
+Can we see samples?
+Sure.
+So, these are samples
+of my own book
+for my daughter, Annabel.
+Here you go.
+Awesome. Thanks.
+Five?!
+Five.
+Five kids!
+It's not five times
+as hard as one.
 [ Laughs ]
-You really think so?
-Or they'll ??
-Or they'll allow us
-to ?? to give their drivers
-free cars.
-That's what we would
-love to do.
-Uber has an ad sales force
-right now
-that's bigger
-than your company.
-You're right.
-Uber has a fleet that's
-much bigger than your company.
-But you like to get in early.
-That's your shtick.
-And they didn't pay any money
-for those cars.
-They don't own any of them.
-We'll own them.
-You guys ??
-They don't have to own them.
-[ Chuckles ] See, that's ??
-That's why there's one company
-that's worth $63 billion
-and another one that's not,
+What are their ages?
+Oldest is 8,
+youngest is 1.
+Oh, goodness.
+Wow.
+You've been
+in the weeds forever.
+No wonder
+you look exhausted.
+I have an amazing wife.
+So...there's not a lot
+on each page.
+Do people customize it
+to put as much as they want
+on a page?
+So, the book is
+an auxiliary product for us.
+That book is
+effectively a prototype.
+I'm gonna shock you
+by saying
+we've sold a total
+of four books.
+Four?
+We ?? We think
+there's a demand for books,
+but it's not right now.
+You know, this would've been
+really great to have
+when Barbara was a baby,
+but they didn't have
+?any film or photography then.
+?[ Laughs ]
+I might be able to do something
+about that, Sharks.
+Let me make this
+more real for you.
+Oh!
+Corcoran: Oh, come on!
+Aww!
+?[ Laughs ]
+?Boy, is she cute!
+?Bar!
+You can tell she's brilliant
+just looking at her.
+?[ Chuckling ] Whoa!
+?Who's that?
+Sacca: Wait.
+O'Leary:
+That's a good?looking guy.
+That's you?
+Greiner: Kevin!
+Absolutely.
+?[ Laughs ] Oh, my God.
+?Kevin!
+Sacca: Was that a wig?
+Cuban: Kevin!
+What a cutie.
+?Wow.
+?Oh, no.
+?Who's that?
+It's me, Barb.
+That's what's up right there,
+baby!
+[ Laughter ]
+?That is a stud in the making!
+?That's nasty.
+Sacca: Math club.
+You never got smooshed
+into a locker,
+did you, Mark?
+Yikes!
+Corcoran:
+Is that the cowboy?
+Oh yeah, it is.
+?All carbs, all the time.
+?All carbs?
+So, how much do I pay
+for the app?
+The business model is
+on subscription,
+and it's not an app.
+It's a service that works
+over text message.
+Okay, what's
+the subscription fee?
+Cuban:
+So, explain to us ??
+explain to us
+your membership options
+and the cost for each.
+Sure, so the...
+average plan price is $40.
+It goes up to $95.
+Per annum.
+Per year.
+Right, per annum.
+And we have over 40,000
+activated users.
+So, let me give you
+a shocking number.
+We're converting 16%
+of our user base
+to a paid subscription.
+That's a high
+conversion rate.
+Why don't I just use Note,
+attach a picture...
+Right, or why don't you just use
+Facebook or Instagram?
+Sure.
+You have a fair concern.
+This is stuff that you ??
+for Facebook or Instagram,
+it doesn't belong there.
+It's ?? It's over?sharing.
+It's personal.
+The real innovation is that
+we're helping people
+at prompting questions.
+And Note doesn't know
+how old your kids are.
+Note doesn't work with you
+to go, "Hey"...
+Is ?? Is there any intelligence
+to the questions,
+or is it a standard list
+that you send to everybody?
+There's hundreds and hundreds
+of Qeepsake questions.
+They're all age?informed.
+But, Jeff, how do you support
+your family?
+Great ?? Great question ??
+So, first and foremost,
+we're actually making money
+with Qeepsake.
+I'm now taking a salary.
+Qeepsake has made over $250,000
+in revenue in four months.
+?Wow, that surprises me.
+?That's impressive.
+Jeff, you're one of these guys
+who gets better as you talk.
+But I like to make a difference
+in my entrepreneurs.
+I'm not sure how I could
+help you on this.
+So I'm out.
+Jeff, when you first
+walked in here,
+you were boring me
+to death.
+I was already out.
+But the more you talked,
+the more interested I got.
+I have a whole slew
+of companies
+that already have
+your customers ??
+Lovepop, Honeyfund,
+Wicked Good Cupcakes.
+All of these have
+massive databases
+of parents with kids.
+So, I'm gonna make you
+an offer, okay?
+I'll do $350,000 for 20%.
+Cuban: Jeff,
+I'll clear the deck some.
+Look,
+I think it's a great product.
+My ?? My only issue
+with it is,
+the minute you get
+to a certain level
+and you get
+a lot of attention,
+somebody's going to compete,
 right?
-No,
-but we're a third party.
-I've yet to hear you say
-you're bringing anything
-to the party...
-We're a third party.
-...that you do better than
-anything else on the planet
-other than attach that
-to that.
-And we have
-the ability to ??
-And that is not
-worth millions of dollars.
-I don't think there's any way
-you guys survive this,
-because I have yet to see
-anything you do better
-than anybody else
-on the planet.
-At the end of the day,
-I'm canceling the ride.
+Like you said,
+there's no barriers to entry.
+And that's gonna be the
+challenge for you.
+I am worried about that, Jeff,
+I really am.
+There's worries
+in every business.
+No, of course, yeah.
+Every single business
+has concerns.
+There is.
+And, look,
+I?I just don't see
+it ?? It's a business
+I want to be in.
+Um, so for those reasons,
 I'm out.
-O'Leary: Let me
-make you an offer, okay?
-I think you've already heard
-what Sacca says ??
-that you have nothing
-that anybody else
-can't just emulate
-and crush you
-after you've proven
-that it works.
-That's a concern
-for any investor.
-Secondly, I know a lot
-about the advertising business
-because I spend
-a lot in it.
-I'm the financial service
-industry.
-I'm buying ads off everybody
-all the time.
-I don't know
-if this is gonna work or not.
-So, that's another risk.
-The only way I would
-do this deal is this way.
-I will loan you $500,000
-at 12%.
-It's a 36?month loan,
-number one.
-Number two,
-I want 4% of your equity
-just for that loan.
-In addition to that,
-I want any unsold
-digital advertising.
-That's the only way
-I would do this deal,
-given I've got two huge risks.
-Well, what are you gonna
-pay us for those unused,
-unsold slots?
-Nothing. It's unused.
-So, you want the free
-advertising here.
-So you want 4%
-of the company ??
-It's your rem??
-it's remnant inventory.
-It's remnant.
-You don't have ??
-But the remnant inventory
-right now,
-and we're gonna make money
-from that...
-If ?? If it gets sold
-for anything,
-then I don't get it, okay?
-Why don't
-you counter him?
-Look, that's ??
-that's what I'm willing to do.
-Before you counter him,
-I'm gonna make you
-a different deal.
-Honig: When you walk
-into the Tank,
-you're gonna get a lot
-of criticism.
-I know this company
-is gonna be huge,
-and I'm gonna do
-whatever it takes
-to make it huge.
-And if you don't have
-that kind
-of blood, sweat, and tears
-going into your business,
-then entrepreneurship
-is not for you.
+I appreciate the feedback.
+Thanks.
+Problem is,
+I'm not the right partner
+to escalate this very rapidly
+for you.
+I'm out.
+Thank you.
+O'Leary:
+You know what I'm thinking?
+If you're not
+taking my deal,
+you're hoping that somebody
+will do it for less equity.
+The risk you've got is,
+as the Sharks drop out,
+it makes me greedier.
+Jeff has an offer on the table
+from Kevin
+for his text?based
+online journal company,
+Qeepsake.
+But his offer may get worse
+now that all but one other Shark
+has dropped out.
+O'Leary:
+The risk you've got is,
+as the Sharks drop out,
+it makes me greedier.
+You don't do a deal
+with somebody
+just to get access
+to their mailing list.
+Kevin's old enough that
+he needs memory aids,
+and I really think this product
+would be great for him.
+Ask him a question today ??
+That makes me unhappier!
+[ Laughs ]
+So, I don't like your deal,
+and here's why.
+20% doesn't leave enough
+for future rounds.
+You need to have me
+and the other founders
+thinking like owners
+the whole time.
+I'm gonna counter.
+So, I came in
+with $350,000 for 10%.
+I'm gonna move the equity up
+to 12%.
+Look, let me tell you,
+I think you're solving
+a real problem,
+and you're going about it
+the right way.
+Prompt?based daily questioning
+is a great way
+to get somebody
+to create content.
+I was frustrated to hear you
+push back on Kevin's offer,
+because that was the same offer
+I was gonna make you.
+And I know I bring more
+to the table
+for an app like this
+than Kevin ever could.
+Not a chance in hell.
+Dude, what are ??
+just mailing your e?mailing list
+doesn't actually bring
+everything that comes
+with working with somebody
+to build a product,
+to build a strategy.
+If you already have a customer,
+if you have actually
+got a parent,
+and they're buying a service
+already,
+that's a much higher probability
+of a sale.
+Yeah.
+I'm ?? I'm really proud
+of your 10,000 buyers
+over there.
+Like, if I'm getting involved
+in something,
+we're gonna make it big,
+and we're going to
+millions and millions.
+But in order to make this
+compelling for me,
+I would need to own the 20%
+of the company.
+That's what it would take
+to get me excited
+and working on
+really developing this product.
+That's what I do for a living,
+is make products better.
+And so, my offer is
+the $350,000 for the 20%.
+Appreciate the offer.
+I'm gonna counter back ??
+$350,000, 14%.
+So first of all,
+I'm deeply flattered
+that you gave me a better price
+than Mr. Wonderful
+right out of the gate.
+You gave him 2% better
+than Kevin.
+I'm gonna sleep well tonight
+just knowing that.
+Kevin, are you staying in?
+Because it's ??
+I'm in pain now,
+waiting for you
+to make your decision,
+I'll make it easy
+for you ??
+I'm out.
+Are you going down,
+Chris?
+Now, I...
+Uh...
+Jeff: What's ?? So, the concern
+is there's too much work.
+It's too risky
+on the competitive landscape.
+I don't know what
+the competitive landscape is,
+and you haven't convinced me
+that it's clear.
+Get me comfortable
+that there's
+nobody else out there
+who's gonna come after you.
+So I can't guarantee there's
+nobody going after the space,
+but I can guarantee that nobody
+pops up on our radar
+with this level
+of traction.
+Why do you win?
+We win because we've done this
+time and time again.
+The market is there.
+Everybody is there.
+They're waiting
+for the solution.
+They don't know about it.
+I want to work with you.
+I can't do the 20% because it ??
+it's too much dilution.
+The valuation is
+too low for us.
+Well, you're sucking up
+very well, I have to admit.
+The question is,
+will it save you any equity?
+It's genuine.
+Are you willing
+to do it for less, Chris?
+That's all.
+You nailed that response,
+but you still didn't
+get me there.
+I like your approach.
+I think I could help you
+make it a lot better.
+But I got to dig in
+at 20%.
+That's what makes it
+meaningful for me.
+Under any circumstance,
+you're not doing 20%?
+I would 20% for more money.
+[ Laughs ]
+I came in here with
+a 3.15 pre?money valuation.
+I think it's very fair.
+At a certain point,
+you just have to make
+the decision.
+Corcoran: So,
+what's your decision?
+So, I will respectfully decline
+the offer.
+I appreciate the feedback
+and the consideration.
+Congrats, Jeff.
+Thank you.
+O'Leary: You know, he wasn't
+gonna do a deal for 20%.
+That's it.
+It's that simple.
+Yep.
+I could've got him
+another 200,000 users, easily.
+He's a bozo.
+He didn't think that through.
+I honestly feel like
+this was the best opportunity
+that's ever stood
+in front of the Sharks,
+and they will sincerely regret
+not getting a piece of it.

@@ -1,401 +1,526 @@
-I'm in Italy.
-I wanna send a postcard.
-I go to my phone.
-Mm-hmm.
-I capture a picture.
-Correct.
-I send it.
-Walk me through what happens
-on the back end now.
-So--
-How does that get mailed?
-Sure. You're in Italy.
-You take the picture.
-You write the simple note.
-You change the color,
-change the font.
-Okay.
-You sign it with your finger,
-right?
-Then it brings you
-to your address book, right?
-Right. That was one
-of my questions.
-I don't think I have
-any physical addresses.
-That's right.
-We built a product
-called postal gopher,
-which is our patent pending
-address retrieval technology
-that allows the user to send
-a postcard to somebody
-with only having
-their e-Mail or cell.
-My system alerts you,
-I'm Lynnae Schneller...
-and I'm Aly Cullinane.
-(both) And we're from
-Tacoma, Washington.
-(singsongy) Good morning, girls.
-It's pickle time.
-Whoo!
-(laughter)
-We run a gourmet,
-high-end pickle business
-based on
-my great-grandma Toots'
-100-year-old
-secret family recipe.
-Girls.
-Lynnae's not kidding
-when she says
-it's a secret family recipe.
-I had to wait seven years
-to be married into the family
-before learning the recipe.
-(women shouting at once
-and laughing)
-(Lynnae, singsongy)
-Who wants a pickle?
-Come try a sample.
-(Lynnae) Our pickles
-are unlike any pickle
-you've ever tried before.
-They're crunchy, delicious,
-and absolutely addicting.
-This week we have three P.O.S
-that we need to get ready
-to put out.
-Okay.
-We need the sharks because
-we need additional capital
-in order to feed the growing
-demand of our business.
-We've risked everything
-to start our business.
-We quit our jobs
-and put our careers on the line.
-To grandma Toots.
-(all) To grandma Toots!
-We know that great-grandma toots
-is looking down,
-just so proud that
-we're not only carrying on
-our family tradition,
-but we're bringing her recipe
-to the world.
 Hi, sharks.
-My name is Lynnae Schneller...
-and my name is
-Aly Cullinane.
-And our company is
-Lynnae's Gourmet Pickles.
-We are seeking $125,000
-in exchange for 20%
-of our company.
-We're sure you're all aware
-that specialty food
-is among the fastest-growing
-industries in the U.S.
-There is, however,
-an unfulfilled niche
-in specialty...
-(both) pickles!
-(chuckles)
-After launching
-in September 2011,
-we had quick success,
-and we're selling pickles
-faster than we can make them.
-Sharks, with all the uproar
-we've caused,
-we've got ourselves in a pickle
-and need your help to feed
-our increasing demand.
-Lynnae is handing out
-our two signature flavors.
-They are Mrs. Pickles...
-(Robert) Thank you.
-Our original
-sweet and sour dill,
-and Hot Mama,
-a sweet and sour dill...
-Oh, thank you.
-With a kick of jalapeño.
-And did you tell us
-what your sales were?
-In the last 12 months,
-they're $144,000,
-which is 36,000 jars
-of pickles.
-Wow.
-What does a jar cost?
-Suggested retail price
-is $6.99.
-And what do you sell them
-wholesale for?
-Average--$4.
-And what's your cost?
-(Lori) and what does
-it cost you to make?
-Our cost is $1--
-Our cost is $1.93.
-So right now we have stores
-that want our product.
-We just don't have the money
-to produce the inventory.
-For inventory and producing,
-yeah.
-And where have you sold them?
-We actually are available
-in 26 states
-and about 200 locations.
-Amazing.
-Yeah, but--
-do you sell them yourself?
-(Robert)
-are you using a distributor?
-We do.
-We are using a distributor.
-We're signed on with the largest
-specialty food distributor
-in the U.S.
-You know, you're--
-You're in a classic
-entrepreneur's dilemma, right?
-Yeah.
-Because you don't
-have enough inventory
-to grow with the company, so--
-but it's a good dilemma
-to have.
-(Lynnae and Aly) Yeah.
-It's a good problem to have,
-right?
-But what I'm saying is
-in order for us to invest,
-we have to see beyond that.
-Do you have anything
-that's so differentiated,
-people are gonna say,
-"Wow"?
-I wanna tell you
-the answer for his question.
-The differentiator
-are the two of you.
-What else do you do
-to market the product
-other than a fancy display?
-We do really creative things.
-We did the national pickle hunt
-within our city last year
-that was covered
-both locally and nationally.
-And that was your idea?
-Yes.
-Mm-hmm, and throughout the day,
-there was little clues posted,
-and whoever got there first
-to find the jar
-got a package worth
-anywhere from $200 to $1,000.
-The video footage
-from the newscasts--
-Literally people are running
-down the streets of our city,
-trying to find these jars,
-and it was a huge success,
-so we're planning
-on doing that every year.
-Chasing the big pickle.
-(laughing)
-Chasing the pickle, so...
-look, we've seen food products,
-but you've obviously
-been very ambitious
-and successful
-in marketing this,
-and I'm trying to figure out
-how do I make money with this?
-How do you scale the business?
-We have--next month,
-we have a meeting
-with one of the largest
-retailers in the U.S
-because they just--
-(Kevin) Who is that?
-Target.
-They came to us, though,
-because they expanded
-into grocery last year,
-and now they want to expand
-their specialty line.
-That would be
-a game-Changer for me.
-(Lori) Yes.
-If it works, then you're
-in the big league.
-I'm not sure you guys are gonna
-be able to pull that off.
-Our distribution channels
-already deliver to Target.
-I'm Target.
-Tell me why
-I should carry your pickles
-over the other 20 other ones.
-We really appeal to
-a gourmet, high-end... market.
-Is it reflected in your price?
-Yeah, $6.99. Yeah.
-Yeah, $6.99.
-(Robert) is that--
-the average--
-How does that compare
-to a normal pickle jar?
-A normal pickle jar--
-The average
-is about $3, $3.50.
-(Kevin) Wow.
-But in specialty pickles--
-Specialty pickles, though--
-Twice.
-Okay, ladies,
-you just walked in
-with huge risk.
-$5.99, so it's $9.99.
-Why would Target put a $7 jar in
-when the market's at $3?
-Because specialty food
-has been growing by 22%
-over the last several years.
-You guys, I feel there are
-a lot of competition
-already out there.
-I think you guys are wonderful,
-but for me,
-I don't like sweet pickles,
-and I do have to like
-whatever it is I invest in.
-So I'm out on this one.
+My name is Josh Brooks.
+I'm the founder
+of on the run tech
+and postcard on the run.
+Today I'm seeking $300,000
+in exchange for 5% equity
+in my company.
+If you're anything like me,
+you've got 22,000 photos
+stashed away on a hard drive,
+another thousand
+Cluttering up your phone.
+Maybe put it up on facebook
+for 13 seconds,
+e-mail 'em to a friend,
+and ba-bam, they're gone.
+They deserve more. Our product
+is the answer to this.
+It's called
+postcard on the run.
+Take a picture from wherever
+you are in the world.
+Write a quick note.
+Sign it with your finger,
+and send it to anywhere
+in the world
+right from the convenience
+of your mobile phone.
+And what do you get?
+Voilà. A beautiful 4x6
+glossy personalized note
+that arrives in the mail
+in a matter of days.
+We live a life on the run.
+This product helps us connect
+better than We've ever
+connected in the world.
+Sharks, we've got a platform
+product. Today it's postcards.
+Tomorrow it's
+a tremendous amount more.
+Join me today
+in the memory business, guys.
+So we actually got
+some mail for you.
+I love getting mail.
+It's fun.
+Special for you.
+It's fun. Oh, thank you.
+(Lori) Aw! (laughs)
 Thank you.
-Thank you.
-Guys, I think you have
-a nice little business.
-I think you guys hustle,
-which is great.
-You're creative.
-And the big guys
-aren't paying attention to you
-because you're $144,000
-in sales.
-You--You don't matter to them.
-But as you grow,
-and you will,
-they'll start paying attention.
-They'll make a decision.
-"do I buy them?"
-you're not big enough.
-"do I crush them
-by just putting out
-a comparable product?"
-probably, and for that reason,
+All right.
+(Barbara) Wow, great.
+Thanks, Josh.
+You bet.
+So let's go through what this
+postcard actually really is.
+So we got
+a beautiful 4x6 photo.
+Then on the back
+you write a simple note.
+We built a telestrator.
+So you actually
+take your finger, sign it,
+so it's really you, Robert,
+and then
+a really great feature.
+This is my my daughter
+Leni Brooks.
+This was actually
+a thank-You note to her grandma.
+You scan it with your, uh,
+your--your mobile device.
+Right here.
+It's a Q.R. code.
+And ba-bam. Now you got
+a short little video.
+Take a look.
+? Thank you, thank you,
+thank you ?
+? thank you,
+thank you, thank you ?
+(laughs)
+? Thank you ?
+"Hey, Mark, your friend
+Josh Brooks is trying
+to send you a postcard."
+Oh, that's cool.
+Is there a novelty to it,
+though?
+You know, you send one
+to grandma and grandpa,
+and then you send it again
+and then you send it again,
+and then it's sort of like,
+"Oh, another postcard."
+I mean, do you find the--
+it--there's a--
+Uh, I don't think you're
+gonna find any of that.
+In fact, the people that are
+on the receiving end
+of these postcards--
+Postcard fatigue.
+Honestly, $2.49--goose bumps
+are totally included,
+and that's what ends up
+happening.
+(Robert) Okay, Josh,
+walk me through the money.
+How do I pay for it?
+How do you make money?
+So it's a free application,
+but it's $2.49 per postcard.
+What are your margins after
+you've paid all the royalties
+on the databases you're using?
+We built all of our databases.
+There are no royalties.
+Do you own this business
+yourself?
+That's correct. I actually have
+a group of investors as well.
+You do.
+Uh, I did. I raised
+a little bit of capital
+to get this off the ground.
+Keep in mind, I put 30,000 bucks
+of my own money
+to get this thing going.
+And what is your background that
+you've come up with this idea?
+I used to run marketing
+for myspace
+during the good days
+for three and a half years.
+What are your sales?
+That's all that really matters.
+Sure. So in the 21 months,
+we've done $450,000 in revenue.
+Okay, and you've made...
+(Robert) Wow.
+How much money on that?
+Everything goes right back
+into the company, 100%.
+Josh, how many downloads
+of the app do you have?
+Just around 500,000, uh,
+downloads of the application.
+Josh, let's go back
+to the investors for a sec.
+How much money did you raise
+in total?
+We raised $1.6 million
+in total.
+And what was the valuation
+of the 1.6 you raised
+in the valley?
+$6 million.
+You're giving us the same value,
+am I right?
+That's right.
+So, Josh, your strategy is
+to run like hell
+because there's nothing
+proprietary here.
+Anybody can do this.
+Let's be honest with each other.
+Well, being totally honest,
+that is not correct.
+It takes a tremendous amount
+of ingenuity
+to do what we did.
+Okay, but--
+Absolutely.
+That's easy to do. There's tons
+of people who do that.
+This is not a one-winner
+takes all.
+This is about coming up
+with a great product
+that people absolutely love.
+But that doesn't mean
+it can't be replicated easily
+by using third party products.
+But that is the 1,000-Pound
+postcard in the room.
+Yeah, no, absolutely.
+Josh, I'm telling you--
+but the point being is that
+we've hit the market.
+We've got--If you look
+at web sites,
+if you look at bloggers,
+you look at editorial,
+and they talk about
+"Hey, what's interesting
+connecting the online
+to offline?"
+they're gonna point
+to our product.
+Here's the problem, Josh.
+The concept of valuing this
+at $6 million is ridiculous.
+You live in
+the silicon valley bubble,
+and it's gonna burst.
+Either you get acquired,
+or you're out of luck,
+because there's
+no I.P.O. market anymore
+for middle-sized companies
+like yours,
+so you have to get acquired.
+I hear your point, right?
+My point is this,
+is that we haven't even
+begun marketing, right?
+I get that. Look, you fell
+to the silicon valley curse.
+If you were to come in here,
+Saying, look,
+"We gotta raise $200,000
+or $300,000
+at a $2 million valuation,"
+then we can visualize,
+okay, nice little business,
+and we could sell it
+for 6.
+But you're already at 6.
+Mark--
+The problem is you've gotta
+sell it big
+to get any type of return
+for us.
+So I-I think what I have is
+a great group of investors
+that are super supportive
+of us.
+Josh, you could stay up
+all night.
+That doesn't mean
+you're gonna get lucky, right?
+Totally.
+You've gotta get lucky
+in order
+for this to really work
+for investors.
+Absolutely.
+You have to have an exit
+that takes some luck,
+and I just don't see it.
+How much cash do you have
+left in the bank?
+We have $185,00
+in the bank.
+You're screwed. I'm out.
+Out of $1.6 million,
+you're down to $185,000?
+$185,000, correct.
+You're gonna blow up
+in 90 days, you don't get cash.
+You need to raise right now
+this $300,000.
+You are running like
+that little postcard guy.
+There is nothing proprietary
+about what you're doing.
+I'm not diminishing
+your business.
+I'm just telling you I could
+do it for less than $6 million.
+Absolutely not what I invest
+in this. I'm out.
+(Barbara) There's a couple
+things I really like.
+I like nothing better than
+a friend sending me
+an actual photograph.
+I take hundreds of them
+of my kids,
+but I never print them out,
+and there's a difference.
+Exactly.
+So when I get a photo
+in the mail,
+for me it's a present,
+all right?
+Mm-hmm.
+The idea that I would get
+also wrapped into that
+a postcard is great.
+I think of a postcard
+as a present, too.
+Sure.
+Nobody sends them anymore,
+and of your kid...
+sure.
+It's a win, all right?
+Sure.
+But there's something
+that really disturbs me,
+and that is
+this postcard lacks
+in the warm and fuzzy
+emotional piece
+which you're hard-selling here,
+is that it's typefaced.
+Can you scroll your whole
+message or only your signature?
+Today we can just do
+your signature and a picture.
+Well, that's a problem.
+Tomorrow there's no reason
+why we couldn't do any of that.
+It takes the warm and fuzzy
+out of it for me.
 I'm out.
-We know that
-with any type of food,
-there really is never
-anything proprietary
-Because someone Can create
-something similar,
-so our plan is to explode
-into the market
-and gain as much distribution
-as we can,
-and we do actually have interest
-from several large--
-Large stores.
-No one's beating you up yet
-because you're--You're so nice,
-but now it's my chance
-to do that, so I'm going to.
-You're not worth over $600,000.
-I don't think you can sell this
-stuff at target at 7 bucks.
-That's my personal opinion.
-And the other issue for me
-is do I want pickles
-in my portfolio?
-That's what I've been debating.
-(Mark laughs)
-And I don't think
-the answer's "yes" to that,
-so I'm out.
-Any other questions or concerns
-we can address for you?
-I think you have two sharks
-still left,
-and Barbara's a sucker
-for people selling food
-in funny dresses.
-I'm not a sucker at all.
-I'm a sucker for
-a great entrepreneur,
-which obviously you both are.
-Well, here's--
-Here's what happens here.
-We started with
-great-Grandma's secret recipe,
-and that was the passion
-that started this business.
-No food background.
-No food background.
-We've grown so much
-in the past two years.
-Our potential is unlimited.
-Aly, there's--There's no doubt
-you guys have done a great job.
-But $7 for a jar of pickles?
-Yeah--
-can I just reiterate
-that the average range
-is $5.99 to $9.99
-for any specialty pickle?
-So I'm croatian.
-Croatians love pickles.
-But very rare that they eat
-sweet pickles.
-I'm--I'm not the right investor.
-I'm out.
-All right, thank you.
-Barbara.
+Okay.
+Guys, we've got a business
+that actually brings in money.
+It's $450,000 in 21 months.
+Yeah, but you have hardly
+any money left.
+We have not added any gasoline
+to that flame at all.
+So out of the downloads
+or the users,
+what's the age range?
+Our target market
+would be
+somewhere in this
+21-to-45-year-old female,
+but my partner and investor
+in the company is Selena Gomez.
+Sorry. The Selena Gomez
+that my kids love?
+Totally.
+Uh, she invested
+in both rounds--
+The angel round as well as
+the seed round of financing.
+My kids travel
+all over the place.
+I love my kids.
+I miss my kids.
+They never e-mail me.
+They never text me.
+I think my kids would use this.
+They're always sending
+pictures.
+They never...
+so what you're saying--
+they won't take the time
+to e-mail or text, but they're
+gonna download an app,
+take the picture,
+and click "Send"?
+Yeah, Mark,
+because they know daddy--They
+know that daddy would love it.
+I think it's a great idea,
+but, you know, you said,
+"I have patents pending."
+You don't know if
+you're going to get it or not
+and really get out there
+fast and furious.
+And for that reason, I'm out.
+All right.
+All right, who's left here?
+Robert, I think.
+Robert sees the vision.
+Yeah, Josh,
+I do see the vision.
+But I kind of
+agree with Mark.
+Your value is
+a silicon valley bubble,
+and you'd have to sell
+for an enormous amount
+just to get some return.
+Right.
+I love the idea, though.
+I think it's a great vision.
+I appreciate that.
+But... I'm not comfortable
+with the $6 million valuation.
+But I am comfortable
+with a $3 million valuation.
+So I'll do $300,000 for 10%.
+I'm not sure
+if I can do that.
+Josh Brooks has one last chance
+to make a deal.
+I'm not comfortable
+with a $6 million valuation.
+But I am comfortable
+with a $3 million valuation.
+So I'll do $300,000 for 10%.
+I'm not sure
+if I can do that.
+(Kevin) Tough decision, Josh.
+It is.
+It gives you another six months
+of life.
+Let me ask you this.
+Let me ask you this.
+Would you consider doing
+something more on the lines
+of a $5 million valuation?
+And that's 6% of your company.
+Correct.
+That allows me to keep
+my current group of investors
+that I have
+a lot of respect for
+and also, that 300k is going
+right into the marketing.
+After $1.6 million in 2 years,
+you're down
+to the last $180,000,
+and the reason I think my money
+brings the premium is
+you can't survive
+without that money.
+Robert, you Savage,
+are you gonna take advantage
+of his situation just 'cause
+he's running out of money?
+You're gonna cut his knees off?
+It's my money. I worked
+really hard for my money.
+I get the privilege of saying
+what I feel it's worth.
+Right.
+So...
+I'm comfortable with $3 million.
+You're saying $5 million.
+Now it's up to you.
+I think the business lends
+itself to something larger,
+and I honestly really
+appreciate
+your enthusiasm
+for the company,
+but I can't take
+that significant of a haircut
+on the value
+of the company.
+(sighs) I'll ask you again.
+What about something closer
+to the $5 million range?
+And even if it's at 4.8.
+Find me at 4.8,
+and let's do a deal.
+Okay, my last offer--$4 million.
+That's $300,000 for 7 1/2%.
+I think
+there's significant value
+in having a shark onboard.
+(exhales) Hone--
+I really appreciate the offer.
+I don't think at $4 million
+of valuation, I can do that.
+But the company
+is more than that.
+I swear it is. I know it is.
+So you're not accepting
+his offer.
+Find me at 4.5, and let's make
+this thing happen.
+Listen, you're investing
+in a guy that gets things done.
+It took two years
+to get where we are today--
+Under two years.
+Josh, the only guy up here
+that believed in the vision
+as soon as you came out
+that saw it...
+sure.
+I mean, you've got a fan here
+in the technology.
+I think you've done it. Uh...
+but not in the price.
+You're not a fan of his price.
+I'm not a fan of the price,
+and that's my privilege
+as a shark.
+(sighs) $300,000
+at a $4 million valuation--
+is that what you're saying?
+I'm saying $300,000 at--
+For 7 1/2%,
+which gives it
+a $4 million valuation.
 (sighs)
-Couple of things.
-I think $144,000 in sales in
-your first year is phenomenal.
-There are very few
-young entrepreneurs
-that can make that claim.
-So you don't need
-any help here.
-You're well on your road
-to success,
-and you regret selling
-your chunk of your business
-five years from now.
-I almost made that mistake once
-selling half my business
-for $80,000, and thank god
-that Investor changed his mind,
-'cause I sold it for $66 million
-5 years later.
-I don't think you need
-a partner, so I'm out.
-Great. Thank you.
-(Aly) I think their comments
-were very constructive.
-We're gonna take everything
-they said and really
-think about
-all their suggestions
-and figure out, like, what
-makes sense for our business.
+(sighs) Let's do the Deal.
+Done.
+That's awesome.
+Good job, Robert.
+Way to hold it out.
+(Lori laughs)
+Thanks, man.
+Nice job today.
+Appreciate it.
+It's a--It's a great product.
+Yeah.
+It's awesome.
+Thanks so much.
+Yeah. Yeah.
+Thank you.
+Good job, Josh.
+I appreciate it.
+Yeah, good job, man.
+(Mark) Congrats, Josh.
+I think it's
+a phenomenal idea.
+I think it's a crapshoot.
+I know there's products
+similar...
+you have to be acquired,
+or you're going to zero.
+(laughs)

@@ -1,0 +1,479 @@
+My name is Trisha Prabhu.
+I'm 16 years old, and I'm from
+Naperville, Illinois.
+I'm an ambitious person,
+and I love aiming
+for number one.
+I started coding
+when I was 10 years old.
+Very quickly, I learned
+that it was something
+I was really passionate about.
+I've been invited
+to the White House.
+I was named a Google Science
+Fair Global Finalist.
+My work has been recognized
+by M. I. T.,
+and I've even given
+three T. E. D. talks.
+Today we are going to be
+learning about variables.
+I wanted to give back
+to my community
+and inspire young girls,
+so I started teaching
+Girls Who Code classes.
+I definitely believe in the
+concept of technology for good.
+My business centers around
+one of the biggest problems
+facing kids and teens today,
+and I'm using technology
+to solve an issue
+that many people believe
+technology has created.
+It's been a very tough road.
+As a 16?year?old,
+there are a lot of skeptics
+that don't take me seriously,
+that don't take
+my product seriously.
+A lot of people don't see me
+as the Silicon Valley
+tech stereotype.
+But that means I need
+to break that barrier.
+That's something that I'm proud
+to be doing.
+I truly believe that
+this business is my future,
+and with the Sharks, we can see
+that future become a reality.
+Hi, Sharks.
+My name is Trisha Prabhu,
+and I'm from Naperville,
+Illinois.
+I'm the creator of ReThink,
+and today I'm here
+seeking $100,000
+in exchange for a 20%
+equity stake in ReThink.
+Now, we all know the Tank
+has seen
+its share of harsh comments.
+No!
+"You're a cockroach."
+So true sometimes.
+"You're a zero, not a hero.
+You're not an entrepreneur.
+You're a want?trepreneur."
+And, of course,
+"You're dead to me."
+Now, if you think
+the Tank is bad,
+the Internet is so much worse.
+Cyber bullies hide
+behind their screens
+and use mean, tormenting,
+and humiliating words every day
+to bully others.
+It's a silent pandemic
+that affects millions.
+But I'm determined to stop this.
+ReThink stops cyber bullying
+by stopping hurtful messages
+before the damage is done.
+If an adolescent tries to post
+something offensive
+on social media
+or text someone a cruel message,
+my ReThink app
+is able to detect
+that that message is offensive
+and then provide the adolescent
+a second chance to
+reconsider their decision.
+Here's how it works.
+This is an example
+of a typical conversation
+between two classmates.
+Ooh!
+Looks like Joey wants to ask
+Erica to the homecoming dance.
+?Ooh.
+?Let's see what she says.
+?[ Laughing ] Oh, gosh.
+?Ouch!
+There's no need to say
+something like that.
+Luckily, with my app,
+Erica can rethink her decision.
+Much better.
+By taking an extra second to
+pause, review, and rethink,
+Erica ultimately makes
+the better decision.
+And will you look at that?
+They both walk away
+with no hard feelings.
+I don't think
+he's gonna stop asking.
+[ Chuckles ]
+ReThink was able to stop
+the damage before it was done.
+In this era of
+digital parenting,
+ReThink also provides parents
+an opportunity
+to help shape
+their child's behavior
+by encouraging positive decision
+making both online and offline.
+Do you want to sit back and
+wonder at what could have been?
+Or do you want to stand up,
+speak out,
+and join me to stop
+cyber bullying forever?
+Thank you.
+So, Erica, she gets that pop?up
+message comes up...
+?Correct.
+?ReThink.
+What if she just hits, "OK"?
+Can she still send it?
+?Absolutely.
+So, we're not taking away
+anyone's right
+to express any of their feelings
+or opinions.
+They can still post that message
+if they like.
+So you're simply giving them
+that extra time to rethink.
+But did Erica have to sign up
+for your app?
+Trisha: So, that's a really
+great question.
+Why would cyber bullies
+download ReThink?
+That's why we target two main
+groups ?? educators and parents.
+Those are the people that are
+looking right now
+for solutions to cyber bullying.
+I'm just very curious why
+you would think of this
+in the first place.
+Tell us a little bit about
+your own background.
+Well, I'm actually a 16?year?old
+high?school junior.
+And when I was 13 years old,
+I actually came home from school
+one day to read online
+about an 11?year?old girl
+who lost her life
+to cyber bullying.
+She had been cyber?bullied
+for over a year and a half,
+and it just ??
+it really broke my heart
+to think that someone younger
+than myself
+had suffered endlessly
+because of an issue
+that didn't have
+a better solution.
+And immediately, I wanted to be
+able to make a difference.
+I wanted to use technology
+to solve a problem
+that technology itself
+has created.
+I cannot believe you're 16.
+?Yeah, you carry yourself
+very well.
+?You're so powerful.
+?Thank you.
+?Trisha, have you sold any?
+So, so far, we've garnered
+about $52,000
+from the We Think ReThink
+Educational Program.
+Schools everywhere, because of
+new state and federal laws,
+are required to monitor
+and supervise
+anti?cyber?bullying
+education in schools.
+So what we do is we actually
+provide them curriculum.
+We provide them
+this ReThink technology
+on their school devices.
+We provide them
+ReThink analytics
+on how the technology
+is working with students.
+We've gotten 128,000 downloads
+on both our Google Play Store
+and the App Store.
+?Through what period of time?
+?That's nine months.
+Herjavec: The amount
+of downloads you've had
+is very impressive
+for nine months.
+Thank you.
+It's a good idea,
+but there's some challenges
+to it.
+And the challenge to it is
+that the user is in control
+of the experience.
+In other words,
+if I'm really a cyber bully,
+all I have to do is hit "OK,"
+and the message
+still goes through.
+Trisha: When I first came up
+with this idea,
+I had the same doubts
+that you did.
+"What if they just hit 'no'
+every time?"
+So I ended up conducting
+a 1,500?trial study,
+and we find that over 93%
+of the time,
+when teenagers get
+this ReThink alert,
+they change their mind.
+Cuban: So, let's get the proof
+in the pudding, right?
+What's your daily active usage?
+So, every day,
+we have about 80,000 ??
+Who wrote all the code for it?
+So, I've actually been coding
+since I was 10.
+?Wow.
+?Something I love to do.
+?You coded this?
+?Yes.
+What a tremendous
+entrepreneurial talent.
+Thank you.
+I think you have a decision
+to make.
+I think you have to decide
+if this is a charity
+or if this is a business.
+I think what you have to do here
+is decide that this is a charity
+and try to get money to support
+the charity
+because it's certainly
+a worthy cause
+and easy to convince everybody
+else to believe in.
+But I really think when you want
+to start a business
+that makes money,
+it's got to be something
+totally different.
+I think you're doing
+the right thing, but I'm out.
+Thank you so much, Barbara.
+So, obviously,
+everybody agrees
+you're remarkably talented
+for 16.
+That's fantastic.
+?Thank you.
+You're destined to do
+something great.
+I don't know what it is yet.
+You're gonna find out.
+But it's not this.
+This is not going
+to make you rich.
+Taking on an investor means you
+have a new responsibility.
+You have to make them money.
+And I am 100% committed
+to that.
+I have never been afraid
+of hard work.
+I'm out.
+Thank you.
+I appreciate that.
+So, I think
+it's a fantastic cause.
+You, at 16,
+are incredibly talented.
+But content?filtering software's
+been around
+for a very long time.
+?Sure.
+?This really isn't that unique.
+Trying to sell it this way
+for people to download this
+as an application ??
+it's gonna be a struggle.
+I don't see it
+as a business today.
+I'm out.
+I wish you all the best of luck.
+?Thank you.
+?Thank you.
+What are you gonna use
+the money for?
+So, the $100,000 would be used
+to hire employees
+to start building infrastructure
+so that we can roll this out
+to the large scale of interest
+that we have.
+The resources I have ??
+?The large scale of interest?
+Like what?
+I have 1,200 schools
+that are interested
+in having this
+for the upcoming 2016?2017
+school year,
+and T?Mobile Europe,
+the phone carrier,
+was interested in actually
+implementing this.
+I decided I wanted this to be
+more than just one carrier
+just for one region
+of the world.
+Whoa, whoa, whoa.
+You had a carrier contact you?
+?I did.
+?And you said no?
+?And you said no?
+Trisha: I turned it down
+because at that point,
+it was a very early stage.
+It was just at the point
+when we had launched the app.
+We were getting thousands
+and thousands of downloads.
+I genuinely believe that this
+can be something more
+than just one carrier,
+and I think
+that we can get there.
+John: All right, so, I think
+there is a business here.
+I'm not ??
+This is not about charity.
+I want to be a part of this.
+I like the cause.
+I like the concept.
+I'll give you the $100,000
+for 30%.
+This happens to be
+a passion of mine
+because I think
+it's super?important.
+I love the kind of woman
+that when her feet hit
+the ground in the morning,
+the competition's like,
+"Oh, crap. She's up."
+You're that woman.
+I'm gonna offer you $100,000.
+I'm gonna do it for the 20%.
+And I honestly wouldn't
+even mind doing it
+with another Shark here
+because I think the more people
+that are involved in it,
+the better to get the word out.
+Cuban's not out.
+Mark's not out.
+?But, Mark, you're still in.
+?Right.
+If you want to get this
+into as ubiquitous a position
+as possible,
+working with a carrier is
+by far, without any question,
+the best way to go.
+Absolutely.
+The reason for that is
+they can put it on a phone
+as a default option.
+It can come pre?installed.
+They can, then, offer it
+to consumers, to parents ??
+"This is
+a kid?friendly phone,"
+or, "We sell
+a kid?friendly version."
+Is that a viable option
+to you?
+Something that
+I would be open to,
+and with your guidance,
+with your expertise,
+I can make those decisions.
+John:
+What do you got, Mark?
+Here's my offer ??
+I'll go in with Lori.
+You know, we can split it.
+All right, so,
+Mark is in with Lori.
+$100,000 for 20%.
+$50,000 from each.
+Damon's $100,000 for 30%.
+Time to make a decision.
+Mark and Lori,
+I'm gonna accept your offer.
+?All right, great.
+?Thank you both so much.
+Greiner: Great.
+Congratulations.
+It'll be exciting
+to work with you.
+Thank you so much.
+Thank you.
+?I'm really glad.
+?Thank you.
+This is a passion of mine.
+Thank you so much.
+We're gonna do
+a lot with it.
+?Awesome.
+?A lot with it.
+Thank you guys so much.
+Thank you all so much
+for your time.
+I really appreciate it.
+Thank you.
+[ Laughs ]
+Honestly, it's just shock waves
+right now.
+I can't believe
+I just made a deal
+with Mark Cuban
+and Lori Greiner.
+Oh, my God,
+I'm so proud of you!
+Good job!
+I'm so proud of you!
+Love you so much!
+I think that, you know, the
+three of us working together ??
+I mean, we can make ReThink a
+multi?million?dollar success,
+and I really believe with them
+it is possible.

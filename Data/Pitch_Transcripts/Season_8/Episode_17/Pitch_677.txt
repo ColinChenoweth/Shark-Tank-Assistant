@@ -1,445 +1,442 @@
-Hello, Sharks.
-My name is Yannis Moati.
-I'm the CEO
-of Hotels by Day.
-And I'm Brian Dass,
-CTO of Hotels by Day.
-We're here today
-seeking $750,000
-in exchange for 10%
-of our company.
-Sharks, our company is
-reinventing the hotel stay.
-How many times have you
-or someone you know
-traveled to a city
-just for the day?
-You get into the city
-at 8:00 A. M.,
-and you have a meeting
-at 1:00 P. M.
-What do you do
-with those hours in between?
-There is a massive gap
-in the market,
-and that is why we've created
-Hotels by Day.
-Jimmy...
-Together: Roll the tape!
-Hotels by Day,
-through our app and our website,
-allows customers
-to book a day room.
-You arrive early at your hotel,
-you check in early,
-you relax in your room,
-you order some room service,
-refresh, own your meeting,
-and close the sale.
-Our model is a paradigm shift
-in the hospitality industry.
-It generates revenue
-for hotels.
-It gives guests
-flexibility.
-And it closes the loop
-on the customer journey.
-So, Sharks, who's ready to check
-in early with Hotels by Day?
-Why does it feel like
-a "Saturday Night Live" skit?
-[ Laughter ]
-How does it work?
-Tell me the pricing.
-So, on average,
-it's six hours
-that are being provided
-by the hotel at $90.
-O'Leary: I have one question
-that could settle this
-in either a great way
-or it could end badly
-right here.
-Please, go ahead.
-Why in the world
-wouldn't all the other sites
-that already exist in a really
-cluttered, competitive space
-simply add this feature?
-Sure.
-Well,
-technology right now
-doesn't allow any of the majors
-to go into the space.
-Herjavec:
-Yannis, hang on a sec.
-There's
-a technical reason
-why the other people
-can't offer this
-on a block?hour rate?
-Yeah.
-I'm dying to hear this.
-Why?
-Most hotel?property?management
-systems
-cannot handle
-a day?room booking.
-?It does not work like that.
-?Let me ask you a question.
-But they charge late?check?in
-rates all the time,
-unless you're able
-to negotiate out of it.
-Let's use a chain name ??
-a Marriott ??
-I say, "Look, I'm not
-checking in until 4:00."
-"I'm sorry, there's
-an extra $80 charge there."
-You just mentioned that
-there's an analogue process ??
-you calling the hotel,
-you e?mailing the hotel.
-Sacca: Before we
-move on, just ??
-So how have you solved
-that technology problem
-with your own
-outside technology?
-Dass:
-We're actually connecting
-to what is called
-a channel?management system
-that actually connects
-to the availability, rates,
-and inventory.
-So there is a way that we're
-connecting to get the rates
-to be able to set the rates up
-to the half?a?day room.
-Cuban: So how are
-you blocking out ??
-Wait, how ??
-Can I step back?
-It doesn't ?? wait.
-Can I step back?
-The central reservation system
-does not take in day bookings.
-It's 30?year?old
-technology.
-Any booking that goes
-into the CRS,
-the central
-reservation system,
-is factored in
-as a night stay.
-?No, I accept that.
-?So wait.
-You're not doing a ??
-so, look,
-you're not doing a great job
-of explaining it.
-If their internal technology
-can't do it,
-how does your
-external technology...
+Hi, my name's Ryan Woltz.
+I'm from Denver, Colorado.
+I'm the founder of Edn,
+and I'm seeking $150,000
+for a 10% stake in my company.
+At Edn, we're on a mission to
+paint the concrete jungle green
+and to change the way
+the world grows plants.
+Growing is hard.
+It requires time, expertise,
+and attention.
+And even if
+you do everything right,
+you can still kill your plants.
+Take it from me ?? I know.
+I used to be
+a plant serial killer.
+So I set out to design a product
+for people like me,
+who love to be around nature,
+but who just aren't very good
+at the nurture part.
+The Edn wall garden
+is an intelligent indoor garden
+that takes the guesswork
+out of growing
+and ensures perfect results.
+Our software
+automates everything.
+We control the lighting,
+the watering,
+and the plant food,
+so you can have fresh herbs,
+vegetables, and even flowers
+all year round
+right in the comfort
+of your own home.
+Our app guides you
+through the entire process.
+There's no dirt, so you just
+add water, plant food,
+drop in your seed pods,
+and our technology
+takes care of the rest.
+The wall garden's designed
+to be an engaging experience
+that breathes life
+into your home
+and makes gardening fun again
+for the entire family.
+I'd like to hand out
+some samples of our seed pods
+and then dive
+into some questions.
+Okay.
+So, I got you each
+a seed pod.
 All right.
-...fix or supplant
-or override or bypass
-their internal
-technology?
-Chris.
-Let me tell you.
-We are taking a fraction
-of their inventory
-that is sitting empty
-between 9:00 and 6:00,
-and we are selling it
-to the customers.
-With the workaround technology
-that Brian has created ??
-Well, what <i>is</i>
-that techno??
-Like, is it actual technology
-or is just a hack?
-Yes, it's technology ??
-I'll tell you why ??
-because we're connecting
-to a channel manager.
-So instead of going
-through the CRS,
-we're connecting
-to a channel manager,
-going straight
-into the hotel.
-And that is something that
-we are provisionally patented.
-Herjavec: How can that
-be proprietary?
-Let's say Kevin's
-one of the other travel sites.
-He hires a CTO
-that can develop any ??
-He didn't write
-the software.
-Anyone can duplicate
-technology.
-It's not a barrier drain.
-It's a hack.
-It's just
-the first?to?market advantage.
-Right.
-How many hours
-have you rented?
-What's your margin?
-How many customers do you have?
-Et cetera, et cetera?
-We are at 6,500 bookings.
-All of the year of 2015,
-we generated about $127,000
-in gross booking revenue,
-of which we're taking 14%,
-all right?
-That's all?
-That's our cut, yes.
-It's low.
-Wow.
-But it's ??
-But it's reasonable.
-It's a starting point.
-Do you have a deal
-with big hotel chains?
-Yes.
-We have signed every single
-brand out there individually ??
-300 properties.
-But get back to ?? why don't
-the big guys crush you
-like the cockroaches
-you are?
-As I said before,
-they cannot connect right now.
-They will not
-waste their time.
-Kevin,
-they'll be wasting more time
-to try to connect
-to a CRS that does not work.
-What you're doing is
-you're selling
-somebody else's product,
-and you're telling us
-they're incapable of selling it
-and that you have
-some hack to get to it.
-But you've done a really
-poor job of explaining
-why that hack is so hard to make
-or why it's defensible
-or why it's proprietary
-to you at all.
-Well ??
-And so don't be shocked
-that there's a lot of doubt
-on this side of the room.
-First of all, the hotel
-can't sell day rooms.
-They have not created
-a system behind it.
-And two, the technology
-and the protocol,
-they are missing.
-It takes time,
-it takes investment.
-Guys, I do think it's a problem
-you're trying to solve.
-That said, every time
-I tried to ask you
-what technological, defensible,
-proprietary approach
-do you have here,
-I couldn't get a straight answer
-back from you guys.
-I don't actually think
-there is something there.
-But we've also filed
-several patents.
-It feels like
-a cobbled?together hack, like ??
-No,
-but before you go on ??
-But, sure, go ahead.
-We've had conversations
-at the majors.
-They think it's really
-interesting what ??
-They think it's
-really interesting,
-but those conversations
-haven't ended up in a sale
-'cause you don't have
-anything to buy.
-Your competition isn't
-the big hotel chains.
-It's the software layer that
-already rides on top of that.
-If you came in here
-and told me
-you were reinventing
-the entire management system
-the way OpenTable reinvented
-the booking platform
-for a restaurant,
-I'd be interested,
-but you're not.
-The quickest way to double
-your money in this deal
-is to fold it over,
-put it in your back pocket.
-I'm out.
-Ouch.
-Herjavec: Wow.
-Just so you know,
-up to last May,
-we've generated $300,000,
-so the model is accelerating
-20% month?to?month growth.
-Yeah, because you're working
-with tiny numbers, though ??
-that's why.
-The challenge is
-how big can it be.
-Just to give you
-an idea,
-we've seen how many people
-log into our site from New York
-that converts into a day stay
-in New York ?? it's 8%.
-If we were to run 8%
-throughout the top cities
-of visitors
-into our website,
-we'll be already
-at 12,000 bookings.
-Let's say you do that,
-right?
-You get
-the 12,000 bookings.
-Yeah, easy.
-Easy.
-That's $200,000
-gross revenue.
-That's $28,000 a month.
-That's not enough.
-I'm out.
-Well, all right.
 Thank you.
-Guys, it's a great idea.
-Mm?hmm, thank you.
-I do this all the time
-when I travel.
-I show up
-at 8:00 in the morning.
-We always have to book
-two nights of hotel rooms.
-There's no question
-that there is a market there.
-But I just think that
-you're a proof of concept
-for one
-of the bigger players.
-If you prove the market,
-they'll do it.
-There's nothing proprietary
-that you have.
-I'm out.
-Uh, thank you,
-Robert.
-Thank you.
-I?I'd like
-to reassure you
-that the majors
-won't play this game.
-They cannot
-get into it.
-Never build the strategy
-on the stupidity
-of your competitors.
-If there's a market there,
-and you prove the market...
-No, that is not
-the strategy.
-...they're gonna do it.
-The strategy
-is for us to grow it.
-Either way, I'm out.
-Mark's out.
-Chris is out.
-Kevin and Lori are still in.
-Well, let me tell you
-what I think.
-I see your product
-as like a big puzzle.
-And there's so many missing
-pieces for me that I'm out.
-If I thought that there was
-a cockroach strategy ??
-and there's nothing wrong
-with being a roach,
-be the best roach
-you can be ??
-at the end of the day,
-if you can survive
-because nobody else wants
-your tiny market, that's great.
-It's true.
-But that's not
-what you said.
-$750,000 ??
-if you had made this
-maybe $150,000, $250,000,
-I'd ride with the roaches
-for a while, figure it out.
-I like the space actually,
-but I can't do that.
-You've made it impossible
-to invest.
-I'm out.
-Thank you, Kevin.
-Thank you so much
-for your time.
-Dass: Thank you.
-Thank you.
-?Good luck.
-?Thanks, bye.
-Thanks.
-Sacca: There's nothing
-more frustrating
-than asking questions
-about somebody's tech stack
-and not getting
-any answers back.
-Moati: The Sharks did not see
-the opportunity today.
-They gave us
-absolutely no time
-nor a chance to explain
-how we do business,
-and that was a shame.
-Shame on them.
-Their whole point is
-they simplify that process.
-But they automate that.
 Yeah.
-Look ?? it's a problem
-that needs to be solved,
-the hotels would like
-to make the extra money.
-They didn't do anything
-to convince us
-that they're
-the guys to do it.
-And they're
-cockroaches.
+Greiner: Thank you.
+Appreciate that.
+Thank you, Kevin.
+Anything for you,
+Robert.
+?Thank you, sir.
+?Not a problem.
+So, Ryan,
+do I have to use your pods,
+or can I just
+put my own seeds
+into this little
+plastic thing again?
+Yeah, so our goal is to have
+a great user experience,
+so you can use our pods.
+They're gonna be delivered.
+It's extremely simple
+to operate,
+but if you want to plant
+your own seeds, you can.
+How would you say you're
+different from AeroGardens?
+So, for one, we have
+an absolutely beautiful design,
+but we also have
+intelligence.
+So the idea is that
+while this is operating,
+we can perfect the growth
+of different types of plants.
+So, that's kind of the power
+of the Edn operating system.
+And how much
+does it cost?
+So, the cost is $499
+for the large unit,
+and then the small unit
+is $99,
+which I call that
+the gateway garden.
+How much
+do the pods cost, Ryan?
+The pods ??
+so $12 subscription per month,
+and we've got
+an 82% margin on those.
+So the subscription service
+is to kind of continually
+bring in new plants.
+Do I have to buy
+the subscription service?
+You do not, no.
+Do you get to choose
+what your plants are?
+?You do, yes.
+?Okay.
+Ryan,
+do I buy this online?
+Yeah, so right now,
+we sell direct to consumer.
+And then in the future,
+when we get our prices down,
+we want to go
+big?box retail.
+Just this last winter,
+we ran a campaign
+where we did
+$10,000 worth of sales
+in just five days.
+I was actually online
+this summer
+looking at
+alternative products
+just to grow cilantro
+[chilantro]
+'cause I like to have
+fresh cilantro.
+That's one
+of my shticks.
+?Did you say "chilantro"?
+?Cilantro.
+Whatever.
+I ?? I like it.
+Cilantro.
+And there was
+tons and tons
+of consumer,
+small?based hydroponic labs.
+Right.
+What you're adding to the story
+is the design feel,
+but I saw stuff
+as cheap as 40 bucks.
+I think what differentiates us
+is the design, of course,
+but then also the technology.
+The name Edn actually stands for
+"Environmental Data Network."
+And the vision of Edn
+is to perfect the growth
+of any type of plant.
+Ryan, you need somebody
+on this journey
+that enjoys plants and shares
+in this passion with you.
+Yeah.
+It's just not my thing.
+I'm out.
+Well, I appreciate it,
+nonetheless.
+?Yep.
+?Thank you.
+Ryan, I'm in the same ballpark
+as Robert.
+I tried to grow a cactus,
+and it lasted about a day.
+It's just ?? it's not an area
+I have a feel for, so I'm out.
+Really appreciate it, Mark.
+Thank you.
+Thank you, Ryan.
+This becomes
+so technological.
+I worry if it takes a lot
+of the soul out of the process,
+and I ?? that's a weird thing
+to hear from the technology guy.
+One of the first things I say
+is "Where's your app?
+What's your
+app strategy?"
+Right.
+And this is one
+of those companies
+where I ask,
+"Why the app?"
+Right.
+I actually don't think
+it's that necessary.
+Right.
+I think there's
+a niche business
+for people who are
+geeking out over the data,
+but I don't think that's
+that's gonna help you sell
+hundreds of thousands
+of these.
+I'm out.
+Appreciate it, Chris.
+I'll tell you where
+I'm at with it, Ryan.
+Um, I'm intrigued.
+I can help you
+get this into retail ??
+the Bed Bath &amp; Beyond,
+the Target, the Walmarts,
+but this price point isn't
+gonna work for those guys.
+It's gonna have to be
+a different price point.
+Maybe a more
+dumbed?down product.
+I'll do the deal
+$150,000 for 15%.
+You know, I understand it's more
+than you wanted to give up...
+Wow.
+...but I'm so valuable
+it's ridiculous.
+That's shocking.
+That's actually
+a really good offer.
+Yeah.
+What is the light
+doing to you?
+No, I just ?? I think it's ??
+I'm intrigued, I'm intrigued.
+And I can definitely help you
+in distribution.
+Well, Ryan ??
+Greiner:
+I have another question.
+I never get to grow things.
+I'm always traveling.
+Woltz: Right.
+So if you said that I could
+be gone for weeks at a time
+and that the light would stay on
+and it would stay watered
+and I wouldn't come home
+and everything's dead,
+because of your technology,
+because of my app.
+Right.
+Is that the case?
+Yeah,
+so that's the case.
+It's made for people who travel,
+people who ??
+Ryan, I don't want
+to listen to Lori anymore.
+So what if I'm gone
+for a month?
+I made you an offer.
+You have
+to make a decision.
+I'll do the deal
+I just gave you.
+Herjavec: Ooh.
+Well, let me ?? let me
+just finish.
+I don't want to li??
+I don't want to compete.
+I want to hear.
+And I'll tell you
+what's gonna happen.
+If she drops out,
+it's going up to 25%.
+I'm gonna
+make you an offer,
+but I'm gonna do
+a conditional offer.
+?Okay.
+?Okay?
+$150,000 for 25%.
+[ Laughs ]
+But I'm gonna
+tell you why.
+Because I think ??
+No, no, I'm now at 25%.
+That's official.
+?Ryan, Ryan, Ryan.
+?It's beautiful ?? wait.
+There's an offer of 15% ??
+Not anymore.
+Wait, wait.
+It's beautiful ??
+Lori poisoned your deal.
+The reason why is because I need
+to take over manufacturing...
+Okay.
+...so that you can get
+this cost way down.
+Because you want
+to blow these out.
+Right.
+You want these
+in every home.
+Right.
+You want people
+to be able to afford it.
+Right.
+And at $500,
+it's not affordable.
+But I think we could probably
+get it slashed in half.
+Isn't that
+what you said, Kevin?
+And that's
+what's important.
+That's exactly
+what I said.
+Ryan, you know what I think
+the most important thing is ??
+getting a deal!
+Yes, hey, I ?? I agree.
+I just want
+to hear everybody out.
+Greiner: It is important
+getting a deal.
+And just so we're clear, Ryan,
+I have no contingencies.
+Of course
+I want the price down.
+I will help you there,
+but it's not a contingency.
+So, Kevin ??
+My offer
+is $150,000 for 25%.
+Unfortunately, I had
+to pay a terrible price
+on listening to her.
+Ooh.
+So we have the same offer,
+essentially, on the table.
+Without a contingency,
+in my case.
+But I think my contingency's
+a good one.
+I don't think so.
+Why take risks?
+Why take risks?
+It's only gonna help you.
+It's only gonna help you.
+So I guess my question is,
+Kevin, do you have experience
+with manufacturing?
+?Yes.
+?Kevin does not.
+Yes, I do!
+Okay, so you know I've done
+over 600 products.
+We <i>all</i>
+manufacture overseas.
+I would say
+35% of my portfolio ??
+Do you know who has
+the number?one
+electronic?component product
+out of "Shark Tank"
+right now?
+It's called IllumiBowl,
+it's manufactured in China.
+Oh, my God.
+He's so ridiculous.
+Number two,
+I make more Christmas lights
+than anybody else
+in China.
+Kevin, are you willing
+to go down back to 15%?
+No way.
+If you're willing to go back,
+I'll make a deal now.
+[ Scoffs ] Kevin.
+Why didn't you take the deal
+when you had it?
+Because, you know, I wanted ??
+I wanted to hear Lori out.
+O'Leary: I work with a lot
+of entrepreneurs.
+Yeah.
+You've got to bond right away.
+Bird?in?hand theory.
+I think you have
+to make a decision
+between the two of us.
+Kevin,
+I'm willing to go with you
+if you can drop down
+to 20%.
+No.
+I'm out.
+?Oh.
+?Lesson learned.
+All right. Well, I, you know,
+very much appreciate it,
+but for the vision that I want
+to create for this company,
+I know it's gonna require
+additional capital.
+And so to get there,
+it just doesn't make sense to me
+right now
+from a valuation standpoint.
+Good for you, Ryan.
+That's an expensive
+walk down the hallway.
+Ryan, the lesson here
+is when you get an offer
+that you're willing to take,
+take it.
+You didn't close.
+?Thank you.
+Hey, appreciate it.
+Thank y'all so much
+for your time.
+Good luck.
+If I could turn back the clock,
+I would have accepted his deal,
+but, you know, I can't do that,
+and he stuck with it.
+You know, I respect that,
+and, you know, lesson learned.
+Well, you taught that young man
+a valuable lesson.
+Let that be a lesson, Robert.
+Don't mess with me.
 [ Laughs ]

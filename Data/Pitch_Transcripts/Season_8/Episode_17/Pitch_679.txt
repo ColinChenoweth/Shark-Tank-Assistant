@@ -1,0 +1,588 @@
+Hi, Sharks.
+My name is Scott Lininger.
+And I'm Aidan Chopra,
+and we are from
+beautiful Boulder, Colorado.
+Our company is Bitsbox,
+and we are here today
+seeking $250,000
+for 3% of our company.
+Herjavec: Whew.
+Bitsbox is the world's
+most creative way
+to teach kids a skill that will
+change their lives forever ??
+computer coding.
+These days,
+it's not enough
+for kids to just know
+how to use computers.
+They need to know
+the language of computers,
+and that language
+is called "coding."
+Coding is a golden ticket to
+a great job and a great future.
+And the best thing
+is that anybody can learn.
+The hard part
+about teaching kids to code
+isn't getting them interested,
+it's <i>keeping</i> them interested.
+That's why
+Bitsbox is a present
+that comes in the mail
+every month.
+It's a subscription box
+that teaches
+real computer programming.
+So, we wanted to show you
+how it works.
+So, what we did is invite one of
+our very favorite Bitsbox?ers ??
+Grace, over there ??
+to help us.
+Now, Grace's box
+just came in the mail,
+and she's super excited.
+It just so happens
+that this month,
+there is a "Shark Tank" app
+in the box.
+She goes to the Bitsbox website
+she goes into her account,
+she starts
+a brand?new app,
+and she starts
+to type in the code
+exactly as it appears
+on the card.
+Now, here's the thing ??
+code is just
+a set of instructions
+that tells a computer
+what to do.
+So, if we actually look
+at the code that she's typed,
+you can see line one
+tells the computer
+to fill the screen
+with an image of a shark tank.
+Line two tells it to stamp an
+image of a shark on the screen,
+and line three says, "Hey,
+when somebody taps that shark,
+I want you
+to make the shark pop."
+The Bitsbox approach
+is to give the kids
+lots of example projects,
+just like this one,
+that they can build upon.
+And eventually, you start making
+your own stuff from scratch.
+Now, Grace is pretty advanced,
+so she's already gone
+and created the rest
+of the challenges in this app.
+Herjavec: Whoa.
+And you can see,
+she's made a full video game
+with animations
+and sound effects.
+?Oh.
+?Oh.
+"Mark wins?"
+I'm out.
+Cuban: Good, Grace.
+[ Laughs ]
+So, Sharks, who wants
+to help us change the world?
+Grace, how old are you?
+10.
+Were you coding
+before you did this?
+Yes. I was coding Python
+and some C++ before this.
+[ Chuckles ]
+I mean, that's awesome.
+What do you want to be
+when you grow up?
+I want to be
+a bionic?limb programmer.
+A bionic?limb programmer,
+huh?
+What?!
+?Good for you, Grace.
+?That's amazing.
+Well, what makes you
+want to do that?
+Yeah.
+Well, 'cause I really loved
+anatomy when I was little,
+and I actually told
+my neighbor one time ??
+I brought out
+my book of diseases to him
+and I said, "What's your
+favorite disease?"
+[ Laughter ]
+And I said,
+"Mine's tapeworm."
+[ Laughter ]
+We had that same conversation
+at lunch with Kevin.
+Yeah.
+All right,
+tell us about the business.
+You bet. So, Bitsbox ranges
+in monthly subscriptions
+from $20 to $40 a month,
+depending on the options
+that you choose.
+How long do I have
+to sign up for?
+It's up to you.
+You can start up
+month?to?month
+and cancel at any time,
+or you can sign up
+for a full year in advance.
+What do I get
+for that price difference?
+The $40 level
+is the full box.
+It has a set of app cards
+every month.
+You get a toy
+that matches the theme,
+such as a whoopee cushion
+with code on it.
+Anything else we can think of
+to keep the kids excited.
+What is the ages for this?
+Somewhere between
+6 and 14.
+Cuban: What does a box
+cost you to make?
+About $10.
+But that's at printing very,
+very small quantities of paper.
+It gets much cheaper
+at scale.
+How long
+have you been doing this,
+and what
+have your sales been?
+We launched the product
+less than two years ago.
+Wow.
+Since then, we've done
+$1.3 million in revenue.
+Are you making
+any money yet?
+We're not
+cash?flow positive yet
+because we have a team
+of five full?time people.
+But we are on the road
+to be cash?flow positive
+this upcoming quarter.
+What's your background?
+Aidan and I met ??
+we worked at the world's largest
+Internet company, Google.
+Scott built this as a prototype
+for his daughter when she was 7.
+She loved it, and a few other
+kids loved it, as well.
+He decided
+he was gonna quit, and ??
+you want
+to re?create it?
+Yeah.
+[ Inspiring music plays ]
+Aidan, let's quit.
+Let's go teach
+the world's children to code.
+You had me
+at "Let's quit."
+We actually did that.
+[ Laughter ]
+We did that because,
+at the time, you know ??
+it was pretty good.
+Herjavec:
+That was really good!
+And did you go out
+and raise money
+after that romantic...?
+Yeah. So, we did a seed round
+last summer for $500,000
+on a $4 million
+pre?money valuation.
+$250,000 at 3% imputes
+an $8 million value.
+Mm?hmm.
+Why would you
+raise the price
+by a factor of seven
+for a Shark?
+Is that
+a sign of disrespect?
+No, no, not at all.
+We looked at
+all of our revenue to date,
+and we took
+a 10?x multiple on that.
+We'd done about $400,000
+in revenue.
+How much of that
+is left in the bank right now?
+We raised a bridge note
+last spring...
+?How much?
+?Oh, oh.
+...for $600,000.
+?Oh.
+?Oh.
+Chopra:
+It's a convertible note
+at a $6 million cap.
+You did a great job
+of selling yourselves.
+This is a great
+and very valuable product.
+I'm gonna clear the field
+to my fellow Sharks,
+who have more experience in the
+subscription business than I do.
+So, I'm out.
+?Thank you.
+?Thank you, Lori.
+O'Leary: What you're doing
+is important because
+we're only graduating 50,000
+engineers a year in America,
+and the Chinese are
+graduating 260,000.
+Wow.
+We're losing the race.
+So, this is very useful.
+I'm glad you get it.
+So, I'm going to applaud
+watching Cuban and Sacca
+beat the living you?know?what
+out of each other
+to get a piece
+of this deal.
+I'm out.
+I don't know.
+I didn't hear anything
+from Robert.
+You've done an amazing job.
+I know this space.
+Make an offer.
+I'm not gonna
+make an offer,
+'cause I think
+there's a lot of competition,
+and I don't want
+to be in this space.
+I'm out.
+?Okay. Thanks.
+?Thank you.
+Well, then, Mark Cuban,
+Chris Sacca.
+Guys, I'm gonna make it
+easier on Chris.
+I love what
+you're doing, right?
+I think the goal is phenomenal,
+all right?
+I think you've made
+great progress.
+But I think, to get it to scale
+to any meaningful level,
+I think it's gonna
+be very difficult
+and become
+more expensive,
+and you're gonna have
+to raise much more money.
+I'm out.
+Okay.
+Thanks.
+Greiner:
+And then there was one.
+Hey, guys.
+?Chris.
+?Hey.
+I love
+being in this position.
+We're Googlers,
+you're a Googler.
+[ Laughs ]
+Feel free to be a savage
+on equity, Sacca.
+Look, I'm intrigued.
+It's a company I can believe in.
+Such an important
+subject matter
+to the kids of America
+and beyond.
+Yes.
+And so,
+I'm gonna make you an offer.
+Sure.
+I'm gonna give you
+your 250K
+at a $5 million valuation.
+We do have many,
+many other investors,
+and I think
+we want to do right by them
+by making
+the right decision.
+But none of them
+are Sharks.
+No, we completely
+understand that.
+But I think what we want
+to understand is,
+dilution is a real thing,
+and I think we're trying
+to do the right thing by them,
+as well.
+I need to own
+enough of your company
+for me to get
+really thrilled about it,
+to throw everything I have
+into it, and to go for it.
+So, you asked
+for an $8 million valuation.
+Mr. Sacca's brought it way down
+to $5 million.
+?He sure has.
+?What are you gonna do?
+Are you gonna hit
+Enter or Delete?
+Chris has made an offer
+for Scott and Aidan's
+children's?coding
+education company, Bitsbox.
+But it is well below
+their initial valuation.
+So, you asked
+for an $8 million valuation.
+Mr. Sacca's brought it way down
+to $5 million.
+?He sure has.
+?What are you gonna do?
+Are you gonna hit
+Enter or Delete?
+So, Chris,
+we think you're amazing.
+No offense to any
+of the other Sharks,
+but you were the guy that
+we would absolutely love
+to have in the deal.
+Good sucking up.
+What about a valuation
+of $7 million?
+Ooh, all that niceness,
+and then ?? boom.
+Look, I'm very confident about
+the value I bring to your deal.
+I mean,
+you guys moved 0.57% off
+where you were
+when you came in here.
+Sure.
+I see an inconsistency
+in your statements ??
+between all this love
+you're showing me
+and then the numbers
+you came back with.
+Ugh.
+I don't even want
+to come back.
+Let me see
+that piece of paper.
+Sure.
+Yeah.
+Would you do 4%?
+That's the valuation,
+is 6 1/4 ??
+$6.25 million.
+$6.25 million.
+Your last investors came in
+at a $6 million cap.
+Are we seriously
+nickle?and?diming over $250,000?
+I mean ??
+?Wow.
+You're that close, and you're
+gonna show me the disrespect?
+O'Leary:
+Give him the $6 million.
+Give him the $6 million.
+[ Sighs ]
+I'll tell you what ??
+I'll tell you what,
+I'm gonna make it
+easy on you.
+I know what I bring
+to the table.
+And this is a long,
+long road ahead,
+and you've got the ruler out
+and you're measuring
+in quarters of inches right now.
+You're not looking
+at the magnitude of value
+I can bring down the road.
+And so, I'm gonna make it
+easy on you ?? I'm out.
+?Oh, oh.
+?Ouch.
+?Ooh.
+?Whoa.
+The better way
+to understand it is,
+he wanted $5 million,
+you wanted $8 million.
+It seemed that you could've
+agreed at $6 million,
+you nickle?and?dimed him
+for $6.25 million,
+which, obviously,
+he's not happy with.
+Right.
+If you did the deal
+at $6 million,
+I don't know.
+Chris, what if
+we did $6 million?
+I know that you feel offended,
+but you have to understand ??
+this isn't malevolence,
+it's ineptitude.
+[ Laughter ]
+We would love
+to work with you.
+It sends a message to me, you're
+not focused on the bigger prize.
+You're thinking about
+some of the tiny, little
+nit?picks along the way.
+You're losing him!
+You're losing him!
+You know what,
+I'm gonna jump in here
+and say that
+we would love to do...
+What are we doing?
+Can we do 4.75%?
+Oh, my gosh,
+why not just do the 5%?!
+I'm sorry.
+Let's sort of reset this.
+And we completely agree that
+having you on the Bitsbox team
+would be worth
+5% of equity to us.
+So, with the benefit
+of time and humility
+and a certain amount
+of humiliation,
+uh, what do you think,
+Scott?
+[ Sighs ]
+I mean, look, guys,
+here's the thing...
+W?Wow.
+...three, four decimal places
+matter a lot
+when you're trying to put
+a rocket on the moon.
+Mm?hmm.
+But in the early days
+of your business,
+when you're putting together
+your founding teams,
+your investors and users...
+Yeah.
+...it just shows me
+your priorities and your focus
+might be
+in the wrong place,
+that you're nitpicking
+over that stuff
+that really doesn't matter
+a hill of beans in the end.
+What do you think,
+Scott?
+[ Exhales sharply ]
+Good luck to you guys.
+I'm out.
+Should we do it?
+Should we do $5 million?
+He's out!
+Greiner: No, you guys.
+He's out.
+It's over.
+Yeah. Y?You've hesitated
+so many times.
+And by the way,
+I'm hiring Grace.
+Oh, it's over?
+We're done?
+?Yeah.
+?It's over.
+There's no more to go?
+It's over
+for the third time.
+Lininger: Okay, yeah.
+Well, thank you very much,
+Chris.
+[ Scattered groans ]
+I don't think we've ever lost
+a deal on "Shark Tank" for .25%.
+Thank you, everybody.
+Okay.
+?Thanks, guys.
+?Thanks very much.
+?Good luck, guys.
+?Thank you, Grace.
+Thank you for your time.
+She's so polite.
+Cuban:
+She's so polite.
+For .25%, they let it
+slip between their fingers.
+Bozos.
+I think
+you're pretty good.
+Yeah.
+You're doing pretty good
+on your own.
+I think we did okay.
+You don't need
+some famous person
+with a lot of money
+just to...
+[ Laughs ]
+...to keep going
+with the business, you know?
+That's right.
+I like your attitude.
+?Yeah.
+?Thank you.
+Thanks, Grace.
+You made me feel better.
+?Yeah.
+?Cool.

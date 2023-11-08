@@ -16,7 +16,7 @@ def transcript_to_pitch():
                 continue
             ep_data = data[(data['Season Number'] == s) & (data['Episode Number'] == ep)]
             entr_names = ep_data['Entrepreneur Names'].str.split(r'[, ]' or 'and').tolist()
-            prev_pitch_num = min(ep_data['Pitch Number'].tolist()) - 1
+            prev_pitch_num = min(ep_data['Pitch Number'].tolist())
             segments = [[]]
             seg_abt = [[]]
             for i in range(len(subs)):
