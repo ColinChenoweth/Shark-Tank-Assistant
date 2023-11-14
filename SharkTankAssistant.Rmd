@@ -16,6 +16,11 @@ library(plotly)
 library (ggplot2)
 library(htmlwidgets)
 library(shinyWidgets)
+```
+
+
+```{r data, echo=FALSE, include = FALSE}
+library(rsconnect)
 setwd("C:/Users/tenni/Documents/GitHub/Shark-Tank-Assistant")
 sharktankdata <- read.csv("Data/SharkTankUSdataset.csv")
 successfulpitches <- sharktankdata[complete.cases(sharktankdata$Total.Deal.Amount), ]
@@ -30,6 +35,8 @@ pie_chart_all <-plot_ly(industrysummaryall, labels = ~Industry, values = ~Count,
 pie_chart_all <- pie_chart_all %>%
   layout(title = "Pie Chart of Industries for All Proposed Pitches", showlegend = TRUE)
 pie_chart_all
+saveWidget(pie_chart_all, file ='pie_chart_all.html')
+
 ```
 
 
@@ -41,6 +48,12 @@ pie_chart_success <-plot_ly(industrysummarysuccess, labels = ~Industry, values =
 pie_chart_success <- pie_chart_success %>%
   layout(title = "Pie Chart of Industries for All Successful Pitches", showlegend = TRUE)
 pie_chart_success
+```
+```{r}
+rsconnect::setAccountInfo(name='leannb',
+			  token='919420F4AA7A89ED33E4685915E0F6E6',
+			  secret='O6x234cb+Xntl+KyFRV0TyMKLs0Mpr6mf/fY+BIe')
+rsconnect::deployApp('Shiny/my_app.R')
 ```
 
 
