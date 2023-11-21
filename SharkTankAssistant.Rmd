@@ -48,6 +48,8 @@ pie_chart_success <-plot_ly(industrysummarysuccess, labels = ~Industry, values =
 pie_chart_success <- pie_chart_success %>%
   layout(title = "Pie Chart of Industries for All Successful Pitches", showlegend = TRUE)
 pie_chart_success
+saveWidget(pie_chart_all, file ='pie_chart_success.html')
+
 ```
 ```{r}
 rsconnect::setAccountInfo(name='leannb',
