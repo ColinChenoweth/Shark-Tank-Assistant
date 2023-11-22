@@ -1,11 +1,8 @@
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.decomposition import PCA
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from util import print_metrics
-from scipy.sparse import block_diag, csr_matrix
 import pandas as pd
-import numpy as np
 import re
 
 def create_tf_matrix():
