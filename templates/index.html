@@ -2,7 +2,8 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="Style.css">
+    <!-- <link rel="stylesheet" href="Style.css"> -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='Style.css') }}">
     <title>Shark Tank Assistant</title>
     <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
@@ -22,9 +23,15 @@
         </audio>
     </div>
 
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#analyticsSection">Analytics</a>
+        <a href="{{ url_for('form') }}">Personal Pitch Assessment</a>
+    </nav>
+
     <div id="buttons">
-        <button class="scrollButton" onclick="homeFunction()" id="home" title="Go to home section">H</button>
-        <button class="scrollButton" onclick="analyticsFunction()" id="rain" title="Go to analytics section">A</button>
+        <button class="scrollButton" onclick="homeFunction()" id="home" title="Go to home section" style="margin-top:40px">H</button>
+        <button class="scrollButton" onclick="analyticsFunction()" id="rain" title="Go to analytics section" style="margin-top:40px">A</button>
     </div>
 
     <script>
@@ -32,6 +39,8 @@
 
         // When the user clicks on the button, scroll to the top of the document
         function homeFunction() {
+            var homeURL = "{{ url_for('home') }}";
+            window.location.href = homeURL + "#home";
             document.body.scrollTop = 0;
             document.documentElement.scrollTop = 0;
         }
@@ -40,13 +49,15 @@
         function analyticsFunction() {
             // document.body.scrollTop = 1000;
             // document.documentElement.scrollTop = 1000;
-            document.getElementById('analyticsSection').scrollIntoView();
+            var homeURL = "{{ url_for('home') }}";
+            window.location.href = homeURL + "#analyticsSection";
+            //document.getElementById('analyticsSection').scrollIntoView();
         }
     </script>
 
 
 
-    <div class="simg1">
+    <div id="home" class="simg1">
         <div class="ptext">
             <span class="border">
                 Shark Tank Assistant
@@ -62,9 +73,9 @@
             <i>"We're here to help you succeed on Shark Tank and similar shows worldwide. Whether you're a budding entrepreneur or an experienced shark, our application empowers you with valuable insights.
                 "</i>
         </p>
-        <iframe src="pie_chart_all.html" width="800" height="600"></iframe>
+        <iframe src="{{ url_for('static', filename='pie_chart_all.html') }}" width="800" height="600"></iframe>
         <p class="custom-font">This pie chart shows the percentage of pitches in each industry.</p>
-        <iframe src="pie_chart_success.html" width="800" height="600"></iframe>
+        <iframe src="{{ url_for('static', filename='pie_chart_success.html') }}" width="800" height="600"></iframe>
         <p class="custom-font">This pie chart shows the percentage of pitches in each industry that accepted an offer.</p>
         <iframe src="http://127.0.0.1:1234" width="800" height="600"></iframe>
         <p class="custom-font">This interactive app allows you to select an industry and what data you want to look at.</p>
