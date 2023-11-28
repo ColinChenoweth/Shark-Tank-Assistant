@@ -3,9 +3,8 @@ library(plotly)
 library(ggplot2)
 
 
-sharktankdata <- read.csv("C:/Users/tenni/Documents/GitHub/Shark-Tank-Assistant/Data/SharkTankUSdataset.csv")
-successfulpitches <- sharktankdata[complete.cases(sharktankdata$Total.Deal.Amount), ]
 sharktankdata <- read.csv("Data/SharkTankUSdataset.csv")
+successfulpitches <- sharktankdata[complete.cases(sharktankdata$Total.Deal.Amount), ]
 
 
 
