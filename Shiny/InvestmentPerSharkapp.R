@@ -6,7 +6,7 @@ library(readr)
 library(gridExtra)
 
 # Read your dataset
-sharktank_data <- read_csv("~/Downloads/SharkTankUSdataset.csv")
+sharktank_data <- read_csv("Data/SharkTankUSdataset.csv")
 
 # Define UI for application
 ui <- fluidPage(
