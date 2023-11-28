@@ -8,7 +8,7 @@ def get_data():
     df = pd.read_csv("Data/SharkTankUSdataset.csv")
     
     new_metrics_df = pd.read_csv("Data/new_metrics/pitch_data.csv")
-    df = pd.merge(df, new_metrics_df, on='ID')
+    df = pd.merge(df, new_metrics_df, on='Pitch Number')
 
     # Define the feature columns including the new ones
     feature_columns = ['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State',
