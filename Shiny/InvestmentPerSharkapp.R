@@ -216,4 +216,4 @@ server <- function(input, output) {
 
 
 # Run the Shiny app
-shinyApp(ui, server)
+shinyApp(ui = ui, server = server,options = list(port = 4321))
