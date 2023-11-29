@@ -38,16 +38,18 @@ def get_data():
     top_words_df.fillna(0, inplace=True)        
 
     df = pd.merge(df, new_metrics_df, on='Pitch Number')
-    df = pd.merge(df, top_words_df, left_on='Pitch Number', right_index=True)
 
     # Define the feature columns including the new ones
-    feature_columns = ['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State',
+    feature_columns = ['Pitch Number', 'Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State',
                        'Pitchers Average Age', 'US Viewership', 'Original Ask Amount',
                        'Original Offered Equity', 'Valuation Requested', 'Total Sales/Revenue', 'Profitable', 'Got Deal']
 
     df_filtered = df[feature_columns]
-    df_filtered = pd.get_dummies(df_filtered, columns=['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State', 'Pitchers Average Age', 'Profitable'], 
-                                 prefix=['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State', 'Pitchers Average Age', 'Profitable'])
+
+    df_filtered = pd.merge(df_filtered, top_words_df, left_on='Pitch Number', right_index=True)
+    df_filtered = df_filtered.drop('Pitch Number', axis=1)
+    df_filtered = pd.get_dummies(df_filtered, columns=['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State', 'Pitchers Average Age'], 
+                                 prefix=['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State', 'Pitchers Average Age'])
 
     X = df_filtered.drop('Got Deal', axis=1)
     y = df_filtered['Got Deal']
