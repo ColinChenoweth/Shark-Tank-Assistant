@@ -1,7 +1,7 @@
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
-from util import print_metrics
+# from util import print_metrics
 import pandas as pd
 import re
 
@@ -95,7 +95,7 @@ def create_tf_matrix():
     return dense_tfs, p_used, words
 
 
-def feature_stuff(category, pitch_numbers, words):
+def get_top_words(category, pitch_numbers, words):
     df = pd.read_csv("Data/SharkTankUSdataset.csv")
     tf_df = pd.DataFrame(category, columns=words, index=pitch_numbers)
     
@@ -113,8 +113,8 @@ def feature_stuff(category, pitch_numbers, words):
 
     logreg = LogisticRegression() 
     logreg.fit(x_train, y_train)
-    y_preds = logreg.predict(x_test)
-    print_metrics(y_preds, y_test)
+    # y_preds = logreg.predict(x_test)
+    # print_metrics(y_preds, y_test)
 
     coefs = logreg.coef_[0][-len(words):]
 
@@ -126,8 +126,7 @@ def feature_stuff(category, pitch_numbers, words):
 
     n = 10
     top_n_words = significant_words[:n]
-
-    print("Top ", n, " significant words: ", top_n_words)
+    return top_n_words, n
     
 
 def save_as_csv(tfs, p_used, words):
@@ -154,16 +153,18 @@ def save_as_csv(tfs, p_used, words):
     dfs[12].to_csv('Data/Word_Frequency/Green_Clean_Tech.csv')
     dfs[13].to_csv('Data/Word_Frequency/Travel.csv')
     dfs[14].to_csv('Data/Word_Frequency/Liquor_Alcohol.csv')
-    dfs[4].to_csv('Data/Word_Frequency/Uncertain_Other.csv')
+    dfs[15].to_csv('Data/Word_Frequency/Uncertain_Other.csv')
 
 
 def main():
     pitches = ["health", "food", "bus", "home", "tech", "child", "auto", "fash", "media", "fit", "pet", "electronics", "green", "travel", "alc", "other"]
     tfs, pitches_used, words = create_tf_matrix()
+    # save_as_csv(tfs, pitches_used, words)
     for i in range(len(tfs)):
         print("category: ", pitches[i])
         print("total pitches: ", len(pitches_used[i]))
-        feature_stuff(tfs[i], pitches_used[i], words[i])
+        top_n_words, n = get_top_words(tfs[i], pitches_used[i], words[i])
+        print("Top ", n, " significant words: ", top_n_words)
         print()
 
 if __name__ == "__main__":
