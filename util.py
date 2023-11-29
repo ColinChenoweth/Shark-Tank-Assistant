@@ -3,6 +3,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, f1_score
 from word_analysis import get_top_words, create_tf_matrix
+from sklearn.linear_model import LogisticRegression 
+
 
 def get_data():
     # Read the original dataset
@@ -40,22 +42,37 @@ def get_data():
     df = pd.merge(df, new_metrics_df, on='Pitch Number')
 
     # Define the feature columns including the new ones
-    feature_columns = ['Pitch Number', 'Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State',
-                       'Pitchers Average Age', 'US Viewership', 'Original Ask Amount',
+    feature_columns = ['Pitch Number', 'Industry', 'Pitchers Gender', 'Pitchers State', 'Pitchers Average Age', 'Original Ask Amount',
                        'Original Offered Equity', 'Valuation Requested', 'Total Sales/Revenue', 'Profitable', 'Got Deal']
+    # feature_columns = ['Pitch Number', 'Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State',
+    #                    'Pitchers Average Age', 'US Viewership', 'Original Ask Amount',
+    #                    'Original Offered Equity', 'Valuation Requested', 'Total Sales/Revenue', 'Profitable', 'Got Deal']
+    
 
     df_filtered = df[feature_columns]
 
     df_filtered = pd.merge(df_filtered, top_words_df, left_on='Pitch Number', right_index=True)
     df_filtered = df_filtered.drop('Pitch Number', axis=1)
-    df_filtered = pd.get_dummies(df_filtered, columns=['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State', 'Pitchers Average Age'], 
-                                 prefix=['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State', 'Pitchers Average Age'])
+    df_filtered = pd.get_dummies(df_filtered, columns=['Industry', 'Pitchers Gender', 'Pitchers State', 'Pitchers Average Age'], 
+                                 prefix=['Industry', 'Pitchers Gender', 'Pitchers State', 'Pitchers Average Age'])
+    # df_filtered = pd.get_dummies(df_filtered, columns=['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State', 'Pitchers Average Age'], 
+                                #  prefix=['Industry', 'Pitchers Gender', 'Pitchers City', 'Pitchers State', 'Pitchers Average Age'])
 
     X = df_filtered.drop('Got Deal', axis=1)
     y = df_filtered['Got Deal']
-    x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, shuffle=True)
 
+    return X, y
+
+def get_train_test():
+    X, y = get_data()
+    x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, shuffle=True)
     return x_train, y_train, x_test, y_test
+
+def log_reg_model():
+    x, y = get_data()
+    clf = LogisticRegression()
+    clf = clf.fit(x, y)
+    return clf
 
 def print_metrics(y_pred, y_true, return_metrics=False):
     acc = accuracy_score(y_true, y_pred)
