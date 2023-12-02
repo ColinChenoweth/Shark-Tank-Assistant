@@ -33,7 +33,7 @@ industrysummaryall <- sharktankdata %>%
   summarize(Count =n())
 pie_chart_all <-plot_ly(industrysummaryall, labels = ~Industry, values = ~Count, type = "pie", textinfo = "label+percent", marker = list(line = list(color = "white", width = 2)))
 pie_chart_all <- pie_chart_all %>%
-  layout(title = "Pie Chart of Industries for All Proposed Pitches", showlegend = TRUE)
+  layout(title = "Pie Chart of Industries for All Proposed Pitches", showlegend = FALSE)
 pie_chart_all
 saveWidget(pie_chart_all, file ='pie_chart_all.html')
 
@@ -46,7 +46,7 @@ industrysummarysuccess <- successfulpitches %>%
   summarize(Count =n())
 pie_chart_success <-plot_ly(industrysummarysuccess, labels = ~Industry, values = ~Count, type = "pie", textinfo = "label+percent", marker = list(line = list(color = "white", width = 2)))
 pie_chart_success <- pie_chart_success %>%
-  layout(title = "Pie Chart of Industries for All Successful Pitches", showlegend = TRUE)
+  layout(title = "Pie Chart of Industries for All Successful Pitches", showlegend = FALSE)
 pie_chart_success
 saveWidget(pie_chart_all, file ='pie_chart_success.html')
 
