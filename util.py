@@ -6,7 +6,7 @@ from word_analysis import get_top_words, create_tf_matrix
 from sklearn.linear_model import LogisticRegression 
 
 
-def get_data():
+def get_data(return_pitches = False):
     # Read the original dataset
     df = pd.read_csv("Data/SharkTankUSdataset.csv")
     
@@ -52,6 +52,7 @@ def get_data():
     df_filtered = df[feature_columns]
 
     df_filtered = pd.merge(df_filtered, top_words_df, left_on='Pitch Number', right_index=True)
+    pitches_used_flat = df_filtered['Pitch Number'].tolist()
     df_filtered = df_filtered.drop('Pitch Number', axis=1)
     df_filtered = pd.get_dummies(df_filtered, columns=['Industry', 'Pitchers Gender', 'Pitchers State', 'Pitchers Average Age'], 
                                  prefix=['Industry', 'Pitchers Gender', 'Pitchers State', 'Pitchers Average Age'])
@@ -60,6 +61,9 @@ def get_data():
 
     X = df_filtered.drop('Got Deal', axis=1)
     y = df_filtered['Got Deal']
+
+    if return_pitches: 
+        return X, y, pitches_used_flat
 
     return X, y
 
