@@ -138,11 +138,18 @@ def form():
     #    'Pitchers Average Age_Middle', 'Pitchers Average Age_Old',
     #    'Pitchers Average Age_Young']
 
-        deal_pred = clf.predict(np.array(data).reshape(1,-1))
-        if deal_pred == 1:
-            output = "Yes Deal"
+        deal_pred = clf.predict_proba(np.array(data).reshape(1,-1))
+        if deal_pred[0,0] < 0.5:
+            output = ("Congratulations!! According to our model there is a high chance of getting a deal from one of the Sharks. " +
+                      "It never hurts to keep imporving sales, however. Keep up the great work!")
         else:
-            output = "No Deal"
+            output = ("Unfortunatly, according to our model there is a low chance of your current deal getting accepted from one of the Sharks. " +
+                      "We would suggest imporving your sales and/or asking for less from the sharks. It might even help to try changing up your pitch a little bit. " + 
+                      "You got this!")
+        # else:
+        #     output = (f"This is a close one. According ot our model there is near a 50 precent chance of one of the sharks accepting your deal. " +
+        #              "We would suggest imporving your sales and/or decreasing your asking amount for less from the sharks. It might even help to try changing up your pitch a little bit." +
+        #               "Just some small changes can go a long way!")
 
         return render_template('results.html', output=output)
 
