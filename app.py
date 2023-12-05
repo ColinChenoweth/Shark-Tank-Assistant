@@ -1,14 +1,13 @@
 from flask import Flask, render_template, url_for, request
-from sklearn.ensemble import GradientBoostingClassifier
 from util import log_reg_model
 from collections import Counter
 import string
-import pandas as pd 
+import numpy as np
 import subprocess
 import os
 
 app = Flask(__name__, template_folder='templates')
-clf = GradientBoostingClassifier()
+clf = log_reg_model()
 
 @app.route('/')
 def index():
@@ -21,8 +20,6 @@ def index():
     subprocess.run(["Rscript", r_script_path1])
     # subprocess.run(["C:\\Program Files\\R\\R-4.3.2\\bin\\Rscript.exe", r_script_path])
     # subprocess.run(["C:\\Program Files\\R\\R-4.3.2\\bin\\Rscript.exe", r_script_path1])
-
-    clf = log_reg_model()
 
     # Render the HTML template that includes the graph
     return render_template('index.html')
@@ -141,8 +138,11 @@ def form():
     #    'Pitchers Average Age_Middle', 'Pitchers Average Age_Old',
     #    'Pitchers Average Age_Young']
 
-        clf.predict(data)
-        output = "THIS IS MY PREDICTION"
+        deal_pred = clf.predict(np.array(data).reshape(1,-1))
+        if deal_pred == 1:
+            output = "Yes Deal"
+        else:
+            output = "No Deal"
 
         return render_template('results.html', output=output)
 
