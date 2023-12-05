@@ -16,10 +16,10 @@ def index():
     r_script_path1 = os.path.join('Shiny', 'InvestmentPerSharkapp.R')
 
     # Run the R script
-    subprocess.run(["Rscript", r_script_path])
-    subprocess.run(["Rscript", r_script_path1])
-    # subprocess.run(["C:\\Program Files\\R\\R-4.3.2\\bin\\Rscript.exe", r_script_path])
-    # subprocess.run(["C:\\Program Files\\R\\R-4.3.2\\bin\\Rscript.exe", r_script_path1])
+    # subprocess.run(["Rscript", r_script_path])
+    # subprocess.run(["Rscript", r_script_path1])
+    subprocess.run(["C:\\Program Files\\R\\R-4.2.2\\bin\\Rscript.exe", r_script_path])
+    subprocess.run(["C:\\Program Files\\R\\R-4.2.2\\bin\\Rscript.exe", r_script_path1])
 
     # Render the HTML template that includes the graph
     return render_template('index.html')
@@ -141,10 +141,10 @@ def form():
         deal_pred = clf.predict_proba(np.array(data).reshape(1,-1))
         if deal_pred[0,0] < 0.5:
             output = ("Congratulations!! According to our model there is a high chance of getting a deal from one of the Sharks. " +
-                      "It never hurts to keep imporving sales, however. Keep up the great work!")
+                      "It never hurts to keep improving sales, however. Keep up the great work!")
         else:
             output = ("Unfortunately, according to our model there is a low chance of your current deal getting accepted from one of the Sharks. " +
-                      "We would suggest imporving your sales and/or asking for less from the sharks. It might even help to try changing up your pitch a little bit. " + 
+                      "We would suggest improving your sales and/or asking for less from the sharks. It might even help to try changing up your pitch a little bit. " + 
                       "You got this!")
         # else:
         #     output = (f"This is a close one. According ot our model there is near a 50 precent chance of one of the sharks accepting your deal. " +
