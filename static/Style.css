@@ -17,7 +17,7 @@ body {
   border-radius: 50%;
 
   position: fixed;
-  top: 20px;
+  top: 300px;
   left: 20px;
   z-index: 99;
   font-size: 18px;
@@ -33,7 +33,7 @@ body {
 }
 
 #rain {
-  top: 80px;
+  top: 360px;
 }
 
 
