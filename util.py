@@ -18,25 +18,41 @@ def get_data(return_pitches = False):
                   "Software_Tech", "Children_Education", "Automative", "Fashion_Beauty",
                   "Media_Entertainment", "Fitness_Sports_Outdoors", "Pet_Products",
                   "Electronics", "Green_Clean_Tech", "Travel", "Liquor_Alcohol", "Uncertain_Other"]
-    tfs, pitches_used, words = create_tf_matrix()
-    industry_dfs = []
+    # tfs, pitches_used, words = create_tf_matrix()
+    # industry_dfs = []
     top_words_df = -1
-    top_words = []
+    top_words = [['want', 'money', 'product', 'work', 'year', 'great', 'good', 'business', 'job', 'skin'],
+                 ['want', 'guys', 'business', 'company', 'sharks', 'great', 'equity', 'need', 'food', 'take'],
+                 ['money', 'santa', 'year', 'people', 'funeral', 'yep', 'valuation', 'business', 'book', 'idea'],
+                 ['want', 'product', 'company', 'see', 'great', 'need', 'take', 'guys', 'million', 'sales'],
+                 ['great', 'product', 'sell', 'phone', 'good', 'app', 'see', 'want', 'could', 'equity'],
+                 ['want', 'baby', 'see', 'back', 'say', 'company', 'work', 'take', 'could', 'great'],
+                 ['car', 'truck', 'guys', 'sell', 'rack', 'point', 'need', 'believe', 'guy', 'actually'],
+                 ['want', 'guys', 'sharks', 'product', 'need', 'take', 'great', 'come', 'wait', 'time'],
+                 ['potato', 'want', 'guys', 'something', 'people', 'good', 'take', 'vegas', 'way', 'sales'],
+                 ['guys', 'want', 'people', 'sharks', 'company', 'great', 'need', 'year', 'good', 'work'],
+                 ['cat', 'pet', 'want', 'sales', 'dog', 'online', 'equity', 'box', 'made', 'feel'],
+                 ['want', 'light', 'guys', 'product', 'million', 'tell', 'company', 'bulb', 'back', 'royalty'],
+                 ['want', 'something', 'sell', 'good', 'million', 'tree', 'sales', 'thing', 'look', 'wait'],
+                 ['filter', 'rusty', 'money', 'business', 'mattress', 'luggage', 'problem', 'clothes', 'people', 'air'],
+                 ['beer', 'million', 'good', 'great', 'cheers', 'cold', 'sharks', 'need', 'shark', 'bottle'],
+                 ['guys', 'drew', 'people', 'sharks', 'toy', 'nophone', 'phones', 'talk', 'company', 'something']]
+    cur_top_words = []
     for idx, industry in enumerate(industries):
         temp_df = pd.read_csv("Data/Word_Frequency/" + industry + ".csv")
-        top_n_words, n = get_top_words(tfs[idx], pitches_used[idx], words[idx])
-        top_words = top_words + top_n_words
-        top_words = np.unique(np.array(top_words)).tolist()
+        # top_n_words, n = get_top_words(tfs[idx], pitches_used[idx], words[idx])
+        # top_words = top_words + top_n_words
+        cur_top_words = np.unique(np.array(cur_top_words + top_words[idx])).tolist()
         if type(top_words_df) is int:
             top_words_df = temp_df.copy()
         else:
             top_words_df = pd.concat([top_words_df, temp_df], ignore_index=True)
             try:
-                top_words_df = top_words_df[top_words]
+                top_words_df = top_words_df[cur_top_words]
             except:
                 pass
     
-    top_words_df = top_words_df[top_words]
+    top_words_df = top_words_df[cur_top_words]
     top_words_df.fillna(0, inplace=True)        
 
     df = pd.merge(df, new_metrics_df, on='Pitch Number')
@@ -52,7 +68,9 @@ def get_data(return_pitches = False):
     df_filtered = df[feature_columns]
 
     df_filtered = pd.merge(df_filtered, top_words_df, left_on='Pitch Number', right_index=True)
+
     pitches_used_flat = df_filtered['Pitch Number'].tolist()
+
     df_filtered = df_filtered.drop('Pitch Number', axis=1)
     df_filtered = pd.get_dummies(df_filtered, columns=['Industry', 'Pitchers Gender', 'Pitchers State', 'Pitchers Average Age'], 
                                  prefix=['Industry', 'Pitchers Gender', 'Pitchers State', 'Pitchers Average Age'])
