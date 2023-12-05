@@ -48,7 +48,6 @@ audio {
 .simg1,
 .simg4,
 .rimg1,
-.rimg2,
 .rimg3,
 .rimg4 {
   position: relative;
@@ -72,12 +71,6 @@ audio {
 .rimg1 {
   background-image: url('https://t4.ftcdn.net/jpg/02/62/17/49/360_F_262174953_wob2JN075TWTPTQbHNFr8AAJNM8K3Zgp.jpg');
   min-height: 100%;
-}
-
-
-.rimg2 {
-  background-image: url('https://t3.ftcdn.net/jpg/03/54/00/74/360_F_354007466_mm4QilA3n92YWPseqs82gbWxbb06R1i4.jpg');
-  min-height: 500px;
 }
 
 .rimg3 {
