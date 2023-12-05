@@ -46,8 +46,6 @@ audio {
 }
 
 .simg1,
-.simg2,
-.simg3,
 .simg4,
 .rimg1,
 .rimg2,
@@ -64,16 +62,6 @@ audio {
 .simg1 {
   background-image: url('https://images.unsplash.com/photo-1593544737805-4ec50543564b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80');
   min-height: 100%;
-}
-
-.simg2 {
-  background-image: url('https://images.unsplash.com/photo-1560275619-4662e36fa65c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2hhcmslMjB0YW5rfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60');
-  min-height: 500px;
-}
-
-.simg3 {
-  background-image: url('https://images.unsplash.com/photo-1556327823-18e5ff0bf953?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNoYXJrJTIwdGFua3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60');
-  min-height: 500px;
 }
 
 .simg4 {
@@ -239,7 +227,7 @@ textarea {
 }
 
 input[type="submit"] {
-  background-color: #4caf50;
+  background-color: #569c5a;
   color: white;
   padding: 10px 15px;
   border: none;
@@ -248,7 +236,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  background-color: #45a049;
+  background-color: #569c5a;
 }
 
 
