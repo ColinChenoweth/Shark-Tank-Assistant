@@ -84,19 +84,19 @@ audio {
 }
 
 .section-shark {
-  background: linear-gradient(to bottom, rgb(137, 186, 238) 0%, rgb(88, 158, 233) 100%);
+  background: linear-gradient(to bottom, rgb(182, 208, 235) 0%, rgb(148, 187, 228) 100%);
   background-repeat: no-repeat;
-  color: rgb(102, 102, 119);
+  color: rgb(0, 0, 0);
 }
 
 .section-divider {
-  background: rgb(90, 90, 90);
+  background: rgb(148, 187, 228);
 }
 
 .section-analytics {
-  background-image: linear-gradient(to top, rgb(137, 186, 238) 0%, rgb(88, 158, 233) 100%);
+  background-image: linear-gradient(to top, rgb(148, 187, 228) 0%, rgb(182, 208, 235) 100%);
   background-repeat: no-repeat;
-  color: rgb(102, 102, 119);
+  color: rgb(0, 0, 0);
 }
 
 
