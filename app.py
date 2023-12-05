@@ -142,8 +142,9 @@ def form():
     #    'Pitchers Average Age_Young']
 
         clf.predict(data)
+        output = "THIS IS MY PREDICTION"
 
-        return redirect('home')
+        return render_template('results.html', output=output)
 
     return render_template('form.html')
 

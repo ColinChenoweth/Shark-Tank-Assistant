@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='Style.css') }}">
+    <!-- <link rel="stylesheet" href="Style.css"> -->
+    <title>Form</title>
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+    <style>
+        .custom-font {
+          font-family: Arial, sans-serif;
+          font-size: 12px;
+          /* Add other font-related styles if needed */
+        }
+      </style>
+</head>
+<body>
+    <nav>
+        <a onclick="homeFunction()">Home</a>
+        <a onclick="analyticsFunction()">Analytics</a>
+        <a href="{{ url_for('form') }}">Personal Pitch Assessment</a>
+    </nav>
+
+    <div id="buttons">
+        <button class="scrollButton" onclick="homeFunction()" id="home" title="Go to home section" style="margin-top:40px">H</button>
+        <button class="scrollButton" onclick="analyticsFunction()" id="rain" title="Go to analytics section" style="margin-top:40px">A</button>
+    </div>
+
+    <script>
+        document.getElementById("shark").style.display = "block";
+
+        // When the user clicks on the button, scroll to the top of the document
+        function homeFunction() {
+            var homeURL = "{{ url_for('home') }}";
+            window.location.href = homeURL + "#home";
+        }
+
+        // When the user clicks on the button, scroll to the rain page of the document
+        function analyticsFunction() {
+            // document.body.scrollTop = 1000;
+            // document.documentElement.scrollTop = 1000;
+            var homeURL = "{{ url_for('home') }}";
+            window.location.href = homeURL + "#analyticsSection";
+            //document.getElementById('analyticsSection').scrollIntoView();
+        }
+    </script>
+    <div class="titleform" >
+            <span class="border">
+                Personlized Prediction Results
+            </span>
+    </div>
+</div>
+    <div>
+        <h1>Output:</h1>
+        <div id="output-container">
+            {{ output|safe }}
+        </div>
+    </div>
+</body>
+</html>
+
