@@ -143,7 +143,7 @@ def form():
             output = ("Congratulations!! According to our model there is a high chance of getting a deal from one of the Sharks. " +
                       "It never hurts to keep imporving sales, however. Keep up the great work!")
         else:
-            output = ("Unfortunatly, according to our model there is a low chance of your current deal getting accepted from one of the Sharks. " +
+            output = ("Unfortunately, according to our model there is a low chance of your current deal getting accepted from one of the Sharks. " +
                       "We would suggest imporving your sales and/or asking for less from the sharks. It might even help to try changing up your pitch a little bit. " + 
                       "You got this!")
         # else:
