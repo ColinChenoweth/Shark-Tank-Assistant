@@ -57,20 +57,87 @@
             <div class="form-card">
                 <h2>Pitcher Information</h2>
                 <label for="industry">Industry:</label>
-                <input type="text" id="industry" name="industry" required>
+                <select id="industry" name="industry" required>
+                    <option value="Automotive">Automotive</option>
+                    <option value="Business Services">Business Services</option>
+                    <option value="Children/Education">Children/Education</option>
+                    <option value="Electronics">Electronics</option>
+                    <option value="Fashion/Beauty">Fashion/Beauty</option>
+                    <option value="Fitness/Sports/Outdoors">Fitness/Sports/Outdoors</option>
+                    <option value="Food and Beverage">Food and Beverage</option>
+                    <option value="Green/CleanTech">Green/CleanTech</option>
+                    <option value="Health/Wellness">Health/Wellness</option>
+                    <option value="Lifestyle/Home">Lifestyle/Home</option>
+                    <option value="Liquor/Alcohol">Liquor/Alcohol</option>
+                    <option value="Media/Entertainment">Media/Entertainment</option>
+                    <option value="Pet Products">Pet Products</option>
+                    <option value="Software/Tech">Software/Tech</option>
+                    <option value="Travel">Travel</option>
+                    <option value="Uncertain/Other">Uncertain/Other</option>
+                </select>
 
+
+                
                 <label for="pitcherGender">Pitcher Gender:</label>
                 <select id="pitcherGender" name="pitcherGender" required>
-                    <option value="male">Male</option>
-                    <option value="female">Female</option>
-                    <!-- Add more options as needed -->
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                    <option value="Mixed Team">Co-ed team</option>
                 </select>
 
                 <label for="pitcherCity">Pitcher City:</label>
                 <input type="text" id="pitcherCity" name="pitcherCity" required>
 
                 <label for="pitcherState">Pitcher State:</label>
-                <input type="text" id="pitcherState" name="pitcherState" pattern="[A-Za-z]{2}" title="Enter a valid state code" required>
+                <select id="pitcherState" name="pitcherState" required>
+                    <option value="AK">AK</option>
+                    <option value="AL">AL</option>
+                    <option value="AR">AR</option>
+                    <option value="AZ">AZ</option>
+                    <option value="CA">CA</option>
+                    <option value="CO">CO</option>
+                    <option value="CT">CT</option>
+                    <option value="Canada">Canada</option>
+                    <option value="DC">DC</option>
+                    <option value="DE">DE</option>
+                    <option value="FL">FL</option>
+                    <option value="GA">GA</option>
+                    <option value="HI">HI</option>
+                    <option value="IA">IA</option>
+                    <option value="ID">ID</option>
+                    <option value="IL">IL</option>
+                    <option value="IN">IN</option>
+                    <option value="KS">KS</option>
+                    <option value="KY">KY</option>
+                    <option value="LA">LA</option>
+                    <option value="MA">MA</option>
+                    <option value="MD">MD</option>
+                    <option value="MI">MI</option>
+                    <option value="MN">MN</option>
+                    <option value="MO">MO</option>
+                    <option value="MS">MS</option>
+                    <option value="MT">MT</option>
+                    <option value="NC">NC</option>
+                    <option value="NE">NE</option>
+                    <option value="NH">NH</option>
+                    <option value="NJ">NJ</option>
+                    <option value="NV">NV</option>
+                    <option value="NY">NY</option>
+                    <option value="OH">OH</option>
+                    <option value="OK">OK</option>
+                    <option value="OR">OR</option>
+                    <option value="PA">PA</option>
+                    <option value="RI">RI</option>
+                    <option value="SC">SC</option>
+                    <option value="TN">TN</option>
+                    <option value="TX">TX</option>
+                    <option value="UT">UT</option>
+                    <option value="VA">VA</option>
+                    <option value="VT">VT</option>
+                    <option value="WA">WA</option>
+                    <option value="WI">WI</option>
+                </select>
+
 
                 <label for="pitcherAge">Pitcher Average Age:</label>
                 <input type="number" id="pitcherAge" name="pitcherAge" min="1" required>
