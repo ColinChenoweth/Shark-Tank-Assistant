@@ -19,20 +19,13 @@ ui <- fluidPage(
       width = 3  # Adjust the width as needed
     ),
     mainPanel(
-      fluidRow(
-        column(6, plotOutput("avgInvestmentBarChart", height = 400, width = 900)),  # Adjust the height as needed
-        column(6, plotOutput("avgEquityBarChart", height = 400, width = 900))  # Adjust the height as needed
-      ),
-      fluidRow(
-        column(12, verbatimTextOutput("highestInvestment"))
-      ),
-      fluidRow(
-        column(12, plotOutput("pitchInvestmentPieChart", height = 400, width = 900))
-      )
+      plotOutput("avgInvestmentBarChart", height = 400, width = 500),  # Adjust the height and width as needed
+      verbatimTextOutput("highestInvestment"),
+      plotOutput("avgEquityBarChart", height = 400, width = 500),  # Adjust the height and width as needed
+      plotOutput("pitchInvestmentPieChart", height = 400, width = 600)  # Adjust the height and width as needed
     )
   )
 )
-
 
 # Define the server
 server <- function(input, output) {
@@ -122,7 +115,7 @@ server <- function(input, output) {
     
     
     # Create a ggplot bar plot with custom appearance for average investment
-    p1 <- ggplot(avg_investment, aes(x = Industry, y = avg_investment)) +
+    ggplot(avg_investment, aes(x = Industry, y = avg_investment)) +
       geom_bar(stat = "identity", fill = "#7FB3D5", size = 0.7) +  # Sea green color
       labs(title = paste("Average Investment by", input$Shark),
            x = "Industry",
@@ -136,12 +129,21 @@ server <- function(input, output) {
         plot.title = element_text(color = "black", size = 20, hjust = 0.5)  # Set plot title color, font size, center it, and adjust vertical justification
       ) +
       scale_y_continuous(limits = c(0, 800000), expand = c(0, 0))  # Set fixed y-axis limits without a gap
-    
-    # Output highest investment
-    output$highestInvestment <- renderText({
-      # Find the row with the highest investment for the selected shark
-      max_investment_row <- filtered_data() %>%
-        filter(
+  })
+  
+  # Output highest investment
+  output$highestInvestment <- renderText({
+    # Find the row with the highest investment for the selected shark
+    max_investment_row <- filtered_data() %>%
+      filter(
+        case_when(
+          input$Shark == "Barbara Corcoran" ~ `Barbara Corcoran Investment Amount`,
+          input$Shark == "Lori Greiner" ~ `Lori Greiner Investment Amount`,
+          input$Shark == "Mark Cuban" ~ `Mark Cuban Investment Amount`,
+          input$Shark == "Robert Herjavec" ~ `Robert Herjavec Investment Amount`,
+          input$Shark == "Daymond John" ~ `Daymond John Investment Amount`,
+          input$Shark == "Kevin O Leary" ~ `Kevin O Leary Investment Amount`
+        ) == max(
           case_when(
             input$Shark == "Barbara Corcoran" ~ `Barbara Corcoran Investment Amount`,
             input$Shark == "Lori Greiner" ~ `Lori Greiner Investment Amount`,
@@ -149,32 +151,27 @@ server <- function(input, output) {
             input$Shark == "Robert Herjavec" ~ `Robert Herjavec Investment Amount`,
             input$Shark == "Daymond John" ~ `Daymond John Investment Amount`,
             input$Shark == "Kevin O Leary" ~ `Kevin O Leary Investment Amount`
-          ) == max(
-            case_when(
-              input$Shark == "Barbara Corcoran" ~ `Barbara Corcoran Investment Amount`,
-              input$Shark == "Lori Greiner" ~ `Lori Greiner Investment Amount`,
-              input$Shark == "Mark Cuban" ~ `Mark Cuban Investment Amount`,
-              input$Shark == "Robert Herjavec" ~ `Robert Herjavec Investment Amount`,
-              input$Shark == "Daymond John" ~ `Daymond John Investment Amount`,
-              input$Shark == "Kevin O Leary" ~ `Kevin O Leary Investment Amount`
-            ),
-            na.rm = TRUE
-          )
-        ) %>%
-        slice(1)
-      
-      # Extract industry and investment amount
-      industry <- max_investment_row$Industry
-      investment <- max_investment_row[[paste(input$Shark, "Investment Amount")]]  # Use the correct column name
-      
-      # Format the investment amount
-      formatted_investment <- format(investment, big.mark = ",", scientific = FALSE)
-      
-      # Return the text
-      paste("Highest Investment by", input$Shark,": $", formatted_investment, "in", industry)
-    })
+          ),
+          na.rm = TRUE
+        )
+      ) %>%
+      slice(1)
     
+    # Extract industry and investment amount
+    industry <- max_investment_row$Industry
+    investment <- max_investment_row[[paste(input$Shark, "Investment Amount")]]  # Use the correct column name
     
+    # Format the investment amount
+    formatted_investment <- format(investment, big.mark = ",", scientific = FALSE)
+    
+    # Return the text
+    paste("Highest Investment by", input$Shark,": $", formatted_investment, "in", industry)
+  })
+  
+  # Create a ggplot bar plot with custom appearance for average equity
+  output$avgEquityBarChart <- renderPlot({
+    # Get a complete set of industries
+    all_industries <- unique(sharktank_data$Industry)
     
     # Summarize data to get average equity per industry
     avg_equity <- filtered_data() %>%
@@ -191,9 +188,8 @@ server <- function(input, output) {
     # Merge with all industries to ensure all are included
     avg_equity <- merge(data.frame(Industry = all_industries), avg_equity, all.x = TRUE)
     
-    
     # Create a ggplot bar plot with custom appearance for average equity
-    p2 <- ggplot(avg_equity, aes(x = Industry, y = avg_equity)) +
+    ggplot(avg_equity, aes(x = Industry, y = avg_equity)) +
       geom_bar(stat = "identity", fill = "#2471A3", size = 0.7) +  # Sea green color
       labs(title = paste("Average Equity by", input$Shark),
            x = "Industry",
@@ -207,13 +203,8 @@ server <- function(input, output) {
         plot.title = element_text(color = "black", size = 20, hjust = 0.5)  # Set plot title color, font size, center it, and adjust vertical justification
       ) +
       scale_y_continuous(limits = c(0, 50), expand = c(0, 0))  # Set fixed y-axis limits without a gap
-    
-    # Arrange plots side by side with smaller widths
-    grid.arrange(p1, p2, ncol = 2, widths = c(0.4, 0.4))
   })
-  
 }
 
-
 # Run the Shiny app
-shinyApp(ui = ui, server = server,options = list(port = 4321))
+shinyApp(ui = ui, server = server, options = list(port = 4321))
