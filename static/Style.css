@@ -84,17 +84,17 @@ audio {
 }
 
 .section-shark {
-  background: linear-gradient(to bottom, rgb(182, 208, 235) 0%, rgb(148, 187, 228) 100%);
+  background: rgb(137, 186, 238);
   background-repeat: no-repeat;
   color: rgb(0, 0, 0);
 }
 
 .section-divider {
-  background: rgb(148, 187, 228);
+  background: rgb(137, 186, 238);
 }
 
 .section-analytics {
-  background-image: linear-gradient(to top, rgb(148, 187, 228) 0%, rgb(182, 208, 235) 100%);
+  background-image: rgb(137, 186, 238);
   background-repeat: no-repeat;
   color: rgb(0, 0, 0);
 }
@@ -102,7 +102,7 @@ audio {
 
 .ptext {
   position: absolute;
-  top: 50%;
+  top: 30%;
   width: 100%;
   text-align: center;
   color: #000;
@@ -163,14 +163,14 @@ nav a:hover {
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #e3e3e3;
+  background-color: rgb(137, 186, 238);
   margin: 0;
   padding: 0;
 }
 
 form {
   margin: 20px auto;
-  background-color: #fff;
+  background-color:rgb(137, 186, 238);
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -183,7 +183,6 @@ form {
   flex-wrap: wrap;
   /* Enable wrapping to stack items */
   justify-content: space-between;
-
 }
 
 .form-card {
@@ -238,4 +237,9 @@ input[type="submit"]:hover {
     flex-basis: 100%;
     /* Each card takes 100% width on smaller screens */
   }
+}
+
+.form-title{
+  background-color:rgb(137, 186, 238);
+  min-height: 25%;
 }
